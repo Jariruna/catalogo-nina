@@ -1,0 +1,652 @@
+/* ==========================================
+   ESTILOS DE LA PORTADA
+   ========================================== */
+.cover-page {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: center;
+  text-align: center;
+  background-color: var(--color-orange) !important;
+  color: var(--color-white);
+}
+
+.cover-content {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  flex-grow: 1;
+  width: 100%;
+}
+
+/* --- LOGO DE LA PORTADA --- */
+.cover-logo-wrapper {
+  width: 420px;
+  max-width: 90%;
+  height: 180px;
+  margin-bottom: 24px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.cover-logo-wrapper img,
+.cover-logo-wrapper svg {
+  width: 100%;
+  height: 100%;
+  object-fit: contain;
+  transform: scale(3.25);
+}
+
+.cover-title {
+  font-size: 2.4rem;
+  font-weight: 900;
+  color: var(--color-white);
+  text-transform: uppercase;
+  letter-spacing: 1px;
+}
+
+.cover-subtitle {
+  font-size: 1.1rem;
+  color: var(--color-black);
+  font-weight: 800;
+  margin-top: 8px;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+}
+
+/* Footer de Portada */
+.cover-footer {
+  width: 100%;
+  border-top: 2px solid rgba(255, 255, 255, 0.4);
+  padding-top: 12px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.whatsapp-contact {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  font-size: 1.05rem;
+  font-weight: 700;
+  color: var(--color-white);
+}
+
+.whatsapp-contact i {
+  font-size: 1.3rem;
+  color: #25D366; /* Verde Oficial WhatsApp */
+}
+
+/* ==========================================
+   PÁGINA DIVISORA DE MARCAS
+   ========================================== */
+.brand-divider-page {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: center;
+  background-color: var(--color-white);
+  padding: 12mm 12mm 8mm 12mm;
+}
+
+.brand-divider-header {
+  width: 100%;
+  text-align: center;
+  padding-bottom: 8px;
+  border-bottom: 3px solid var(--color-orange);
+}
+
+.brand-divider-title {
+  font-size: 2.2rem;
+  font-weight: 900;
+  color: var(--color-black);
+  text-transform: uppercase;
+  letter-spacing: 1.5px;
+}
+
+.brand-divider-subtitle {
+  font-size: 1rem;
+  color: var(--color-orange);
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+}
+
+/* Contenedor de Imágenes Destacadas */
+.brand-divider-body {
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+  width: 100%;
+  flex-grow: 1;
+  justify-content: center;
+  align-items: center;
+  margin: 15px 0;
+  background-color: #E5E4E2;
+}
+
+.brand-banner-box {
+  width: 100%;
+  max-height: 350px;
+  border-radius: 8px;
+  overflow: hidden;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 16px;
+}
+
+.brand-banner-box img {
+  max-width: 100%;
+  max-height: 100%;
+  width: auto;
+  height: auto;
+  object-fit: contain;
+  display: block;
+}
+
+.brand-hero-box {
+  width: 100%;
+  flex-grow: 1;
+  max-height: 480px;
+  border-radius: 8px;
+  overflow: hidden;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.brand-hero-box img {
+  width: 100%;
+  height: 100%;
+  object-fit: contain;
+  display: block;
+}
+
+/* ==========================================
+   HEADER DE PÁGINA
+   ========================================== */
+.page-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  border-bottom: 3px solid var(--color-orange);
+  padding-bottom: 6px;
+  flex-shrink: 0;
+  height: 40px;
+}
+
+.brand-area {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+
+.brand-logo-box {
+  width: 90px;
+  height: 42px;
+  background-color: var(--color-orange);
+  border: none;
+  border-radius: 6px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 4px 6px;
+  overflow: hidden;
+}
+
+.brand-logo-box img,
+.brand-logo-box svg {
+  width: 100%;
+  height: 100%;
+  object-fit: contain;
+  transform: scale(2.9);
+}
+
+.brand-title h1 {
+  font-size: 1.1rem;
+  font-weight: 900;
+  color: var(--color-black);
+  line-height: 1;
+}
+
+.brand-title span {
+  font-size: 0.6rem;
+  color: var(--color-blue);
+  font-weight: 700;
+  letter-spacing: 1px;
+}
+
+.header-tag {
+  background-color: var(--color-black);
+  color: var(--color-white);
+  font-size: 0.65rem;
+  font-weight: 700;
+  padding: 3px 8px;
+  border-radius: 4px;
+  text-transform: uppercase;
+}
+
+/* ==========================================
+   LAYOUT Y TARJETAS 4x1 UNIFORME Y PROPORCIONAL
+   ========================================== */
+.product-grid-4x1 {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start; /* Alinea los productos arriba, dejando el espacio sobrante libre abajo */
+  flex: 1 1 auto;
+  margin: 8px 0;
+  gap: 8px; /* Separación fija entre tarjetas */
+  overflow: hidden;
+}
+
+.card {
+  border: 1px solid var(--color-border);
+  border-radius: 6px;
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  background: var(--color-white);
+  /* Calcula la cuarta parte exacta del contenedor descontando los 3 gaps de 8px */
+  height: calc((100% - 24px) / 4); 
+  max-height: calc((100% - 24px) / 4);
+  min-height: calc((100% - 24px) / 4);
+  box-sizing: border-box;
+}
+
+/* Inversión horizontal alternada */
+.card.card-reverse {
+  flex-direction: row-reverse;
+}
+
+.card.card-reverse .card-img-wrapper {
+  border-right: none;
+  border-left: 1px solid var(--color-border);
+}
+
+/* Contenedor de Imagen */
+.card-img-wrapper {
+  width: 150px;
+  height: 100%;
+  background-color: var(--color-bg-grey);
+  flex-shrink: 0;
+  border-right: 1px solid var(--color-border);
+  overflow: hidden;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 6px;
+  box-sizing: border-box;
+}
+
+.card-img-wrapper img {
+  max-width: 100%;
+  max-height: 100%;
+  width: auto;
+  height: auto;
+  object-fit: contain;
+  display: block;
+}
+
+/* Cuerpo de la tarjeta */
+.card-body {
+  padding: 6px 12px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  flex: 1;
+  overflow: hidden;
+}
+
+.badge {
+  display: inline-block;
+  background-color: var(--color-orange);
+  color: var(--color-white);
+  font-size: 0.55rem;
+  font-weight: 700;
+  padding: 1px 6px;
+  border-radius: 3px;
+  text-transform: uppercase;
+  margin-bottom: 2px;
+  align-self: flex-start;
+}
+
+.badge-blue {
+  background-color: var(--color-blue);
+}
+
+.card-title {
+  font-size: 0.88rem;
+  font-weight: 800;
+  color: var(--color-black);
+  margin-bottom: 2px;
+  line-height: 1.1;
+}
+
+.card-code {
+  font-size: 1.5rem;
+  color: var(--color-black);
+  font-weight: 700;
+  margin-bottom: 3px;
+}
+
+.card-code span {
+  color: var(--color-blue);
+}
+
+/* Detalle / Descripción */
+.card-detail-row {
+  display: flex;
+  margin: 2px 0;
+  flex-grow: 1;
+}
+
+.card-description {
+  font-size: 0.7rem;
+  color: #555;
+  line-height: 1.2;
+  width: 100%;
+}
+
+.description-list {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  width: 100%;
+}
+
+.description-list li {
+  position: relative;
+  padding-left: 12px;
+  font-size: 0.7rem;
+  font-weight: 700;
+  color: var(--color-black);
+  line-height: 1.18;
+  margin-bottom: 1px;
+}
+
+.description-list li::before {
+  content: "➤";
+  position: absolute;
+  left: 0;
+  top: 0;
+  font-size: 0.55rem;
+  color: var(--color-black);
+}
+
+/* Grilla de atributos en 2 columnas */
+.card-info-grid {
+  font-size: 0.68rem;
+  color: #444;
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 2px 6px;
+  background-color: var(--color-bg-grey);
+  padding: 4px 8px;
+  border-radius: 4px;
+  margin-top: 2px;
+}
+
+.card-info-grid strong {
+  color: var(--color-black);
+}
+
+/* ==========================================
+   PIE DE PÁGINA (ANCLADO AL FINAL)
+   ========================================== */
+.page-footer {
+  border-top: 2px solid var(--color-blue);
+  padding-top: 4px;
+  margin-top: auto; /* Empuja el footer al fondo si queda espacio */
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  font-size: 0.65rem;
+  color: #666;
+  font-weight: 600;
+  flex-shrink: 0; /* Impide que el footer se reduzca o se oculte */
+  height: 18px;
+}
+
+/* ==========================================
+   ESTILOS PARA PRODUCTOS AGOTADOS / SELLO
+   ========================================== */
+.card {
+  position: relative; /* Requerido para posicionar el sello de forma absoluta */
+}
+
+.card.is-out-of-stock {
+  border-color: #fca5a5;
+}
+
+/* Atenúa ligeramente la imagen del producto agotado */
+.card.is-out-of-stock .card-img-wrapper img {
+  filter: grayscale(40%);
+  opacity: 0.65;
+}
+
+/* Sello de Agotado */
+.stamp-agotado {
+  position: absolute;
+  top: 50%;
+  left: 35%; /* Ubicado estratégicamente sobre la zona visual izquierda */
+  transform: translate(-50%, -50%) rotate(-12deg);
+  color: #dc2626;
+  font-family: var(--font-main);
+  font-size: 1.5rem;
+  font-weight: 900;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+  border: 4px solid #dc2626;
+  padding: 3px 14px;
+  border-radius: 6px;
+  background-color: rgba(255, 255, 255, 0.92);
+  box-shadow: 0 4px 12px rgba(220, 38, 38, 0.25);
+  z-index: 20;
+  pointer-events: none; /* Permite hacer clics a través del sello */
+  user-select: none;
+}
+
+/* ==========================================
+   MODO TIENDA / LISTA FLUIDA PARA MÓVILES (E-COMMERCE)
+   ========================================== */
+@media screen and (max-width: 768px) {
+  /* 1. Ocultamos el concepto de "páginas A4" y márgenes de impresión en el celular */
+  body {
+    background-color: #f4f6f9 !important;
+    margin: 0 !important;
+    padding: 0 !important;
+  }
+
+  #catalog-container {
+    display: flex !important;
+    flex-direction: column !important;
+    gap: 16px !important;
+    padding: 12px !important;
+    width: 100% !important;
+    box-sizing: border-box !important;
+    background-color: #f4f6f9 !important;
+  }
+
+  /* 2. Transformamos las "páginas" en contenedores limpios flotantes */
+  .page {
+    width: 100% !important;
+    height: auto !important;
+    min-height: auto !important;
+    max-height: none !important;
+    margin: 0 !important;
+    padding: 0 !important;
+    background: transparent !important;
+    box-shadow: none !important;
+    border: none !important;
+    page-break-after: auto !important;
+  }
+
+  /* Ocultamos los footers y headers repetitivos de página en móvil para que parezca una app fluida */
+  .page > .page-header,
+  .page > .page-footer {
+    display: none !important;
+  }
+
+  /* 3. Diseño de la Portada Principal estilo App */
+  .cover-page {
+    background: linear-gradient(135deg, var(--color-orange), #d96f2b) !important;
+    border-radius: 16px !important;
+    padding: 30px 20px !important;
+    margin-bottom: 10px !important;
+    box-shadow: 0 8px 20px rgba(0,0,0,0.15) !important;
+    min-height: 280px !important;
+  }
+
+  /* Logo de la portada optimizado a un gran tamaño legible en móvil */
+  .cover-logo-wrapper {
+    width: 100% !important;
+    max-width: 320px !important;
+    height: 120px !important;
+    margin: 0 auto 20px auto !important;
+    transform: none !important;
+  }
+
+  .cover-logo-wrapper img,
+  .cover-logo-wrapper svg {
+    width: 100% !important;
+    height: 100% !important;
+    object-fit: contain !important;
+    transform: scale(2) !important; /* Amplía el logo proporcionalmente para que luzca perfecto */
+  }
+
+  .cover-title {
+    font-size: 1.5rem !important;
+    color: #ffffff !important;
+  }
+
+  .cover-subtitle {
+    font-size: 0.8rem !important;
+    color: #111111 !important;
+  }
+
+  .cover-footer {
+    border-top: 1px solid rgba(255,255,255,0.3) !important;
+    margin-top: 20px !important;
+  }
+
+  /* 4. Páginas Divisoras de Marcas estilo Banner de Tienda */
+  .brand-divider-page {
+    background: #ffffff !important;
+    border-radius: 14px !important;
+    padding: 16px !important;
+    box-shadow: 0 4px 12px rgba(0,0,0,0.06) !important;
+    margin-bottom: 10px !important;
+  }
+
+  .brand-divider-header {
+    border-bottom: 2px solid var(--color-orange) !important;
+    padding-bottom: 6px !important;
+    margin-bottom: 12px !important;
+  }
+
+  .brand-divider-title {
+    font-size: 1.3rem !important;
+  }
+
+  .brand-divider-body {
+    background: transparent !important;
+    margin: 0 !important;
+    gap: 10px !important;
+  }
+
+  /* Contenedores de banners y logos de marca 100% responsivos y sin cortes */
+  .brand-banner-box, 
+  .brand-hero-box {
+    width: 100% !important;
+    height: auto !important;
+    min-height: 160px !important;
+    max-height: 260px !important;
+    background: #ffffff !important;
+    border-radius: 8px !important;
+    padding: 10px !important;
+    display: flex !important;
+    align-items: center !important;
+    justify-content: center !important;
+    box-sizing: border-box !important;
+    overflow: hidden !important;
+  }
+
+  .brand-banner-box img,
+  .brand-hero-box img {
+    width: 100% !important;
+    height: 100% !important;
+    max-height: 240px !important;
+    object-fit: contain !important; /* Muestra la imagen completa sin recortar ningún borde */
+  }
+
+  /* 5. Transformamos las fichas de productos en Tarjetas de E-commerce Modernas */
+  .product-grid-4x1 {
+    display: flex !important;
+    flex-direction: column !important;
+    gap: 12px !important;
+    height: auto !important;
+    background: transparent !important;
+    margin: 0 !important;
+  }
+
+  .card, 
+  .card.card-reverse {
+    flex-direction: column !important;
+    width: 100% !important;
+    height: auto !important;
+    max-height: none !important;
+    min-height: auto !important;
+    background: #ffffff !important;
+    border-radius: 12px !important;
+    box-shadow: 0 4px 12px rgba(0,0,0,0.06) !important;
+    border: 1px solid #eaeaea !important;
+    overflow: hidden !important;
+    position: relative !important;
+    margin-bottom: 4px !important;
+  }
+
+  .card-img-wrapper {
+    width: 100% !important;
+    height: 200px !important;
+    background-color: #fafafa !important;
+    border: none !important;
+    padding: 12px !important;
+    box-sizing: border-box !important;
+  }
+
+  .card-body {
+    padding: 14px !important;
+    background: #ffffff !important;
+  }
+
+  .card-title {
+    font-size: 0.95rem !important;
+  }
+
+  .card-code {
+    font-size: 1.3rem !important;
+  }
+
+  .card-info-grid {
+    background-color: #f8f9fa !important;
+    border-radius: 8px !important;
+    padding: 8px 10px !important;
+    font-size: 0.72rem !important;
+  }
+
+  /* 6. Botón de Descarga PDF fijo y moderno en la esquina superior */
+  #global-download-pdf-btn {
+    position: fixed !important;
+    top: 10px !important;
+    right: 10px !important;
+    padding: 6px 12px !important;
+    font-size: 0.75rem !important;
+    z-index: 99999 !important;
+    border-radius: 20px !important;
+    box-shadow: 0 4px 12px rgba(0,0,0,0.25) !important;
+  }
+}

@@ -1,0 +1,3101 @@
+[
+  {
+    "marca": "ISUZU",
+    "subtitulo": "REPUESTOS Y FILTROS ORIGINALES ISUZU",
+    "banner": "https://res.cloudinary.com/gcq9p4qu/image/upload/v1793114470/productos-repuestos/isu_banner.png",
+    "hero": "https://res.cloudinary.com/gcq9p4qu/image/upload/v1793114471/productos-repuestos/isu_hero.png",
+    "productos": [
+      {
+        "codigo": "8-980023460-0",
+        "nombre": "Cartucho filtrante de combustible diésel 8-980023460-0",
+        "categoria": "Filtros",
+        "estado": "Disponible",
+        "descripcion": [
+          "Diámetro Exterior (D 1): 88.0 mm - 90.0 mm",
+          "Diámetro Interior (D 2) = 14.0 mm - 16.0 mm",
+          "Altura Total (H) = 95.0 mm - 98.0 mm"
+        ],
+        "aplicacion": "Isuzu N-Series / ELF: ELF 300, ELF 400, ELF 500, NQR, NPR, NRR (2007+)",
+        "eficiencia": "Retiene hasta el 99.5% de los sedimentos sólidos, óxidos y gomas generados por la contaminación del diésel",
+        "imagen": "https://res.cloudinary.com/gcq9p4qu/image/upload/v1793114463/productos-repuestos/isu03.webp"
+      },
+      {
+        "codigo": "5-87610064-0",
+        "nombre": "Filtro de Combustible Diésel 5-87610064-0",
+        "categoria": "Filtros",
+        "estado": "Disponible",
+        "descripcion": [
+          "Sellos y Juntas: Incluye junta de caucho elastomérico resistente a la degradación por biodiésel",
+          "Capacidad de Micraje: Retención nominal de 3 a 5 micras",
+          "Sistema de Inyección: Diésel de Inyección Directa y Common Rail (Denso / Bosch)"
+        ],
+        "aplicacion": "Isuzu D-Max: (2002–2020+ con motores 2.5L 4JK1 y 3.0L 4JJ1), Isuzu N-Series (NKR / NPR / NHR): (Camiones de carga ligera)",
+        "eficiencia": "Previene que la arena, el hollín acumulado",
+        "imagen": "https://res.cloudinary.com/gcq9p4qu/image/upload/v1793114464/productos-repuestos/isu04.jpg"
+      },
+      {
+        "codigo": "1-87610189-0",
+        "nombre": "filtro de combustible secundario 1-87610189-0",
+        "categoria": "Filtros",
+        "estado": "Disponible",
+        "descripcion": [
+          "Diámetro Exterior (D 1): 88.0 mm - 90.0 mm",
+          "Diámetro Interior (D 2) = 19.0 mm - 20.0 mm",
+          "Altura Total (H) = 95.0 mm - 97.0 mm"
+        ],
+        "aplicacion": "Isuzu N-Series: NPR, NQR, NRR, N-NMR (Elf 300 / 400 / 500 / 600)",
+        "eficiencia": "Retiene hasta el 99.5% de microcontaminantes sólidos (sílice, herrumbre y partículas metálicas en suspensión)",
+        "imagen": "https://res.cloudinary.com/gcq9p4qu/image/upload/v1793114465/productos-repuestos/isu05.jpg"
+      },
+      {
+        "codigo": "1-87610220-0",
+        "nombre": "Elemento filtrante de combustible diésel 23304-EV163",
+        "categoria": "Filtros",
+        "estado": "Disponible",
+        "descripcion": [
+          "Diámetro Exterior (D 1): 96.0 mm - 98.0 mm",
+          "Diámetro de Junta (Empaque): Externa ~72.0 mm | Interna ~62.0 mm",
+          "Altura Total (H) = 135.0 mm - 138.0 mm",
+          "Rosca: 1 - 12 UNF"
+        ],
+        "aplicacion": "Isuzu ELF 200 / ELF 300 / ELF 400 (Series NKR, NPR, NQR)",
+        "eficiencia": "Retiene el 99% de micropartículas abrasivas de 15 a 25 micras",
+        "imagen": "https://res.cloudinary.com/gcq9p4qu/image/upload/v1793114465/productos-repuestos/isu06.jpg"
+      },
+      {
+        "codigo": "1-87610093-4",
+        "nombre": "Filtro de aire del motor 1-87610093-4",
+        "categoria": "Filtros",
+        "estado": "Disponible",
+        "descripcion": [
+          "Diámetro Exterior (D 1): 280.0 mm - 285 mm",
+          "Diámetro Interior (D 2) = 148.0 mm - 150.0 mm",
+          "Altura Total (H) = 330.0 mm - 335.0 mm"
+        ],
+        "aplicacion": "Isuzu NHR / NKR / NPR / NQR: (Modelos con motores 4HG1, 4HG1-T, 4HK1-T, 4JB1-T, 4JJ1)",
+        "eficiencia": "Retiene micropartículas de polvo y sílice de hasta 5 micras.",
+        "imagen": "https://res.cloudinary.com/gcq9p4qu/image/upload/v1793114466/productos-repuestos/isu07.jpg"
+      },
+      {
+        "codigo": "9-87610117-0",
+        "nombre": "filtro de aceite de motor 9-87610117-0",
+        "categoria": "Filtros",
+        "estado": "Disponible",
+        "descripcion": [
+          "Diámetro Exterior (D 1): 93.0 mm - 96.0 mm",
+          "Altura Total (H) = 100.0 mm - 105.0 mm"
+        ],
+        "aplicacion": "Isuzu N-Series / Elf: NHR, NKR, NPR, NQR.",
+        "eficiencia": "Retiene hasta el 98.5% de microcontaminantes de 20 a 25 micras",
+        "imagen": "https://res.cloudinary.com/gcq9p4qu/image/upload/v1793114466/productos-repuestos/isu08.jpg"
+      },
+      {
+        "codigo": "8-98037011-0",
+        "nombre": "Elemento filtrante de combustible 8-98037011-0",
+        "categoria": "Filtros",
+        "estado": "Disponible",
+        "descripcion": [
+          "Diámetro Exterior (D 1): 97.0 mm - 100.0 mm",
+          "Diámetro Interior (D 2) = 33.0 mm - 35.0 mm",
+          "Altura Total (H) = 140.0 mm - 143.0 mm"
+        ],
+        "aplicacion": "Isuzu N-Series (ELF): NPR, NQR, NRR, NHD (Modelos 2007–2020+), Isuzu F-Series (Forward)",
+        "eficiencia": "Retiene más del 99% de micropartículas abrasivas (óxido, hollín y sedimentos de tanque).",
+        "imagen": "https://res.cloudinary.com/gcq9p4qu/image/upload/v1793114467/productos-repuestos/isu09.jpg"
+      },
+      {
+        "codigo": "8-98092481-1",
+        "nombre": "filtro de aire de motor 8-98092481-1",
+        "categoria": "Filtros",
+        "estado": "Disponible",
+        "descripcion": [
+          "Largo: 224,0 mm – 226,0 mm",
+          "Ancho: 204,0 mm – 206,0 mm",
+          "Alto / Espesor: 56,0 mm – 58,0 mm"
+        ],
+        "aplicacion": "Isuzu D-Max: (2012–2020 / Motores 2.5L y 3.0L), Isuzu MU-X: (2013–2020 / Motor 3.0L 4JJ1)",
+        "eficiencia": "Captura micropartículas de sílice y contaminantes abrasivos desde 5 a 10 micras",
+        "imagen": "https://res.cloudinary.com/gcq9p4qu/image/upload/v1793114468/productos-repuestos/isu10.png"
+      },
+      {
+        "codigo": "8-98162897-0",
+        "nombre": "Filtro de combustible diésel 8-98162897-0",
+        "categoria": "Filtros",
+        "estado": "Disponible",
+        "descripcion": [
+          "Diámetro Exterior (D 1): 85.0 mm",
+          "Diámetro Interior (D 2) = 15.0 mm",
+          "Altura Total (H) = 95.0 mm - 98.0 mm"
+        ],
+        "aplicacion": "Isuzu NPR / NQR / NNR / NKR: (Modelos Reward / Elf 400, 500, 600 - Euro 3, Euro 4 y Euro 5)",
+        "eficiencia": "Retiene hasta el 99.2% de las micropartículas abrasivas (óxido, escamas y tierra fino de tanque).",
+        "imagen": "https://res.cloudinary.com/gcq9p4qu/image/upload/v1793114468/productos-repuestos/isu11.png"
+      },
+      {
+        "codigo": "8-98165071-0",
+        "nombre": "Elemento filtrante de combustible 8-98165071-0",
+        "categoria": "Filtros",
+        "estado": "Disponible",
+        "descripcion": [
+          "Diámetro Exterior (D 1): 92.0 mm",
+          "Diámetro Interior (D 2) = 26.0 mm",
+          "Altura Total (H) = 98.0 mm"
+        ],
+        "aplicacion": "Isuzu N-Series / ELF: (NQR, NPR, NRR, NHR, NKR con motores 4JJ1 y 4HK1), Isuzu Forward / F-Series",
+        "eficiencia": "Eficiencia de Filtración en Micraje Fino (99%+ a 2–4 micras)",
+        "imagen": "https://res.cloudinary.com/gcq9p4qu/image/upload/v1793114469/productos-repuestos/isu12.jpg"
+      },
+      {
+        "codigo": "897606318-0",
+        "nombre": "Filtro/separador de aceite 897606318-0",
+        "categoria": "Filtros",
+        "estado": "Disponible",
+        "descripcion": [
+          "Diámetro Exterior (D 1): 72.0 mm",
+          "Diámetro Interior (D 2) = 25.0 mm",
+          "Altura Total (H) = 76.0 mm"
+        ],
+        "aplicacion": "Serie N: NPR, NQR, NRR, Serie F: FRR, FSR, FVR, FTR.",
+        "eficiencia": "Colecta y condensa la neblina de aceite suspendida en los gases del cárter con una efectividad superior al 98%",
+        "imagen": "https://res.cloudinary.com/gcq9p4qu/image/upload/v1793114470/productos-repuestos/isu13.jpg"
+      }
+    ]
+  },
+  {
+    "marca": "MANN-FILTER",
+    "subtitulo": "FILTRACIÓN DE CALIDAD ORIGINAL ALEMANA",
+    "banner": "https://res.cloudinary.com/gcq9p4qu/image/upload/v1793114499/productos-repuestos/mann_banner.png",
+    "hero": "https://res.cloudinary.com/gcq9p4qu/image/upload/v1793114500/productos-repuestos/mann_hero.png",
+    "productos": [
+      {
+        "codigo": "WK1060/1",
+        "nombre": "Filtro de combustible WK 1060/1",
+        "categoria": "Filtros",
+        "estado": "Disponible",
+        "descripcion": [
+          "Diámetro externo (A) = 108 mm",
+          "Diámetro interior de la junta (B) = 104 mm",
+          "Diámetro exterior de la junta (C) = 91 mm",
+          "Dimensión de rosca de la salida (G) = 1-14UNS",
+          "Altura (H) = 276 mm"
+        ],
+        "aplicacion": "Camiones pesados Volvo FH 12, FH 13, FM 12, FM 13, FMX, B12 / B13 Buses. Maquinaria Volvo CE (Cargadores L150E, L180E, Excavadoras EC360B, EC460B).",
+        "eficiencia": "Alta eficacia de separación de agua y partículas de suciedad en diésel",
+        "imagen": "https://res.cloudinary.com/gcq9p4qu/image/upload/v1793114488/productos-repuestos/mann22.jpg"
+      },
+      {
+        "codigo": "WK1050/1",
+        "nombre": "FILTRO COMBUSTIBLE WK1050/1",
+        "categoria": "Filtros",
+        "estado": "Disponible",
+        "descripcion": [
+          "Diámetro externo (A) = 108 mm",
+          "Diámetro interior de la junta (B) = 104 mm",
+          "Diámetro exterior de la junta (C) = 91 mm",
+          "Dimensión de rosca de la salida (G) = 1-12UNF",
+          "Altura (H) = 258 mm"
+        ],
+        "aplicacion": "Camiones Mercedes-Benz Atego (1215, 1518, 1725), Atron, Axor (1938, 2035, 2533), Actros. Buses Mercedes-Benz O500 series, LO915.",
+        "eficiencia": "Retiene eficazmente el agua libre y partículas nocivas presentes en el diésel",
+        "imagen": "https://res.cloudinary.com/gcq9p4qu/image/upload/v1793114488/productos-repuestos/mann23.jpg"
+      },
+      {
+        "codigo": "WK1060",
+        "nombre": "FILTRO COMBUSTIBLE WK1060",
+        "categoria": "Filtros",
+        "estado": "Disponible",
+        "descripcion": [
+          "Diámetro externo (A) = 108 mm",
+          "Diámetro interior de la junta (B) = 104 mm",
+          "Diámetro exterior de la junta (C) = 91 mm",
+          "Dimensión de rosca de la salida (G) = 1-12UNF",
+          "Altura (H) = 276 mm"
+        ],
+        "aplicacion": "Camiones Volvo FH12 (primera generación), FM12, FL12, B12. Maquinaria de construcción Volvo CE (Excavadoras EC330B, EC460B).",
+        "eficiencia": "Tiene una eficiencia de filtración de 30 micras",
+        "imagen": "https://res.cloudinary.com/gcq9p4qu/image/upload/v1793114489/productos-repuestos/mann24.jpg"
+      },
+      {
+        "codigo": "W11102/36",
+        "nombre": "Filtro de aceite",
+        "categoria": "Filtros",
+        "estado": "Disponible",
+        "descripcion": [
+          "Diámetro externo (A) = 108 mm",
+          "Diámetro interior de la junta (B) = 93 mm",
+          "Diámetro exterior de la junta (C) = 103 mm",
+          "Dimensión de rosca de la salida (G) = 11/8-16UN",
+          "Altura (H) = 261 mm"
+        ],
+        "aplicacion": "Camiones Volvo FH12, FH13, FM12, FM13, FMX, NH12; Buses B12M, B12R. Maquinaria Volvo CE (Cargadores L220E, L250H, Excavadoras EC480D).",
+        "eficiencia": "Filtración del 99% para partículas de hasta 40 micrones",
+        "imagen": "https://res.cloudinary.com/gcq9p4qu/image/upload/v1793114490/productos-repuestos/mann25.jpg"
+      },
+      {
+        "codigo": "WP11102/3",
+        "nombre": "Filtro de aceite MANN-FILTER WP 11 102/3",
+        "categoria": "Filtros",
+        "estado": "Disponible",
+        "descripcion": [
+          "Diámetro externo (A) = 108 mm",
+          "Diámetro interior de la junta (B) = 93 mm",
+          "Diámetro exterior de la junta (C) = 103 mm",
+          "Dimensión de rosca de la salida (G) = 13/8-16UN",
+          "Altura (H) = 261 mm"
+        ],
+        "aplicacion": "Filtro de derivación/bypass para Camiones Volvo FH, FM, FMX, NH y Renault Magnum DXi, Kerax DXi. Maquinaria pesada Volvo CE.",
+        "eficiencia": "alta eficiencia diseñado para retener micropartículas de hollín y residuos de combustión.",
+        "imagen": "https://res.cloudinary.com/gcq9p4qu/image/upload/v1793114491/productos-repuestos/mann26.jpg"
+      },
+      {
+        "codigo": "WDK11102/23",
+        "nombre": "Filtro de combustible WDK 11 102/23 (WDK 11 102/28)",
+        "categoria": "Filtros",
+        "estado": "Disponible",
+        "descripcion": [
+          "Diámetro externo (A) = 108 mm",
+          "Diámetro interior de la junta (B) = 93 mm",
+          "Diámetro exterior de la junta (C) = 103 mm",
+          "Dimensión de rosca de la salida (G) = M32x1.5",
+          "Altura (H) = 262 mm"
+        ],
+        "aplicacion": "Camiones Volvo FH (FH4), FM, FMX; Renault Trucks C-Series, K-Series, T-Series. Autobuses Volvo B11R, B13R.",
+        "eficiencia": "máxima eficacia de separación de agua y partículas de suciedad en sistemas diésel de alta presión",
+        "imagen": "https://res.cloudinary.com/gcq9p4qu/image/upload/v1793114491/productos-repuestos/mann27.jpg"
+      },
+      {
+        "codigo": "WK 1040",
+        "nombre": "FILTRO COMBUSTIBLE WK 1040",
+        "categoria": "Filtros",
+        "estado": "Disponible",
+        "descripcion": [
+          "Diámetro externo (A) = 108 mm",
+          "Diámetro interior de la junta (B) = 112 mm",
+          "Diámetro exterior de la junta (C) = 93 mm",
+          "Dimensión de rosca de la salida (G) = 1-14UNS",
+          "Altura (H) = 190 mm"
+        ],
+        "aplicacion": "Camiones Scania 4-Series (P114, R124, T124), Camiones Volkswagen Constellation, Worker; Maquinaria Case, New Holland, Hyundai, JCB con motor Cummins.",
+        "eficiencia": "reduce el desgaste del motor pesado gracias a su capacidad de filtración avanzada y estanquidad total",
+        "imagen": "https://res.cloudinary.com/gcq9p4qu/image/upload/v1793114491/productos-repuestos/mann28.jpg"
+      },
+      {
+        "codigo": "WK962/7",
+        "nombre": "Filtro de combustible WK 962/7",
+        "categoria": "Filtros",
+        "estado": "Disponible",
+        "descripcion": [
+          "Diámetro externo (A) = 93 mm",
+          "Diámetro interior de la junta (B) = 62 mm",
+          "Diámetro exterior de la junta (C) = 71 mm",
+          "Dimensión de rosca de la salida (G) = M18x1.5",
+          "Altura (H) = 212 mm"
+        ],
+        "aplicacion": "Camiones clásicos Mercedes-Benz 1114, 1318, 1518, 1620, 1720, 2425; Buses OF-1620, OH-1621. Tractores y cosechadoras Massey Ferguson / Claas.",
+        "eficiencia": "Alta eficacia de separación y retención de impurezas en motores diésel de vehículos pesados",
+        "imagen": "https://res.cloudinary.com/gcq9p4qu/image/upload/v1793114492/productos-repuestos/mann29.jpg"
+      },
+      {
+        "codigo": "WK723",
+        "nombre": "Filtro de combustible WK 723",
+        "categoria": "Filtros",
+        "estado": "Disponible",
+        "descripcion": [
+          "Diámetro externo (A) = 76 mm",
+          "Diámetro interior de la junta (B) = 62 mm",
+          "Diámetro exterior de la junta (C) = 71 mm",
+          "Dimensión de rosca de la salida (G) = M16x1.5",
+          "Altura (H) = 124 mm"
+        ],
+        "aplicacion": "Camionetas Chevrolet S10 / Blazer 2.8 TDI; Ford F-1000, Ranger 2.8; Volkswagen Delivery 8.150, Worker 9.150; Agrale Volare.",
+        "eficiencia": "Eficiencia de filtración de hasta el 99% contra partículas de suciedad, óxido y agua",
+        "imagen": "https://res.cloudinary.com/gcq9p4qu/image/upload/v1793114492/productos-repuestos/mann30.jpg"
+      },
+      {
+        "codigo": "WK940/26",
+        "nombre": "FILTRO COMBUSTIBLE WK 940/26",
+        "categoria": "Filtros",
+        "estado": "Disponible",
+        "descripcion": [
+          "Diámetro externo (A) = 96 mm",
+          "Diámetro interior 1 (B) = 83 mm",
+          "Diámetro interior (C) = 90 mm",
+          "Dimensión de rosca de la salida (G) = 1-14UNS",
+          "Altura (H) = 143 mm"
+        ],
+        "aplicacion": "Camiones Volkswagen Constellation (17.250, 24.250, 19.320), Ford Cargo (1722, 2428, 2628), VW Worker. Camiones Kamaz y autobuses Agrale.",
+        "eficiencia": "Alta eficiencia de separación de partículas de suciedad y agua en sistemas diésel",
+        "imagen": "https://res.cloudinary.com/gcq9p4qu/image/upload/v1793114493/productos-repuestos/mann31.jpg"
+      },
+      {
+        "codigo": "WK940/12",
+        "nombre": "FILTRO COMBUSTIBLE WK 940/12",
+        "categoria": "Filtros",
+        "estado": "Disponible",
+        "descripcion": [
+          "Diámetro externo (A) = 93 mm",
+          "Diámetro interior de la junta (B) = 62 mm",
+          "Diámetro exterior de la junta (C) = 71 mm",
+          "Dimensión de rosca de la salida (G) = M24x1.5",
+          "Altura (H) = 144 mm"
+        ],
+        "aplicacion": "Tractores Deutz-Fahr, John Deere, Same, Lamborghini; Cosechadoras Claas; Maquinaria de construcción Hamm, Dynapac, Atlas Copco, Liebherr.",
+        "eficiencia": "alta eficiencia de separación de agua y partículas de suciedad en diésel",
+        "imagen": "https://res.cloudinary.com/gcq9p4qu/image/upload/v1793114494/productos-repuestos/mann32.jpg"
+      },
+      {
+        "codigo": "W 917",
+        "nombre": "Filtro de aceite W 917",
+        "categoria": "Filtros",
+        "estado": "Disponible",
+        "descripcion": [
+          "Diámetro externo (A) = 93 mm",
+          "Diámetro interior de la junta (B) = 62 mm",
+          "Diámetro exterior de la junta (C) = 71 mm",
+          "Dimensión de rosca de la salida (G) = 3/4-16UNF",
+          "Altura (H) = 261 mm"
+        ],
+        "aplicacion": "Vehículos pesados, autobuses, maquinaria y ciertos turismos, sobre todo de marcas europeas como Volvo e Iveco",
+        "eficiencia": "alta potencia de filtración y limpieza óptima",
+        "imagen": "https://res.cloudinary.com/gcq9p4qu/image/upload/v1793114494/productos-repuestos/mann33.jpg"
+      },
+      {
+        "codigo": "WK 1060/2",
+        "nombre": "Filtro de combustible WK 1060/2",
+        "categoria": "Filtros",
+        "estado": "Disponible",
+        "descripcion": [
+          "Diámetro externo (A) = 108 mm",
+          "Diámetro interior de la junta (B) = 104 mm",
+          "Diámetro exterior de la junta (C) = 91 mm",
+          "Dimensión de rosca de la salida (G) = 1-14UNF",
+          "Altura (H) = 276 mm"
+        ],
+        "aplicacion": "Camiones pesados Volvo FH4, FM4, FMX4 (Euro 5/6), Buses B11R, B13R. Equipos de construcción Volvo CE de generación reciente.",
+        "eficiencia": "Máxima eficacia de separación de agua y partículas para proteger los sistemas de inyección modernos",
+        "imagen": "https://res.cloudinary.com/gcq9p4qu/image/upload/v1793114495/productos-repuestos/mann34.jpg"
+      },
+      {
+        "codigo": "PU941X",
+        "nombre": "Filtro de Combustible PU 941 x",
+        "categoria": "Filtros",
+        "estado": "Disponible",
+        "descripcion": [
+          "Diámetro externo (A) = 86 mm",
+          "Diámetro interno (B) = 60 mm",
+          "Diámetro interno 1 (C) = 38 mm",
+          "Diámetro exterior 1 (D) = 85 mm",
+          "Altura (H) = 187 mm"
+        ],
+        "aplicacion": "Camiones Mercedes-Benz Atego (1315, 1418, 1725), Atron (1635, 2324), Axor (1938, 2533, 2638, 3344), Actros (1844, 2644, 3348, 4144). Autobuses O500.",
+        "eficiencia": "Máxima eficacia de separación de partículas de suciedad y agua",
+        "imagen": "https://res.cloudinary.com/gcq9p4qu/image/upload/v1793114496/productos-repuestos/mann35.jpg"
+      },
+      {
+        "codigo": "PU999/1x",
+        "nombre": "Filtro de Combustible PU 999/1 x",
+        "categoria": "Filtros",
+        "estado": "Disponible",
+        "descripcion": [
+          "Diámetro externo (A) = 95 mm",
+          "Diámetro interno (B) = 14 mm",
+          "Diámetro interno 1 (C) = 46 mm",
+          "Altura (H) = 204 mm"
+        ],
+        "aplicacion": "Camiones Scania P-Series, G-Series, R-Series, S-Series (P250, G410, G450, R450, R500, R580, S500); Autobuses Scania K-Series (K250, K360, K400, K440).",
+        "eficiencia": "Alta eficiencia diseñado para proteger los inyectores y componentes de motores pesados",
+        "imagen": "https://res.cloudinary.com/gcq9p4qu/image/upload/v1793114497/productos-repuestos/mann36.jpg"
+      },
+      {
+        "codigo": "HU12110x",
+        "nombre": "Filtro de aceite HU 12 110 x",
+        "categoria": "Filtros",
+        "estado": "Disponible",
+        "descripcion": [
+          "Diámetro externo (A) = 113 mm",
+          "Diámetro interno (B) = 45 mm",
+          "Diámetro interno 1 (C) = 56 mm",
+          "Diámetro exterior 1 (D) = 113 mm",
+          "Altura (H) = 264 mm"
+        ],
+        "aplicacion": "Camiones Mercedes-Benz Actros MP4 / MP5 (1845, 2545, 2645, 3345), Arocs, Antos. Camiones Freightliner Cascadia, Western Star 49X, 57X.",
+        "eficiencia": "Alta eficiencia de filtración de entre 98% y 99%, diseñado para retener partículas finas y residuos de combustión",
+        "imagen": "https://res.cloudinary.com/gcq9p4qu/image/upload/v1793114497/productos-repuestos/mann37.jpg"
+      },
+      {
+        "codigo": "HU1077/1z",
+        "nombre": "Filtro de aceite HU 1077/1 z",
+        "categoria": "Filtros",
+        "estado": "Disponible",
+        "descripcion": [
+          "Diámetro externo (A) = 90 mm",
+          "Diámetro interno (B) = 45 mm",
+          "Diámetro interno 1 (C) = 45 mm",
+          "Altura (H) = 281 mm"
+        ],
+        "aplicacion": "Camiones Scania P-Series, G-Series, R-Series, S-Series (P360, G420, R440, R480, R520, S500, S650); Autobuses Scania K250, K310, K360, K400, K440.",
+        "eficiencia": "Alta eficiencia de filtración para retener partículas pequeñas",
+        "imagen": "https://res.cloudinary.com/gcq9p4qu/image/upload/v1793114498/productos-repuestos/mann38.jpg"
+      },
+      {
+        "codigo": "WK820/1",
+        "nombre": "Filtro de Combustible WK 820/1",
+        "categoria": "Filtros",
+        "estado": "Disponible",
+        "descripcion": [
+          "Diámetro externo (A) = 86 mm",
+          "Entrada (F) = 10 mm",
+          "Salida (G) = 8 mm",
+          "Altura (H) = 100 mm"
+        ],
+        "aplicacion": "Mercedes-Benz Sprinter 311, 314, 316, 415, 515, 516 CDI (W906 NCV3); Clase C (C 200/220 CDI), Clase E (E 220/250 CDI), GLK 220 CDI, Vito / Viano.",
+        "eficiencia": "Alta eficacia de separación de partículas y estanqueidad",
+        "imagen": "https://res.cloudinary.com/gcq9p4qu/image/upload/v1793114499/productos-repuestos/mann39.jpg"
+      },
+      {
+        "codigo": "C30400/4 & CF2631",
+        "nombre": "Filtro de aire MANN-FILTER C 30 400/1",
+        "categoria": "Filtros",
+        "estado": "Disponible",
+        "descripcion": [
+          "Longitud (A) = 207 mm",
+          "Ancho (B) = 301.7 mm",
+          "Altura (H) = 172.8 mm",
+          "Accesorio recomendado: CF 2631"
+        ],
+        "aplicacion": "Camiones pesados Mercedes-Benz Actros (I/II/III: 1841, 2041, 2541, 3341, 4141), Axor (2040, 2640, 3340, 4140), Zetros. Maquinaria y grúas Liebherr / Cosechadoras Claas Lexion.",
+        "eficiencia": "Elevada eficacia de separación de partículas de polvo y tierra en suspensión",
+        "imagen": "https://res.cloudinary.com/gcq9p4qu/image/upload/v1793114473/productos-repuestos/mann01.jpg"
+      },
+      {
+        "codigo": "CP23210 & CF2531",
+        "nombre": "Filtro de aire CP23210 MANN-FILTER",
+        "categoria": "Filtros",
+        "estado": "Disponible",
+        "descripcion": [
+          "Diámetro externo (A) = 225 mm",
+          "Diámetro exterior 1 (D) = 158 mm",
+          "Altura (H) = 172 mm",
+          "Accesorio recomendado: CF 2531"
+        ],
+        "aplicacion": "Camiones pesados Volvo FH12, FH16, FH13, FM13, FMX (Series II y III). Camiones Renault Kerax, Magnum, Premium II DXi 13.",
+        "eficiencia": "Alta eficacia de separación de suciedad y protección óptima al motor",
+        "imagen": "https://res.cloudinary.com/gcq9p4qu/image/upload/v1793114474/productos-repuestos/mann02.jpg"
+      },
+      {
+        "codigo": "TB1374",
+        "nombre": "Cartucho del secador de aire MANN-FILTER TB 1374",
+        "categoria": "Filtros",
+        "estado": "Disponible",
+        "descripcion": [
+          "Diámetro externo (A) = 136 mm",
+          "Diámetro interno 1 (B) = 100 mm",
+          "Diámetro interno 2 (C) = 111 mm",
+          "Dimensión de rosca (G) = M39x1.5",
+          "Altura (H) = 165 mm"
+        ],
+        "aplicacion": "Camiones pesados y autobuses Volvo, Mercedes-Benz, MAN, Scania, DAF, IVECO, Freightliner, International, Kenworth. Remolques y semirremolques.",
+        "eficiencia": "Extiende la vida útil de las válvulas neumáticas y previene la corrosión interna",
+        "imagen": "https://res.cloudinary.com/gcq9p4qu/image/upload/v1793114475/productos-repuestos/mann03.jpg"
+      },
+      {
+        "codigo": "HU721X KIT",
+        "nombre": "Filtro hidráulico de transmisión",
+        "categoria": "Filtros",
+        "estado": "Disponible",
+        "descripcion": [
+          "Diámetro externo (A) = 64 mm",
+          "Diámetro interno (B) = 31 mm",
+          "Diámetro interno 1 (C) = 31 mm",
+          "Altura (H) = 150 mm"
+        ],
+        "aplicacion": "Mercedes-Benz Sprinter 319 CDI / 519 CDI (319/519 NCV3/VS30), ML 320/350 CDI, GL 350 CDI, GLE 350d, E 320/350 CDI, Jeep Grand Cherokee 3.0 CRD.",
+        "eficiencia": "Retención óptima de partículas extrañas para proteger los componentes internos de la transmisión",
+        "imagen": "https://res.cloudinary.com/gcq9p4qu/image/upload/v1793114475/productos-repuestos/mann04.jpg"
+      },
+      {
+        "codigo": "HU931/5X",
+        "nombre": "Filtro de aceite HU 931/5 x MANN-FILTER",
+        "categoria": "Filtros",
+        "estado": "Disponible",
+        "descripcion": [
+          "Diámetro externo (A) = 80 mm",
+          "Diámetro interno (B) = 28 mm",
+          "Diámetro interno 1 (C) = 39 mm",
+          "Diámetro exterior 1 (D) = 83 mm",
+          "Altura (H) = 149 mm"
+        ],
+        "aplicacion": "Camiones MAN TGA, TGS, TGX (18.400, 26.440, 33.480, 41.480), Autobuses MAN Lion's Coach, Lion's City. Cosechadoras Claas Jaguar y Fendt.",
+        "eficiencia": "Retiene eficazmente partículas de hollín, residuos de combustión y polvo metálico en suspensión",
+        "imagen": "https://res.cloudinary.com/gcq9p4qu/image/upload/v1793114476/productos-repuestos/mann05.jpg"
+      },
+      {
+        "codigo": "PU1046X",
+        "nombre": "Elemento filtrante de combustible diésel MANN-FILTER PU 1046 x",
+        "categoria": "Filtros",
+        "estado": "Disponible",
+        "descripcion": [
+          "Diámetro externo (A) = 92 mm",
+          "Diámetro interno (B) = 45 mm",
+          "Diámetro interno 1 (C) = 30 mm",
+          "Diámetro exterior 1 (D) = 92 mm",
+          "Altura (H) = 103 mm"
+        ],
+        "aplicacion": "Camiones MAN TGL, TGM, TGS, TGX (12.220, 18.290, 26.400, 33.440); Buses MAN Lion's City, Neoplan. Maquinaria agrícola y grúas con motor MAN.",
+        "eficiencia": "Evita daños prematuros en bombas de inyección e inyectores diésel",
+        "imagen": "https://res.cloudinary.com/gcq9p4qu/image/upload/v1793114477/productos-repuestos/mann06.jpg"
+      },
+      {
+        "codigo": "HU947/2X",
+        "nombre": "Filtro de Aceite HU 947/2 x MANN-FILTER",
+        "categoria": "Filtros",
+        "estado": "Disponible",
+        "descripcion": [
+          "Longitud (A) = 207 mm",
+          "Diámetro interno (B) = 21 mm",
+          "Diámetro interno 1 (C) = 39 mm",
+          "Diámetro exterior 1 (D) = 82 mm",
+          "Altura (H) = 214 mm"
+        ],
+        "aplicacion": "Camiones Mercedes-Benz Actros I/II/III (1840, 2040, 2640, 3340, 4143), Axor (1938, 2040, 2638), Zetros; Buses O500R / O500RS. Cosechadoras Claas Lexion.",
+        "eficiencia": "Retiene impurezas finas para proteger los componentes internos del desgaste prematuro",
+        "imagen": "https://res.cloudinary.com/gcq9p4qu/image/upload/v1793114478/productos-repuestos/mann07.jpg"
+      },
+      {
+        "codigo": "WK11001X",
+        "nombre": "Filtro de Combustible WK 11 001 x MANN-FILTER",
+        "categoria": "Filtros",
+        "estado": "Disponible",
+        "descripcion": [
+          "Diámetro externo (A) = 108 mm",
+          "Dimensión de rosca de la salida (G) = 1-14UNS",
+          "Altura (H) = 158 mm"
+        ],
+        "aplicacion": "Camiones MAN TGX y TGS de nueva generación Euro 6 (TGX 18.500, 26.500, 33.500). Autobuses Neoplan Skyliner y Cityliner.",
+        "eficiencia": "Retiene eficazmente óxido, polvo y micropartículas en suspensión",
+        "imagen": "https://res.cloudinary.com/gcq9p4qu/image/upload/v1793114478/productos-repuestos/mann08.jpg"
+      },
+      {
+        "codigo": "WK1080/7",
+        "nombre": "Filtro de combustible WK 1080/7 X MANN-FILTER",
+        "categoria": "Filtros",
+        "descripcion": [
+          "Diámetro externo (A) = 108 mm",
+          "Dimensión de rosca (F) = 33/4-10UNS-1B",
+          "Dimensión de rosca de la salida (G) = 1-14UNS",
+          "Altura (H) = 216 mm"
+        ],
+        "aplicacion": "Camiones Mercedes-Benz Actros MP4/MP5, Arocs, Antos. Camiones Freightliner Cascadia, Western Star 4700/4900.",
+        "eficiencia": "Elimina impurezas microscópicas que causan desgaste y corrosión en el sistema de inyección",
+        "imagen": "https://res.cloudinary.com/gcq9p4qu/image/upload/v1793114479/productos-repuestos/mann09.jpg"
+      },
+      {
+        "codigo": "PL420",
+        "nombre": "Filtro de combustible diésel tipo separador de agua MANN-FILTER PL 420",
+        "categoria": "Filtros",
+        "estado": "Disponible",
+        "descripcion": [
+          "Diámetro externo (A) = 108 mm",
+          "Dimensión de rosca (F) = S80x3",
+          "Dimensión de rosca de la salida (G) = 1-14UNS",
+          "Altura (H) = 230 mm"
+        ],
+        "aplicacion": "Camiones de minería y carretera Freightliner, Kenworth, International, Mercedes-Benz, VW Constellation. Maquinaria Caterpillar, Komatsu, JCB, Case.",
+        "eficiencia": "Retiene y separa eficazmente el agua emulsionada o libre en el diésel, previniendo la corrosión prematura",
+        "imagen": "https://res.cloudinary.com/gcq9p4qu/image/upload/v1793114480/productos-repuestos/mann10.jpg"
+      },
+      {
+        "codigo": "TB1394/1",
+        "nombre": "Cartucho del secador de aire MANN-FILTER TB 1374",
+        "categoria": "Filtros",
+        "estado": "Disponible",
+        "descripcion": [
+          "Diámetro externo (A) = 136 mm",
+          "Diámetro interno 1 (B) = 100 mm",
+          "Diámetro interno 2 (C) = 111 mm",
+          "Dimensión de rosca (G) = M39x1.5",
+          "Altura (H) = 165 mm"
+        ],
+        "aplicacion": "Camiones pesados de larga distancia y autobuses Volvo FH/FM, Mercedes-Benz Actros/Arocs, Scania R/S, MAN TGX, DAF XF, IVECO Stralis.",
+        "eficiencia": "Extiende la vida útil de las válvulas neumáticas y previene la corrosión interna",
+        "imagen": "https://res.cloudinary.com/gcq9p4qu/image/upload/v1793114480/productos-repuestos/mann11.jpg"
+      },
+      {
+        "codigo": "W1170/7",
+        "nombre": "Filtro de aceite W 1170/7 MANN-FILTER",
+        "categoria": "Filtros",
+        "estado": "Disponible",
+        "descripcion": [
+          "Diámetro externo (A) = 108 mm",
+          "Diámetro interior de la junta (B) = 63 mm",
+          "Diámetro exterior de la junta (C) = 72 mm",
+          "Dimensión de rosca (G) = 1-12UNF-1B",
+          "Altura (H) = 227 mm"
+        ],
+        "aplicacion": "Camiones clásicos Mercedes-Benz 1113, 1114, 1313, 1316, 1513, 1518, 1620, 1720, 2420, L-1620; Autobuses OF-1318, OF-1620. Tractores Zanello, Muller.",
+        "eficiencia": "Incorpora medios filtrantes específicos y materiales de sellado de alta calidad",
+        "imagen": "https://res.cloudinary.com/gcq9p4qu/image/upload/v1793114481/productos-repuestos/mann12.jpg"
+      },
+      {
+        "codigo": "C331460/1",
+        "nombre": "Filtro de aire MANN-FILTER C 33 1460/1",
+        "categoria": "Filtros",
+        "estado": "Disponible",
+        "descripcion": [
+          "Diámetro externo (A) = 332 mm",
+          "Diámetro interno (B) = 211 mm",
+          "Altura (H) = 415 mm"
+        ],
+        "aplicacion": "Camiones Volvo FH12, FH13, FM12, FM13, FMX (Series II y III); Camiones Renault Kerax, Magnum DXi, Premium DXi.",
+        "eficiencia": "Ofrece una elevada eficacia de separación de partículas y polvo, protegiendo el sensor de masa de aire y componentes sensibles",
+        "imagen": "https://res.cloudinary.com/gcq9p4qu/image/upload/v1793114481/productos-repuestos/mann13.jpg"
+      },
+      {
+        "codigo": "C311345/1 - CF 1510/1",
+        "nombre": "Filtro de aire MANN-FILTER C 31 1345/1",
+        "categoria": "Filtros",
+        "estado": "Disponible",
+        "descripcion": [
+          "Diámetro externo (A) = 303 mm",
+          "Diámetro interno (B) = 152 mm",
+          "Altura (H) = 411 mm"
+        ],
+        "aplicacion": "Camiones Scania 4-Series y PGRT-Series (P230, P310, P340, G380, G420, R420, R440, R470, R500); Autobuses Scania K-Series (K310, K380, K420).",
+        "eficiencia": "Alta eficacia de separación de suciedad y protección avanzada para motores diésel pesados",
+        "imagen": "https://res.cloudinary.com/gcq9p4qu/image/upload/v1793114482/productos-repuestos/mann14.jpg"
+      },
+      {
+        "codigo": "C27902",
+        "nombre": "Filtro de aire primario MANN-FILTER C 27 902",
+        "categoria": "Filtros",
+        "estado": "Disponible",
+        "descripcion": [
+          "Diámetro externo (A) = 270 mm",
+          "Diámetro interno (B) = 148 mm",
+          "Altura (H) = 430 mm"
+        ],
+        "aplicacion": "Mercedes-Benz Sprinter 210, 310, 313, 316, 416, 516, 519 CDI (Serie W906 / NCV3 de 2009 en adelante); Mercedes Vito / Viano W639.",
+        "eficiencia": "Ofrece una alta eficacia de separación de impurezas para proteger componentes sensibles",
+        "imagen": "https://res.cloudinary.com/gcq9p4qu/image/upload/v1793114483/productos-repuestos/mann15.jpg"
+      },
+      {
+        "codigo": "C50005",
+        "nombre": "Filtro de aire MANN-FILTER C 50 005",
+        "categoria": "Filtros",
+        "estado": "Disponible",
+        "descripcion": [
+          "Longitud (A) = 491 mm",
+          "Ancho (D) = 209 mm",
+          "Altura (H) = 247 mm"
+        ],
+        "aplicacion": "Camiones Scania de Nueva Generación NTG / Series P, G, R, S (P360, G450, R450, R500, R580, V8 S650, S730).",
+        "eficiencia": "Retiene eficazmente el polvo, hollín y partículas del aire de admisión",
+        "imagen": "https://res.cloudinary.com/gcq9p4qu/image/upload/v1793114484/productos-repuestos/mann16.jpg"
+      },
+      {
+        "codigo": "C37480",
+        "nombre": "Filtro de aire MANN-FILTER C 37480",
+        "categoria": "Filtros",
+        "estado": "Disponible",
+        "descripcion": [
+          "Diámetro externo (A) = 375,5 mm",
+          "Diámetro interno (B) = 322 mm",
+          "Diámetro exterior 1 (D) = 107,5 mm",
+          "Diámetro interno 2 (E) = 39 mm",
+          "Altura (H) = 391,4 mm"
+        ],
+        "aplicacion": "Camiones Mercedes-Benz Actros MP4 / MP5 (1842, 1845, 2545, 2645, 3345), Arocs (1845, 2645, 3345, 4145), Antos.",
+        "eficiencia": "Alta eficiencia que retiene polvo, hollín y partículas dañinas, incluso en alto kilometraje y operaciones rudas",
+        "imagen": "https://res.cloudinary.com/gcq9p4qu/image/upload/v1793114484/productos-repuestos/mann17.jpg"
+      },
+      {
+        "codigo": "C23800 / CF1350",
+        "nombre": "Filtro de aire principal MANN-FILTER C 23 800",
+        "categoria": "Filtros",
+        "estado": "Disponible",
+        "descripcion": [
+          "Diámetro externo (A) = 332 mm",
+          "Diámetro interno (B) = 211 mm",
+          "Altura (H) = 415 mm"
+        ],
+        "aplicacion": "Maquinaria pesada y construcción: Excavadoras Hyundai Robex, JCB JS200/220, Cargadores Liugong, Grúas Tadano/Terex, Tractores Massey Ferguson / Landini.",
+        "eficiencia": "Alta capacidad de separación de suciedad con baja resistencia al flujo.",
+        "imagen": "https://res.cloudinary.com/gcq9p4qu/image/upload/v1793114485/productos-repuestos/mann18.jpg"
+      },
+      {
+        "codigo": "C271340",
+        "nombre": "Filtro de aire MANN-FILTER C271340",
+        "categoria": "Filtros",
+        "estado": "Disponible",
+        "descripcion": [
+          "Diámetro externo (A) = 303 mm",
+          "Diámetro interno (B) = 152 mm",
+          "Altura (H) = 411 mm"
+        ],
+        "aplicacion": "Camiones Volkswagen Constellation (17.280, 24.280, 26.280, 31.280), VW Worker; Camiones Ford Cargo 1723, 2429, 2629.",
+        "eficiencia": "Alta capacidad de retención de polvo y partículas finas",
+        "imagen": "https://res.cloudinary.com/gcq9p4qu/image/upload/v1793114486/productos-repuestos/mann19.jpg"
+      },
+      {
+        "codigo": "HU945/2",
+        "nombre": "Filtro de aceite HU 945/2",
+        "categoria": "Filtros",
+        "estado": "Disponible",
+        "descripcion": [
+          "Altura (H): 210 mm",
+          "Diámetro externo (A): 80 mm",
+          "Diámetro interno 1 (C): 39 mm",
+          "Diámetro exterior 1 (D): 83 mm"
+        ],
+        "aplicacion": "Camiones Mercedes-Benz Atego (815, 1215, 1418, 1725), Atron (1319, 2324), Axor (1933, 2533, 2831, 3131), Autobuses O500M, O500U, LO915.",
+        "eficiencia": "Separa con alta precisión residuos de combustión, hollín y partículas metálicas diminutas",
+        "imagen": "https://res.cloudinary.com/gcq9p4qu/image/upload/v1793114486/productos-repuestos/mann20.jpg"
+      },
+      {
+        "codigo": "C33013",
+        "nombre": "Filtro de aire MANN-FILTER C 33 013",
+        "categoria": "Filtros",
+        "estado": "Disponible",
+        "descripcion": [
+          "Diámetro externo (A): 317 mm",
+          "Diámetro interno (B): 196 mm",
+          "Diámetro interno 1 / Diámetro int. 2 (C): 167 mm",
+          "Altura (H): 426 mm"
+        ],
+        "aplicacion": "Camiones Volvo (Series FM II y FMX II) y Renault Trucks (Series C, K y T).",
+        "eficiencia": "Retiene eficazmente partículas microscópicas de polvo, hollín y polen en el interior del medio filtrante",
+        "imagen": "https://res.cloudinary.com/gcq9p4qu/image/upload/v1793114487/productos-repuestos/mann21.jpg"
+      }
+    ]
+  },
+  {
+    "marca": "MITSUBISHI",
+    "subtitulo": "REPUESTOS Y FILTROS ORIGINALES MITSUBISHI / FUSO",
+    "banner": "https://res.cloudinary.com/gcq9p4qu/image/upload/v1793114507/productos-repuestos/mitsu_banner.png",
+    "hero": "https://res.cloudinary.com/gcq9p4qu/image/upload/v1793114508/productos-repuestos/mitsu_hero.png",
+    "productos": [
+      {
+        "codigo": "ME222135",
+        "nombre": "Filtro de Combustible ME222135",
+        "categoria": "Filtros",
+        "estado": "Disponible",
+        "descripcion": [
+          "Altura / Longitud: ~96 - 98 mm",
+          "Diámetro Exterior: ~94 mm",
+          "Diámetro Interior: ~26 mm"
+        ],
+        "aplicacion": "Camiones Livianos / Medianos: Mitsubishi Fuso Canter (modelos con motorización diésel 4M42 / 4M50)",
+        "eficiencia": "Retener impurezas finas de micropartículas (óxido, hollín) y separar residuos de agua",
+        "imagen": "https://res.cloudinary.com/gcq9p4qu/image/upload/v1793114501/productos-repuestos/mit01.jpg"
+      },
+      {
+        "codigo": "MZ690411",
+        "nombre": "Filtro de Aceite MZ690411",
+        "categoria": "Filtros",
+        "estado": "Disponible",
+        "descripcion": [
+          "Rosca: M26 x 1.5",
+          "Altura: ~125 - 127 mm",
+          "Diámetro Exterior: ~102 mm"
+        ],
+        "aplicacion": "Pick-ups y SUV 4x4: Mitsubishi Montero / Pajero III y IV, Montero Sport (motores 3.2 DI-D 4M41 / 2.8 4M40), Nativa, Camionetas Trabajo: Mitsubishi L200 / Triton (motores 4M40 / 4M41)",
+        "eficiencia": "Eficiencia sostenida superior al 98% a partir de 20-25 micras",
+        "imagen": "https://res.cloudinary.com/gcq9p4qu/image/upload/v1793114502/productos-repuestos/mit02.jpg"
+      },
+      {
+        "codigo": "ME228898",
+        "nombre": "Filtro de Aceite ME228898",
+        "categoria": "Filtros",
+        "estado": "Disponible",
+        "descripcion": [
+          "Rosca: M26 x 1.5",
+          "Altura: ~151 - 153 mm",
+          "Diámetro Exterior: ~102 mm"
+        ],
+        "aplicacion": "Camiones Ligero y Mediano: Mitsubishi Fuso Canter FE / FG (motores diésel serie 4M50, 4M42 de mayor capacidad o trabajo pesado)",
+        "eficiencia": "Soporta mayores cargas de hollín y partículas pesadas",
+        "imagen": "https://res.cloudinary.com/gcq9p4qu/image/upload/v1793114503/productos-repuestos/mit03.jpg"
+      },
+      {
+        "codigo": "MD360935",
+        "nombre": "Filtro de Aceite MD360935",
+        "categoria": "Filtros",
+        "estado": "Disponible",
+        "descripcion": [
+          "Rosca: M20 x 1.5",
+          "Altura: ~85 - 92 mm",
+          "Diámetro Exterior: ~65 - 66 mm"
+        ],
+        "aplicacion": "Autos de Pasajeros / Sedanes y Hatchbacks: Mitsubishi Lancer, Mirage, Colt, Galant (motores 1.3L, 1.5L, 1.6L, 1.8L, 2.0L 4G18, 4G63, 4A91, etc.), SUV / Compactos: Mitsubishi Outlander (versiones 2.0L y 2.4L gasolina), ASX / RVR / Outlander Sport, Grandis",
+        "eficiencia": "Alta capacidad de filtrado a ~20 micras",
+        "imagen": "https://res.cloudinary.com/gcq9p4qu/image/upload/v1793114503/productos-repuestos/mit04.avif"
+      },
+      {
+        "codigo": "7803A112",
+        "nombre": "Filtro de Aire de Cabina 7803A112",
+        "categoria": "Filtros",
+        "estado": "Disponible",
+        "descripcion": [
+          "Largo: ~216 - 226 mm",
+          "Ancho: ~200 - 224 mm",
+          "Alto: ~30 - 36 mm"
+        ],
+        "aplicacion": "Pick-ups: Mitsubishi L200 / Triton (generación 2006–2015+), SUV / Crossover: Mitsubishi Outlander II / III, Montero Sport / Pajero Sport (generación 2008+), ASX / Outlander Sport.",
+        "eficiencia": "Retiene el 99% de polen, polvo, hollín y alérgenos en el aire exterior antes de ingresar al habitáculo",
+        "imagen": "https://res.cloudinary.com/gcq9p4qu/image/upload/v1793114504/productos-repuestos/mit05.jpg"
+      },
+      {
+        "codigo": "1500A608",
+        "nombre": "Filtro de Aire del Motor 1500A608",
+        "categoria": "Filtros",
+        "estado": "Disponible",
+        "descripcion": [
+          "Largo: ~243 mm",
+          "Alto: ~59.5 mm",
+          "Ancho: ~230 mm"
+        ],
+        "aplicacion": "Pick-ups: Mitsubishi L200 / Triton (motor 2.4L Diésel 4N15 - años 2015 a la fecha), SUV 4x4: Mitsubishi Montero Sport III / Pajero Sport III (motor 2.4L Turbo Diésel 4N15).",
+        "eficiencia": "etiene partículas de polvo, sílice y sedimentos con una eficiencia del 99.5%",
+        "imagen": "https://res.cloudinary.com/gcq9p4qu/image/upload/v1793114504/productos-repuestos/mit06.jpg"
+      },
+      {
+        "codigo": "ML242294",
+        "nombre": "Filtro de Aire del Motor ML242294",
+        "categoria": "Filtros",
+        "estado": "Disponible",
+        "descripcion": [
+          "Longitud / Altura: ~250 mm",
+          "Ancho / Diámetro Ext: ~148 mm",
+          "Diámetro Int: ~125 mm"
+        ],
+        "aplicacion": "Camiones / Vehículos Comerciales: Mitsubishi Fuso Canter (series europeas y globales con motores 4P10 / 4M42)",
+        "eficiencia": "Filtración superior al 99.8% de contaminantes suspendidos",
+        "imagen": "https://res.cloudinary.com/gcq9p4qu/image/upload/v1793114505/productos-repuestos/mit07.jpg"
+      },
+      {
+        "codigo": "ML239124",
+        "nombre": "Filtro de Combustible ML239124",
+        "categoria": "Filtros",
+        "estado": "Disponible",
+        "descripcion": [
+          "Altura: ~162 - 164 mm",
+          "Diámetro Exterior: ~67 - 68 mm",
+          "Diámetros Interiores: ~27 mm y ~11.3 mm"
+        ],
+        "aplicacion": "Camiones: Mitsubishi Fuso Canter (Euro V / Euro VI, motor 4P10)",
+        "eficiencia": "Filtra micropartículas de hasta 3-5 micras e impidiendo la contaminación por condensación de agua en el combustible",
+        "imagen": "https://res.cloudinary.com/gcq9p4qu/image/upload/v1793114506/productos-repuestos/mit08.jpg"
+      },
+      {
+        "codigo": "QC00001",
+        "nombre": "Filtro de Aceite QC000001 (QC00001)",
+        "categoria": "Filtros",
+        "estado": "Disponible",
+        "descripcion": [
+          "Altura: ~132.5 - 134 mm",
+          "Diámetro Exterior: ~70 mm",
+          "Diámetro Interior: ~21 mm"
+        ],
+        "aplicacion": "Camiones / Autobuses Fuso: Mitsubishi Fuso Canter (motores Euro IV / V / VI, serie 4P10 y derivados de camiones pesados / buses Rosa)",
+        "eficiencia": "Eficiencia del 95% para partículas mayores a 30 micras",
+        "imagen": "https://res.cloudinary.com/gcq9p4qu/image/upload/v1793114506/productos-repuestos/mit09.jpg"
+      }
+    ]
+  },
+  {
+    "marca": "LÍNEA PESADA",
+    "subtitulo": "REPUESTOS Y FILTROS PARA FLOTAS Y EQUIPOS PESADOS",
+    "banner": "https://res.cloudinary.com/gcq9p4qu/image/upload/v1793114514/productos-repuestos/pesado_banner.png",
+    "hero": "https://res.cloudinary.com/gcq9p4qu/image/upload/v1793114515/productos-repuestos/pesado_hero.png",
+    "productos": [
+      {
+        "codigo": "5293131",
+        "nombre": "Cartucho filtrante de fluido DEF / Urea Cummins 5293131",
+        "categoria": "Filtros",
+        "estado": "Disponible",
+        "descripcion": [
+          "Diámetro Exterior: 43.0 mm – 45.0 mm",
+          "Diámetro Interior: 20.0 mm – 22.0 mm",
+          "Altura Total: 85.0 mm – 88.0 mm",
+          "Sellos e Incluidos: O-rings / Empaques de EPDM (resistentes al ataque químico de la urea)"
+        ],
+        "aplicacion": "Motores Cummins: ISF 2.8, ISF 3.8, ISB 4.5, ISB 6.7, ISL 8.9, ISM 11, ISX 15 (versiones Euro 4, 5 y 6).",
+        "eficiencia": "Retiene cristalizaciones y micropartículas insolubles presentes en el tanque de AdBlue/DEF.",
+        "imagen": "https://res.cloudinary.com/gcq9p4qu/image/upload/v1793114369/productos-repuestos/CUM01.jpg"
+      },
+      {
+        "codigo": "2888182",
+        "nombre": "Cartucho filtrante de combustible diésel Cummins 2888182",
+        "categoria": "Filtros",
+        "estado": "Disponible",
+        "descripcion": [
+          "Diámetro Exterior: 84,0 mm – 86,0 mm",
+          "Diámetro Interior: 19,0 mm – 21,0 mm",
+          "Altura Total: 142,0 mm – 145,0 mm"
+        ],
+        "aplicacion": "Motores Cummins: ISF 2.8L y ISF 3.8L Euro 3, Euro 4, Euro 5 (Common Rail).",
+        "eficiencia": "Tecnología de Filtración StrataPore (Efectividad del 99.8%)",
+        "imagen": "https://res.cloudinary.com/gcq9p4qu/image/upload/v1793114370/productos-repuestos/cum02.jpg"
+      },
+      {
+        "codigo": "03-42776-010",
+        "nombre": "filtro de aire de cabina Freightliner 03-42776-010",
+        "categoria": "Filtros",
+        "estado": "Disponible",
+        "descripcion": [
+          "Largo: 413,0 mm (16.25 pulg.)",
+          "Ancho: 111,0 mm – 114,0 mm (4.38 pulg.)",
+          "Alto / Espesor: 38,0 mm – 41,0 mm (1.50 pulg.)"
+        ],
+        "aplicacion": "Freightliner Cascadia (Años 2008 – 2018+); Freightliner Columbia (2002 – 2015);Freightliner Coronado / Century Class",
+        "eficiencia": "Eficiencia de Filtración de Partículas (98%+ PM10 y PM2.5)",
+        "imagen": "https://res.cloudinary.com/gcq9p4qu/image/upload/v1793114436/productos-repuestos/fre01.jpg"
+      },
+      {
+        "codigo": "H4119219014A0",
+        "nombre": "Filtro de Seguridad de Aire Foton H4119219014A0",
+        "categoria": "Filtros",
+        "estado": "Disponible",
+        "descripcion": [
+          "Diámetro Exterior: 170.0 mm – 175.0 mm",
+          "Diámetro Interior: 130.0 mm – 135.0 mm",
+          "Altura Total: 480.0 mm – 490.0 mm"
+        ],
+        "aplicacion": "Foton Auman (GTL / ETX - Volquetes y Remolcadores 6x4, 8x4), Foton Aumark (Línea de chasis cabina pesada)",
+        "eficiencia": "Mantiene una eficiencia de filtración acumulada superior al 99.9% (en conjunto con el primario)",
+        "imagen": "https://res.cloudinary.com/gcq9p4qu/image/upload/v1793114433/productos-repuestos/fot01.jpg"
+      },
+      {
+        "codigo": "A38520 / A38530",
+        "nombre": "Filtros de aire de motor Foton A38520 / A38530",
+        "categoria": "Filtros",
+        "estado": "Disponible",
+        "descripcion": [
+          "Diámetro Exterior: 280 mm – 285 mm / 150 mm – 155 mm",
+          "Diámetro Interior: 148 mm – 150 mm / 110 mm – 112 mm",
+          "Altura Total: 410 mm – 420 mm / 395 mm – 400 mm"
+        ],
+        "aplicacion": "Foton Auman / Aumark: Camiones de carga pesada y volquetes (Series ETX, GTL, BJ3257, BJ1253)",
+        "eficiencia": "Retiene el 98.5% al 99% de las partículas pesadas de sílice, polvo de carretera y hollín",
+        "imagen": "https://res.cloudinary.com/gcq9p4qu/image/upload/v1793114434/productos-repuestos/fot02.jpg"
+      },
+      {
+        "codigo": "2515573C1",
+        "nombre": "Filtro de aire principal de motor Navistar 2515573C1",
+        "categoria": "Filtros",
+        "estado": "Disponible",
+        "descripcion": [
+          "Largo: 610.0 mm – 625.0 mm",
+          "Ancho: 170.0 mm – 185.0 mm",
+          "Alto / Profundidad: 190.0 mm – 205.0 mm"
+        ],
+        "aplicacion": "International MV Series (Medium Duty), International HV Series (Severe Duty / Volquetes / Mixers);International LT Series (Larga distancia / Tractocamiones)",
+        "eficiencia": "Retiene más del 99.9% del Polvo de Prueba ISO Fino (ISO Fine Test Dust)",
+        "imagen": "https://res.cloudinary.com/gcq9p4qu/image/upload/v1793114463/productos-repuestos/int01.jpg"
+      },
+      {
+        "codigo": "1109100G17E0-1",
+        "nombre": "Filtro de aire del motor JAC 1109100G17E0-1",
+        "categoria": "Filtros",
+        "estado": "Disponible",
+        "descripcion": [
+          "Largo: 238 mm – 240 mm",
+          "Ancho: 185 mm – 188 mm",
+          "Alto / Espesor: 35 mm – 38 mm"
+        ],
+        "aplicacion": "AC JS2 / Grand S2: (Motores 1.5L Gasolina VVT / HFC4GB2.3D), JAC S2 / Refine S2: (Motores 1.5L N/A), JAC S3 / JS3: (Motores 1.5L / 1.6L VVT según año y mercado); JAC J4 / Heyue A30: (Motor 1.5L Gasolina)",
+        "eficiencia": "Retiene polvo ambiental, hollín y partículas de sílice de hasta 5 a 10 micras",
+        "imagen": "https://res.cloudinary.com/gcq9p4qu/image/upload/v1793114471/productos-repuestos/jac01.jpg"
+      },
+      {
+        "codigo": "P611696",
+        "nombre": "Filtro de aire secundario Paccar P611696",
+        "categoria": "Filtros",
+        "estado": "Disponible",
+        "descripcion": [
+          "Largo / Longitud: 240,0 mm – 245,0 mm",
+          "Ancho / Diámetro Exterior: 175,0 mm – 180,0 mm",
+          "Alto / Espesor: 180,0 mm"
+        ],
+        "aplicacion": "Kenworth: T660, T680, T800, T880, W900 (con sistemas de filtración de aire rectangulares/PowerCore), Peterbilt: 386, 388, 389, 567, 579.",
+        "eficiencia": "Protección al Momento del Mantenimiento (100% Hermético)",
+        "imagen": "https://res.cloudinary.com/gcq9p4qu/image/upload/v1793114511/productos-repuestos/pac01.jpg"
+      },
+      {
+        "codigo": "P637453",
+        "nombre": "Elemento filtrante de aire para motor Paccar P637453",
+        "categoria": "Filtros",
+        "estado": "Disponible",
+        "descripcion": [
+          "Largo: 350 mm – 400 mm",
+          "Ancho: 220 mm – 260 mm",
+          "Alto: 280 mm – 320 mm"
+        ],
+        "aplicacion": "Camiones Kenworth: T680, T880, T800, W900, Camiones DAF: XF105, CF85",
+        "eficiencia": "Retiene el 99.99% de los contaminantes según la norma ISO 5011",
+        "imagen": "https://res.cloudinary.com/gcq9p4qu/image/upload/v1793114511/productos-repuestos/pac02.jpg"
+      },
+      {
+        "codigo": "2414656 / 24146529S",
+        "nombre": "Elemento filtrante de aire cilíndrico Scania 2414656-24146529S",
+        "categoria": "Filtros",
+        "estado": "Disponible",
+        "descripcion": [
+          "Diámetro Exterior: 304.0 mm / 159 mm",
+          "Diámetro Interior: 170 mm / 123 mm",
+          "Altura Total: 373 mm / 320 mm"
+        ],
+        "aplicacion": "Camiones Serie NTG (P280, P320, G410, G450, R450, R500, R540, S500, S540, S650) y buses de larga distancia K-Series",
+        "eficiencia": "Eficiencia de Filtración del 99.9% (ISO 5011)",
+        "imagen": "https://res.cloudinary.com/gcq9p4qu/image/upload/v1793114516/productos-repuestos/sca01.jpg"
+      },
+      {
+        "codigo": "2355128 / 2355129",
+        "nombre": "Filtro primario y secundario de seguridad Scania 2355128 / 2355129",
+        "categoria": "Filtros",
+        "estado": "Disponible",
+        "descripcion": [
+          "Diámetro / Ancho Exterior: 468 mm x 205 mm (Diseño geométrico ovalado compacto)",
+          "Altura Total 305 mm – 310 mm",
+          "Sellado: Empaque elastomérico de uretano comprimible para sellado estanco radial"
+        ],
+        "aplicacion": "Camiones: Scania Series P, G, R, S (Euro 5 y Euro 6 / aplicaciones de minería, trocha y larga distancia), Buses: Scania Series K y F de última generación",
+        "eficiencia": "Retiene polvo fino, sílice y cenizas de hasta 3 a 5 micras, evitando la erosión del turbo a altas revoluciones",
+        "imagen": "https://res.cloudinary.com/gcq9p4qu/image/upload/v1793114517/productos-repuestos/sca02.jpg"
+      },
+      {
+        "codigo": "DZ97259191048",
+        "nombre": "Elemento filtrante de aire primario Shacman DZ97259191048",
+        "categoria": "Filtros",
+        "estado": "Disponible",
+        "descripcion": [
+          "Diámetro Exterior: 310.0 mm - 320.0 mm",
+          "Diámetro Interior: 190 mm - 200.0 mm",
+          "Altura Total: 480.0 mm - 500.0 mm"
+        ],
+        "aplicacion": "Shacman Delong: F2000, F3000, X3000, M3000 (Volquetes 6x4, 8x4 y Tractocamiones), Sinotruk HOWO / A7, Foton Auman / FAW / JAC",
+        "eficiencia": "Retiene más del 99.9% del polvo ambiental y partículas de sílice abrasiva de hasta 3 a 5 micras",
+        "imagen": "https://res.cloudinary.com/gcq9p4qu/image/upload/v1793114517/productos-repuestos/sha01.jpg"
+      },
+      {
+        "codigo": "FF20218",
+        "nombre": "filtro primario de combustible diésel Shacman DZ91189550169",
+        "categoria": "Filtros",
+        "estado": "Disponible",
+        "descripcion": [
+          "Diámetro Exterior: 118.0 mm – 120.0 mm",
+          "Rosca de montaje: 1'-14 UNS-2B (o M22×1.5 según base de adaptación)",
+          "Altura Total: 295.0 mm – 300.0 mm"
+        ],
+        "aplicacion": "Modelos Shacman: Shacman F2000, F3000, X3000, H3000 (configuraciones 6x4, 8x4 volquetes y remolcadores).",
+        "eficiencia": "aptura sedimentos sólidos, barro y residuos de tanques de almacenamiento con una eficiencia nominal del 98.5%",
+        "imagen": "https://res.cloudinary.com/gcq9p4qu/image/upload/v1793114518/productos-repuestos/sha02.avif"
+      },
+      {
+        "codigo": "LF17813",
+        "nombre": "Filtro de aceite de motor Shacman 6409138X",
+        "categoria": "Filtros",
+        "estado": "Disponible",
+        "descripcion": [
+          "Diámetro Exterior: 118,0 mm – 120,0 mm",
+          "Diámetro Interior / Boquilla: 54,0 mm (con cuello plastificado y junta de sellado integrada)",
+          "Altura Total: 238,0 mm – 242,0 mm"
+        ],
+        "aplicacion": "Shacman (Series X3000, F3000, H3000 en configuraciones volquete y tractor remolque 6x4)",
+        "eficiencia": "Eficiencia en Filtración de Hollín y Partículas (98.5%+ en 30 micras)",
+        "imagen": "https://res.cloudinary.com/gcq9p4qu/image/upload/v1793114519/productos-repuestos/sha03.jpg"
+      },
+      {
+        "codigo": "FS20193",
+        "nombre": "Filtro separador de agua y combustible diésel Shacman 612630080088",
+        "categoria": "Filtros",
+        "estado": "Disponible",
+        "descripcion": [
+          "Diámetro Exterior: 107.0 mm – 108.0 mm",
+          "Rosca de montaje: 1'-14 UNS-2B",
+          "Altura Total: 228.0 mm – 230.0 mm",
+          "Diámetro Empaque (O-Ring): 103.5 mm (Exterior) / ~93.0 mm (Interior)"
+        ],
+        "aplicacion": "Motores Weichai Power: WP10 (10L), WP12 (12L) y WP13 (13L) (Euro II, Euro III, Euro IV y Euro V)",
+        "eficiencia": "Remueve más del 95% del agua libre y emulsionada presente en el diésel mediante coalescencia",
+        "imagen": "https://res.cloudinary.com/gcq9p4qu/image/upload/v1793114519/productos-repuestos/sha04.avif"
+      },
+      {
+        "codigo": "FF5952",
+        "nombre": "Filtro de combustible diésel Shacman 6541889X",
+        "categoria": "Filtros",
+        "estado": "Disponible",
+        "descripcion": [
+          "Diámetro Exterior: 118,5 mm – 120,0 mm",
+          "Rosca de montaje: M95 x 2.5-7H (Rosca métrica para cabezales de alto flujo)",
+          "Altura Total: 268,5 mm – 270,0 mm"
+        ],
+        "aplicacion": "Shacman F3000 (Volquetes y Remolcadores), Shacman X3000 (Tractocamiones de larga distancia), Shacman H3000 (Camiones de distribución y construcción)",
+        "eficiencia": "98.7% a 4 micras (Absolute Rating según norma ISO 19438)",
+        "imagen": "https://res.cloudinary.com/gcq9p4qu/image/upload/v1793114520/productos-repuestos/sha05.jpg"
+      },
+      {
+        "codigo": "D29Y259190121",
+        "nombre": "Elemento filtrante de aire principal de motor Shacman D29Y259190121",
+        "categoria": "Filtros",
+        "estado": "Disponible",
+        "descripcion": [
+          "Estructura: Malla metálica perforada interior/exterior de refuerzo + sellos de poliuretano inyectado de alta densidad"
+        ],
+        "aplicacion": "Shacman F3000 (Volquetes 6x4, 8x4 y Remolcadores), Shacman X3000 (Tractocamiones y volquetes de larga distancia / minería), Shacman F2000 (Versiones con motores Weichai WP10 / WP12)",
+        "eficiencia": "Atrapa partículas de sílice y tierra de hasta 3 a 5 micras, evitando la entrada de polvo abrasivo",
+        "imagen": "https://res.cloudinary.com/gcq9p4qu/image/upload/v1793114521/productos-repuestos/sha06.jpg"
+      },
+      {
+        "codigo": "AF26569 / AA90134",
+        "nombre": "Kit de filtro de aire de admisión / Elemento cilíndrico para servicio pesado Sinotruck AF26569 / AA90134",
+        "categoria": "Filtros",
+        "estado": "Disponible",
+        "descripcion": [
+          "Diámetro Exterior Mayor: 281.0 mm – 284.0 mm",
+          "Diámetro Interior: 147.0 mm – 150.0 mm",
+          "Altura Total: 485.0 mm – 490.0 mm"
+        ],
+        "aplicacion": "Sinotruk Howo: Howo 7 / Howo A7 / Howo T7H (Volquetes 6x4, 8x4 y Tracto Remolcadores), Sinotruk Sitrak: C7H / G7 series, Shacman: F2000 / F3000 / X3000 (según configuración de portafiltro)",
+        "eficiencia": "Eficiencia de Filtración del 99.9% (ISO 5011)",
+        "imagen": "https://res.cloudinary.com/gcq9p4qu/image/upload/v1793114522/productos-repuestos/sin01.jpg"
+      },
+      {
+        "codigo": "AA90178",
+        "nombre": "Kit de filtro de aire cilíndrico Sinotruck WG9725190102 / WG9725190103",
+        "categoria": "Filtros",
+        "estado": "Disponible",
+        "descripcion": [
+          "Diámetro Exterior: 310.0 mm – 325.0 mm",
+          "Diámetro Interior: 190.0 mm – 210.0 mm",
+          "Altura Total: 480.0 mm – 500.0 mm"
+        ],
+        "aplicacion": "Sinotruk Howo: Volquetes y volquetes 6x4, 8x4 (Motores WD615, D10, D12), Sinotruk Sitrak: Tractocamiones T7H, C7H (Motores MC11 / MC13 tecnología MAN), Sinotruk A7: Tractocamiones y camiones rígidos",
+        "eficiencia": "Retención de 99.9% de partículas sólidas y sílice (norma ISO 5011)",
+        "imagen": "https://res.cloudinary.com/gcq9p4qu/image/upload/v1793114523/productos-repuestos/sin02.jpg"
+      },
+      {
+        "codigo": "4324102262",
+        "nombre": "cartucho secador de aire Wabco 4324102262",
+        "categoria": "Filtros",
+        "estado": "Disponible",
+        "descripcion": [
+          "Presión Máxima de Trabajo:13.0 bar (188 psi)",
+          "Rosca de Conexión:M39 x 1.5 (Rosca Derecha)"
+        ],
+        "aplicacion": "Mercedes-Benz: Actros, Axor, Atego, Volvo Truck: Series FH, FM, FL, Scania: Series PG R T",
+        "eficiencia": "Secado de Alto Rendimiento: Reduce el punto de rocío del aire comprimido, evitando la condensación de agua en los tanques de aire",
+        "imagen": "https://res.cloudinary.com/gcq9p4qu/image/upload/v1793114550/productos-repuestos/wab01.jpg"
+      }
+    ]
+  },
+  {
+    "marca": "TOYOTA",
+    "subtitulo": "REPUESTOS Y FILTROS ORIGINALES TOYOTA",
+    "banner": "https://res.cloudinary.com/gcq9p4qu/image/upload/v1793114542/productos-repuestos/toy_banner.png",
+    "hero": "https://res.cloudinary.com/gcq9p4qu/image/upload/v1793114543/productos-repuestos/toy_hero.png",
+    "productos": [
+      {
+        "codigo": "90430-12031",
+        "nombre": "Empaque / Arandela de Cárter",
+        "categoria": "Repuestos",
+        "estado": "Disponible",
+        "descripcion": [
+          "Material: Aluminio",
+          "Espesor del artículo: 1.2 pulgadas",
+          "Clasificación de temperatura superior: 200 grados centígrados",
+          "Presión nominal: 70 PSI",
+          "Dimensiones del producto: 2 x 1.2 x 1.2 pulgadas"
+        ],
+        "aplicacion": "Hilux, Fortuner, Prado, Corolla, Yaris, RAV4, Land Cruiser, HiAce, Coaster, Tacoma, Tundra, etc. (Modelos Toyota gasolina y diésel)",
+        "eficiencia": "diseñadas para sellar el tapón de drenaje de aceite de su vehículo de forma segura y sin fugas",
+        "imagen": "https://res.cloudinary.com/gcq9p4qu/image/upload/v1793114525/productos-repuestos/toy04.jpg"
+      },
+      {
+        "codigo": "04942-0K130",
+        "nombre": "Kit de Ajuste / Resortes de Zapata de Freno",
+        "categoria": "Repuestos",
+        "estado": "Disponible",
+        "descripcion": [
+          "Dimensiones estimadas del empaque:",
+          "48 mm de largo",
+          "196 mm de ancho",
+          "40 mm de alto"
+        ],
+        "aplicacion": "Toyota Hilux (Series KUN25, KUN26, GUN125, GUN126 - 2005+), Toyota Fortuner / SW4 (2005-2022+)",
+        "eficiencia": "Mantiene la tensión, posición y retorno correcto de las zapatas de freno dentro del tambor posterior",
+        "imagen": "https://res.cloudinary.com/gcq9p4qu/image/upload/v1793114526/productos-repuestos/toy05.avif"
+      },
+      {
+        "codigo": "04479-0K190",
+        "nombre": "Kit de Reparación / Sellos de Caliper Trasero/Delantero",
+        "categoria": "Repuestos",
+        "estado": "Disponible",
+        "descripcion": [
+          "Diámetro interno de los sellos de pistón: 45 mm de diámetro",
+          "Grosor del empaque principal: Aproximadamente 3.5 mm - 4.0 mm"
+        ],
+        "aplicacion": "Toyota Hilux Revo / Vigo (2005-2023+), Toyota Fortuner / SW4 (2005-2023+)",
+        "eficiencia": "Evita fugas de presión y asegurar el retorno correcto de las pastillas",
+        "imagen": "https://res.cloudinary.com/gcq9p4qu/image/upload/v1793114527/productos-repuestos/toy06.jpg"
+      },
+      {
+        "codigo": "94465-0K391",
+        "nombre": "Pastillas de freno delanteras",
+        "categoria": "Repuestos",
+        "estado": "Disponible",
+        "descripcion": [
+          "Ancho: 134,7 mm",
+          "Espesor / Grosor: 17 mm",
+          "Sistema de frenos: SUMITOMO"
+        ],
+        "aplicacion": "Toyota Hilux Revo / Rocco (2015-2023+), Toyota Fortuner (2015-2023+), Toyota HiAce (Serie GDH300 2019+)",
+        "eficiencia": "Toleran altas temperaturas sin perder fricción ('fade deportivo')",
+        "imagen": "https://res.cloudinary.com/gcq9p4qu/image/upload/v1793114527/productos-repuestos/toy07.jpg"
+      },
+      {
+        "codigo": "04495-0K120",
+        "nombre": "Juego de zapatas de freno traseras",
+        "categoria": "Repuestos",
+        "estado": "Disponible",
+        "descripcion": [
+          "Posición de montaje: Eje trasero (posterior)",
+          "Diámetro del tambor: 295 mm a 300 mm",
+          "Ancho de la zapata: 62 mm"
+        ],
+        "aplicacion": "Toyota Hilux Vigo y Revo 4x2 y 4x4 (Series KUN25, KUN26, GUN125, GUN126, TGN126 - 2005 a 2023+)",
+        "eficiencia": "Vida útil promedio entre 60,000 y 80,000 km (según carga)",
+        "imagen": "https://res.cloudinary.com/gcq9p4qu/image/upload/v1793114528/productos-repuestos/toy08.webp"
+      },
+      {
+        "codigo": "13568-39016",
+        "nombre": "Faja / Correa de Distribución (Timing Belt)",
+        "categoria": "Repuestos",
+        "estado": "Disponible",
+        "descripcion": [
+          "Numero de dientes: 97",
+          "Ancho: 25,0 mm",
+          "Longitud desarrollo: 924,0 mm",
+          "Paso de diente: 9,525 mm (3/8')",
+          "Perfil de diente: Redondeado / Curvilíneo"
+        ],
+        "aplicacion": "Hilux / Hilux Vigo (2004–2015+), Fortuner / SW4 (2005–2015+), Land Cruiser Prado (KDJ120 / KDJ150, 3.0L D-4D)",
+        "eficiencia": "Eficiencia volumétrica de la mezcla aire-combustible, reduciendo el consumo de diésel y la emisión de humos negros",
+        "imagen": "https://res.cloudinary.com/gcq9p4qu/image/upload/v1793114529/productos-repuestos/toy09.jpg"
+      },
+      {
+        "codigo": "23300-0L110",
+        "nombre": "Conjunto / Vaso Filtro de Combustible Completo",
+        "categoria": "Repuestos",
+        "estado": "Disponible",
+        "descripcion": [
+          "Tipo de Combustible: Diésel / Biodiésel (Common Rail)",
+          "Elemento Filtrante Interno: Reemplazable (Cartucho de papel de alta eficiencia / micraje fino)",
+          "Dimensiones Generales (Cartucho interno): Altura: 111 mm | Diámetro exterior: 89.8 mm | Diámetro interior: 30 mm",
+          "Dimensión de rosca de la salida (G) = 1-14UNS",
+          "Altura (H) = 190 mm"
+        ],
+        "aplicacion": "Toyota Hilux (Revo / Gun125) y Toyota Fortuner",
+        "eficiencia": "Retiene partículas contaminantes de hasta 2 a 5 micras",
+        "imagen": "https://res.cloudinary.com/gcq9p4qu/image/upload/v1793114529/productos-repuestos/toy10.avif"
+      },
+      {
+        "codigo": "90915-YZZD2",
+        "nombre": "Filtro de aceite Toyota 90915-YZZD2",
+        "categoria": "Filtros",
+        "estado": "Disponible",
+        "descripcion": [
+          "Medida de rosca: 3/4' - 16 UNF",
+          "Diámetro exterior: Aprox. 74 mm – 78 mm (según punto de medición)",
+          "Altura: Aprox. 85 mm – 89 mm"
+        ],
+        "aplicacion": "Toyota Hilux (Gasolina 2.7L), Fortuner, Prado 120/150 (4.0L V6), 4Runner, Tacoma, FJ Cruiser, Land Cruiser 70/80/100, HiAce Gasolina",
+        "eficiencia": "Superior al 99 % con elementos de alta densidad para retención de partículas",
+        "imagen": "https://res.cloudinary.com/gcq9p4qu/image/upload/v1793114530/productos-repuestos/toy11.jpg"
+      },
+      {
+        "codigo": "90915-YZZE1",
+        "nombre": "Filtro de aceite Toyota 90915-YZZE1",
+        "categoria": "Filtros",
+        "estado": "Disponible",
+        "descripcion": [
+          "Diámetro exterior: Entre 65 mm y 66 mm",
+          "Altura: 75 mm",
+          "Medida de rosca: 3/4-16 UNF",
+          "Diámetro de la junta (interior): 55 mm",
+          "Diámetro de la junta (exterior): 62 mm"
+        ],
+        "aplicacion": "Toyota Yaris (2000-2020), Toyota Etios, Toyota Corolla (1.6L/1.8L generaciones previas a 2008), Toyota Echo, Toyota Passo / Passo Sette",
+        "eficiencia": "Captura de forma óptima partículas de entre 25 y 30 micras",
+        "imagen": "https://res.cloudinary.com/gcq9p4qu/image/upload/v1793114531/productos-repuestos/toy12.jpg"
+      },
+      {
+        "codigo": "23390-0L041",
+        "nombre": "Elemento filtrante de combustible Toyota 23390-0L041",
+        "categoria": "Filtros",
+        "estado": "Disponible",
+        "descripcion": [
+          "Altura / Largo: 75 mm a 75.3 mm",
+          "Diámetro exterior: 83 mm a 84 mm",
+          "Diámetro interior: 9.3 mm (con paso de acople aprox. de 22.3 mm)",
+          "Dimensión de rosca de la salida (G) = 1-14UNS",
+          "Altura (H) = 143 mm"
+        ],
+        "aplicacion": "Toyota Hilux Vigo (2005-2015), Toyota Fortuner (2005-2015), Toyota HiAce (2005-2019), Toyota Innova Diésel (2005-2015)",
+        "eficiencia": "Alcanza hasta un 99.8% de efectividad en la retención de contaminantes sólidos",
+        "imagen": "https://res.cloudinary.com/gcq9p4qu/image/upload/v1793114531/productos-repuestos/toy13.jpg"
+      },
+      {
+        "codigo": "23390-0L070",
+        "nombre": "Filtro de combustible (petróleo) Toyota 23390-0L070",
+        "categoria": "Filtros",
+        "estado": "Disponible",
+        "descripcion": [
+          "Altura aproximada: 104 mm – 109 mm",
+          "Diámetro exterior: 87 mm – 89 mm",
+          "Diámetro interior: Aprox. 39 mm"
+        ],
+        "aplicacion": "Toyota Hilux Revo / Rocco (2015-2024+), Toyota Fortuner / SW4 (2015-2024+), Toyota Innova Diésel (2016+), Toyota Land Cruiser Prado 150 (1GD-FTV)",
+        "eficiencia": "etiene partículas ultrafinas de hasta 4 micras de tamaño",
+        "imagen": "https://res.cloudinary.com/gcq9p4qu/image/upload/v1793114532/productos-repuestos/toy14.jpg"
+      },
+      {
+        "codigo": "17801-0C010",
+        "nombre": "Elemento de filtro de aire Toyota 17801-0C010",
+        "categoria": "Filtros",
+        "estado": "Disponible",
+        "descripcion": [
+          "Diámetro exterior mayor (OD): Aprox. 222 mm – 223 mm",
+          "Diámetro interior mayor / inferior (ID): Aprox. 120 mm – 121 mm",
+          "Altura / Longitud total: Aprox. 168.5 mm – 174 mm"
+        ],
+        "aplicacion": "Toyota Hilux Vigo / Revo Gasolina (2005-2020+), Toyota Fortuner Gasolina (2.7L / 4.0L), Toyota Tacoma (2.7L 2005-2015)",
+        "eficiencia": "Eficiencia de filtrado es de aproximadamente el 99% al 99.5% en la retención de partículas suspendidas.",
+        "imagen": "https://res.cloudinary.com/gcq9p4qu/image/upload/v1793114533/productos-repuestos/toy15.jpg"
+      },
+      {
+        "codigo": "17801-0L040",
+        "nombre": "Filtro de aceite Toyota 17801-0L040",
+        "categoria": "Filtros",
+        "estado": "Disponible",
+        "descripcion": [
+          "Longitud (Largo): Aprox. 323 mm – 324 mm",
+          "Ancho: Aprox. 240 mm – 241 mm",
+          "Altura (Alto): Aprox. 55 mm – 58 mm"
+        ],
+        "aplicacion": "Toyota Hilux Vigo 4x2 / 4x4 (2004-2015), Toyota Fortuner (2005-2015), Toyota Innova Diésel (2005-2015)",
+        "eficiencia": "Encima del 99% en la retención de partículas sólidas",
+        "imagen": "https://res.cloudinary.com/gcq9p4qu/image/upload/v1793114533/productos-repuestos/toy16.png"
+      },
+      {
+        "codigo": "87139-58010",
+        "nombre": "Filtro de aire de cabina Toyota 87139-58010",
+        "categoria": "Filtros",
+        "estado": "Disponible",
+        "descripcion": [
+          "Largo: 213 mm – 215 mm",
+          "Ancho: 193 mm – 195 mm",
+          "Alto/Espesor: 29 mm – 30 mm"
+        ],
+        "aplicacion": "Toyota Hilux (2005+), Fortuner, Corolla (2007-2019), Yaris (2006+), RAV4 (2006-2018), Land Cruiser Prado 120/150, Camry, Lexus IS/GS/RX",
+        "eficiencia": "Retiene entre el 85% y 95% de partículas finas de hasta 2.5 micras",
+        "imagen": "https://res.cloudinary.com/gcq9p4qu/image/upload/v1793114534/productos-repuestos/toy17.jpg"
+      },
+      {
+        "codigo": "04152-37010",
+        "nombre": "Elemento filtrante de aceite del motor Toyota 04152-37010",
+        "categoria": "Filtros",
+        "estado": "Disponible",
+        "descripcion": [
+          "Diámetro Exterior (D 1): 60.0 mm",
+          "Diámetro Interior (D 2) = 28.0 mm",
+          "Altura Total (H) = 56.0 mm"
+        ],
+        "aplicacion": "Toyota Corolla (2009-2019+), Toyota Prius / Prius C (2010-2022), Toyota C-HR (1.8L Híbrido), Toyota Yaris Europe, Lexus CT200h (2011-2017)",
+        "eficiencia": "Retiene hasta el 98% de las partículas con un tamaño de 20 a 25 micras",
+        "imagen": "https://res.cloudinary.com/gcq9p4qu/image/upload/v1793114535/productos-repuestos/toy18.webp"
+      },
+      {
+        "codigo": "87139-0K070",
+        "nombre": "Filtro de aire de cabina Toyota 87139-0K070",
+        "categoria": "Filtros",
+        "estado": "Disponible",
+        "descripcion": [
+          "Longitud: 214 - 217 mm",
+          "Ancho: 185 - 186 mm",
+          "Grosor / Profundidad: 29 mm"
+        ],
+        "aplicacion": "Toyota Corolla (2009-2019+), Toyota Prius / Prius C (2010-2022), Toyota C-HR (1.8L Híbrido), Toyota Yaris Europe, Lexus CT200h (2011-2017)",
+        "eficiencia": "Retiene entre el 99% y el 99.8% de las partículas suspendidas en el aire",
+        "imagen": "https://res.cloudinary.com/gcq9p4qu/image/upload/v1793114536/productos-repuestos/toy19.webp"
+      },
+      {
+        "codigo": "17801-31160",
+        "nombre": "Filtro de aire del motor Toyota 17801-31160",
+        "categoria": "Filtros",
+        "estado": "Disponible",
+        "descripcion": [
+          "Largo: 240.0 mm - 242.0 mm",
+          "Ancho: 220.0 mm - 222.0 mm",
+          "Alto/Espesor: 54.0 mm - 56.0 mm"
+        ],
+        "aplicacion": "Toyota RAV4 (2.5L 2013-2018), Toyota Highlander (2014-2019), Toyota Camry (3.5L V6 2012-2017), Toyota Sienna (2011-2020), Lexus RX350 / ES350",
+        "eficiencia": "Retiene hasta el 99.5% del polvo ambiental y partículas abrasivas (sílice) de hasta 5 a 10 micras",
+        "imagen": "https://res.cloudinary.com/gcq9p4qu/image/upload/v1793114536/productos-repuestos/toy20.jpg"
+      },
+      {
+        "codigo": "17801-30070",
+        "nombre": "Filtro de aire del motor Toyota 17801-30070",
+        "categoria": "Filtros",
+        "estado": "Disponible",
+        "descripcion": [
+          "Largo: 222.0 mm – 225.0 mm",
+          "Ancho: 220.0 mm – 223.0 mm",
+          "Alto/Espesor: 56.0 mm – 58.0 mm"
+        ],
+        "aplicacion": "Toyota Hilux Vigo 4x4 / 4x2 (2004-2015), Toyota Fortuner (2005-2015), Toyota HiAce (Versiones 1KD/2KD), Toyota Innova Diésel",
+        "eficiencia": "Captura del 99.8% de Contaminantes Críticos: Atrapa partículas de sílice y polvo ambiental de hasta 5 a 10 micras",
+        "imagen": "https://res.cloudinary.com/gcq9p4qu/image/upload/v1793114537/productos-repuestos/toy21.jpg"
+      },
+      {
+        "codigo": "17801-0Y040",
+        "nombre": "Filtro de aire Toyota 17801-0Y040",
+        "categoria": "Filtros",
+        "estado": "Disponible",
+        "descripcion": [
+          "Longitud (A) = 207 mm",
+          "Ancho: Aproximadamente 123 - 124 mm"
+        ],
+        "aplicacion": "Toyota Yaris / Yaris Sedan (2013-2023+), Toyota Etios (2016+), Toyota Avanza (2015+), Toyota Etios Valco / Cross",
+        "eficiencia": "Retiene partículas microscópicas de polvo, polen, hollín y residuos abrasivos",
+        "imagen": "https://res.cloudinary.com/gcq9p4qu/image/upload/v1793114537/productos-repuestos/toy22.jpg"
+      },
+      {
+        "codigo": "17801-21050",
+        "nombre": "Filtro de aire del motor Toyota 17801-21050",
+        "categoria": "Filtros",
+        "estado": "Disponible",
+        "descripcion": [
+          "Largo: 238.0 mm – 240.0 mm",
+          "Ancho: 174.0 mm – 176.0 mm",
+          "Alto/Espesor: 50.0 mm – 52.0 mm"
+        ],
+        "aplicacion": "Toyota Yaris / Vitz (2005-2014), Toyota Prius C / Aqua (2012-2021), Toyota Sienta, Toyota Probox, Toyota Belta, Scion xD",
+        "eficiencia": "Retención de Polvo (99.4%+): Captura partículas de abrasivos duros (sílice, tierra y hollín) de hasta 5 a 10 micras",
+        "imagen": "https://res.cloudinary.com/gcq9p4qu/image/upload/v1793114538/productos-repuestos/toy23.jpg"
+      },
+      {
+        "codigo": "17801-25020",
+        "nombre": "Filtro de aire del motor Toyota 17801-25020",
+        "categoria": "Filtros",
+        "estado": "Disponible",
+        "descripcion": [
+          "Largo: 268.0 mm – 270.0 mm",
+          "Ancho: 178.0 mm – 180.0 mm",
+          "Alto/Espesor: 43.0 mm – 45.0 mm"
+        ],
+        "aplicacion": "Toyota RAV4 (Serie XA50 - 2019-2024+), Toyota Camry (2018-2024+), Toyota Avalon (2019+), Lexus ES250 / ES300h (2019+)",
+        "eficiencia": "Captura de Contaminantes (99.6%+): Retiene micropartículas de polvo, sílice y cenizas de hasta 3 a 5 micras",
+        "imagen": "https://res.cloudinary.com/gcq9p4qu/image/upload/v1793114539/productos-repuestos/toy25.jpg"
+      },
+      {
+        "codigo": "17801-BZ110",
+        "nombre": "Filtro de aire del motor Toyota 17801-BZ110",
+        "categoria": "Filtros",
+        "estado": "Disponible",
+        "descripcion": [
+          "Largo: 268.0 mm – 248.0 mm - 250.0 mm",
+          "Ancho: 178.0 mm – 120.0 mm - 122.0 mm",
+          "Alto/Espesor: 35.0 mm – 37.0 mm"
+        ],
+        "aplicacion": "Toyota Avanza (2015-2022+), Toyota Rush (2017-2023+), Daihatsu Xenia / Terios, Toyota Wigo / Agya (según versión de motor)",
+        "eficiencia": "EEficacia de Filtración (99.5%+): Retiene el 99.5% de micropartículas de sílice y suciedad en rangos de 5 a 10 micras",
+        "imagen": "https://res.cloudinary.com/gcq9p4qu/image/upload/v1793114542/productos-repuestos/toy27.jpg"
+      }
+    ]
+  },
+  {
+    "marca": "VARIOS / MULTIMARCA",
+    "subtitulo": "REPUESTOS Y FILTROS PARA FORD, NISSAN, MAZDA Y RENAULT",
+    "banner": "https://res.cloudinary.com/gcq9p4qu/image/upload/v1793114544/productos-repuestos/varios_banner.png",
+    "hero": "./asetts/img/productos/varios_hero.png",
+    "productos": [
+      {
+        "codigo": "AB39-9601-AB",
+        "nombre": "Filtro de aire para motor Ford",
+        "categoria": "Filtros",
+        "estado": "Disponible",
+        "descripcion": [
+          "Largo: 288.0 mm – 290.0 mm",
+          "Ancho: 234.0 mm – 236.0 mm",
+          "Alto / Espesor: 52.0 mm – 54.0 mm"
+        ],
+        "aplicacion": "Ford Ranger: (Generación T6 / PX, 2011–2022+ / Motores 2.2L, 3.2L y 2.5L), Ford Everest: (2015–2022 / Motores 2.2L y 3.2L TDCi)",
+        "eficiencia": "Protección del Turbo y Motor (Captura de Partículas del 99.7%+)",
+        "imagen": "https://res.cloudinary.com/gcq9p4qu/image/upload/v1793114431/productos-repuestos/for03.jpg"
+      },
+      {
+        "codigo": "EB3G-917-6AB",
+        "nombre": "Cartucho filtrante de combustible diésel Ford EB3G-917-6AB",
+        "categoria": "Filtros",
+        "estado": "Disponible",
+        "descripcion": [
+          "Diámetro Exterior (D 1): 84.0 mm – 86.0 mm",
+          "Diámetro Interior (D 2): 38.0 mm – 40.0 mm",
+          "Altura Total (H): 142.0 mm – 145.0 mm"
+        ],
+        "aplicacion": "Ford Ranger: (Generación T6 / PX, años 2012–2022+ con motores 2.2L y 3.2L), Ford Everest: (2015–2022+ con motores 2.2L y 3.2L)",
+        "eficiencia": "Mantiene una efectividad de retención del 99%+ en partículas de 2 a 4 micras",
+        "imagen": "https://res.cloudinary.com/gcq9p4qu/image/upload/v1793114431/productos-repuestos/for04.jpg"
+      },
+      {
+        "codigo": "BB3Q-6744-BA",
+        "nombre": "Elemento filtrante de aceite Ford BB3Q-6744-BA",
+        "categoria": "Filtros",
+        "estado": "Disponible",
+        "descripcion": [
+          "Diámetro Exterior (D 1): 64.5 mm – 65.0 mm",
+          "Diámetro Interior (D 2): 28.5 mm – 29.0 mm",
+          "Altura Total (H): 69.0 mm – 70.0 mm"
+        ],
+        "aplicacion": "Ford Ranger: (Generación T6 / 2.2L y 3.2L 2012–2023+)",
+        "eficiencia": "Eficiencia en Captura de Hollín y Partículas (99%+ a 20-25 micras)",
+        "imagen": "https://res.cloudinary.com/gcq9p4qu/image/upload/v1793114432/productos-repuestos/for05.jpg"
+      },
+      {
+        "codigo": "U20214302",
+        "nombre": "Cartucho ecológico de aceite Ford U20214302",
+        "categoria": "Filtros",
+        "estado": "Disponible",
+        "descripcion": [
+          "Diámetro Exterior (D 1): 64.0 mm – 65.0 mm",
+          "Diámetro Interior (D 2): 26.0 mm – 28.0 mm",
+          "Altura Total (H): 69.0 mm – 74.0 mm"
+        ],
+        "aplicacion": "Ford Ranger / Ranger Wildtrak (T6 / PX / PXII / PXIII - 2.2L y 3.2L, 2011–2022)",
+        "eficiencia": "Filtración y Captura de Hollín (99%+), Retiene micropartículas de 15 a 20 micras",
+        "imagen": "https://res.cloudinary.com/gcq9p4qu/image/upload/v1793114433/productos-repuestos/for06.jpg"
+      },
+      {
+        "codigo": "16403-4KVOA",
+        "nombre": "Cartucho filtrante de combustible diésel Nissan 16403-4KVOA",
+        "categoria": "Filtros",
+        "estado": "Disponible",
+        "descripcion": [
+          "Diámetro Exterior (D 1): 84,0 mm – 86,0 mm",
+          "Diámetro Interior (D 2): 28,0 mm – 30,0 mm",
+          "Altura Total (H): 135,0 mm – 138,0 mm"
+        ],
+        "aplicacion": "Nissan Frontier / NP300 / Navara (D23)",
+        "eficiencia": "Retiene hasta el 99% de sedimentos, hollín y partículas de óxido suspendidas en el diésel",
+        "imagen": "https://res.cloudinary.com/gcq9p4qu/image/upload/v1793114508/productos-repuestos/nin03.jpg"
+      },
+      {
+        "codigo": "16546-4JM1C",
+        "nombre": "Filtro de aire de motor Nissan 16546-4JM1C",
+        "categoria": "Filtros",
+        "estado": "Disponible",
+        "descripcion": [
+          "Diámetro Exterior (D 1): 278.0 mm – 280.0 mm",
+          "Diámetro Interior (D 2): 170.0 mm – 172.0 mm",
+          "Altura Total (H): 33.0 mm – 35.0 mm"
+        ],
+        "aplicacion": "Nissan Frontier / NP300: (Series D23, 2015–2024+ / Motores 2.3L Diesel Bi-Turbo y Single Turbo)",
+        "eficiencia": "Retiene hasta el 99.5% de sílice, tierra y polvo fino de hasta 5 a 10 micras",
+        "imagen": "https://res.cloudinary.com/gcq9p4qu/image/upload/v1793114509/productos-repuestos/nin04.webp"
+      },
+      {
+        "codigo": "15208-BN30A",
+        "nombre": "Filtro de aceite Nissan 15208-BN30A",
+        "categoria": "Filtros",
+        "estado": "Disponible",
+        "descripcion": [
+          "Rosca de Acople: M20 x 1.5",
+          "Diámetro Exterior: 80.0 mm",
+          "Altura Total: 100.0 mm – 102.0 mm"
+        ],
+        "aplicacion": "Nissan Navara / Frontier (D40): (2005–2015+ / Motor 2.5L YD25), Nissan Pathfinder (R51): (2005–2012 / Motor 2.5L DCI)",
+        "eficiencia": "etiene hasta el 99% de las partículas abrasivas (hollín de combustión diésel, carbón y micropartículas metálicas) de 20 a 25 micras.",
+        "imagen": "https://res.cloudinary.com/gcq9p4qu/image/upload/v1793114510/productos-repuestos/nin05.jpg"
+      },
+      {
+        "codigo": "BYY1-14-302A",
+        "nombre": "Filtro de aceite blindado Mazda BYY1-14-302A",
+        "categoria": "Filtros",
+        "estado": "Disponible",
+        "descripcion": [
+          "Rosca de Montaje: M20 x 1.5",
+          "Diámetro Exterior: 68.0 mm – 70.0 mm",
+          "Altura Total: 65.0 mm – 68.0 mm",
+          "Diámetro Empaque: 55.0 mm (Interior) / 64.0 mm (Exterior)"
+        ],
+        "aplicacion": "Mazda 2: (2015+), Mazda 3: (2014+), Mazda 6: (2013+), Mazda CX-3 / CX-30: (Todos los años), Mazda CX-5: (2012+), Mazda CX-50: (2022+), Mazda MX-5 Miata: (ND 2015+)",
+        "eficiencia": "Mantiene una retención del 98%+ en micraje de 20 a 25 micras sin ofrecer resistencia excesiva al flujo",
+        "imagen": "https://res.cloudinary.com/gcq9p4qu/image/upload/v1793114500/productos-repuestos/maz03.jpg"
+      },
+      {
+        "codigo": "7,700,274,177",
+        "nombre": "Filtro de aceite roscado Renaul 7700274177",
+        "categoria": "Filtros",
+        "estado": "Disponible",
+        "descripcion": [
+          "Rosca de Acople: M20 x 1.5",
+          "Diámetro Exterior: 76.0 mm",
+          "Altura Total: 50.0 mm (Diseño compacto / short canister)",
+          "Diámetro Empaque: Exterior: 72.0 mm | Interior: 62.0 mm"
+        ],
+        "aplicacion": "Renault Duster: (Motores 1.6L K4M y 2.0L F4R), Renault Logan / Sandero / Stepway: (Motores 1.6L K7M / K4M), Renault Symbol / Clio II y III: (1.2L, 1.4L, 1.6L)",
+        "eficiencia": "Captura el 98% de las partículas abrasivas (partículas metálicas y residuos de combustión) a partir de 20 micras",
+        "imagen": "https://res.cloudinary.com/gcq9p4qu/image/upload/v1793114516/productos-repuestos/ren03.jpg"
+      }
+    ]
+  },
+  {
+    "marca": "VOLVO",
+    "subtitulo": "REPUESTOS Y FILTROS ORIGINALES VOLVO TRUCKS Y CE",
+    "banner": "https://res.cloudinary.com/gcq9p4qu/image/upload/v1793114548/productos-repuestos/volvo_banner.png",
+    "hero": "https://res.cloudinary.com/gcq9p4qu/image/upload/v1793114549/productos-repuestos/volvo_hero.png",
+    "productos": [
+      {
+        "codigo": "21380488",
+        "nombre": "Filtro de Combustible Secundario",
+        "categoria": "Filtros",
+        "estado": "Disponible",
+        "descripcion": [
+          "Rosca: M18 x 1.5 / M32 x 1.5",
+          "Diámetro Exterior: 93 mm – 95 mm",
+          "Altura Total: 168 mm – 172 mm",
+          "Junta de sellado: 72 mm ext. / 62 mm int"
+        ],
+        "aplicacion": "Camiones: Volvo FH, FM, FMX, FL, FE (Motores D11, D13, D16 — Euro 4, Euro 5 y Euro 6); Autobuses: Volvo B9R, B11R, B13R; Maquinaria / Equipos Volvo CE: Excavadoras EC380D, EC480D; Cargadores Frontales L180H, L220H, L250H (motores D13H/J)",
+        "eficiencia": "Retención microfina de 3 a 5 micras. Atrapa micropartículas sólidas y finos de hollín antes de la inyección",
+        "imagen": "https://res.cloudinary.com/gcq9p4qu/image/upload/v1793114545/productos-repuestos/vol01.jpg"
+      },
+      {
+        "codigo": "8159975",
+        "nombre": "Filtro de Aceite de Motor",
+        "categoria": "Filtros",
+        "estado": "Disponible",
+        "descripcion": [
+          "Rosca: 1 1/8'-16 UN",
+          "Diámetro Exterior: 108 mm",
+          "Altura Total: 262 mm",
+          "Junta de sellado: 103 mm ext. / 93 mm int"
+        ],
+        "aplicacion": "Camiones: Volvo FH12, FM12, NH12, FL12 (Motores D12A, D12B, D12C, D12D), Autobuses: Volvo B12, B12B, B12M.",
+        "eficiencia": "Filtración de flujo principal de 25 micras. Asegura el flujo masivo continuo de lubricación",
+        "imagen": "https://res.cloudinary.com/gcq9p4qu/image/upload/v1793114545/productos-repuestos/vol02.jpg"
+      },
+      {
+        "codigo": "21412848",
+        "nombre": "Filtro de Aceite de Motor",
+        "categoria": "Filtros",
+        "estado": "Disponible",
+        "descripcion": [
+          "Rosca: 1 3/8'-16 UN",
+          "Diámetro Exterior: 108 mm",
+          "Altura Total: 262 mm"
+        ],
+        "aplicacion": "Camiones: Volvo FH, FM, FMX, NH12 (Motores D11, D13, D16, D12D), Autobuses: Volvo B9R, B11R, B13R, Maquinaria Volvo CE: Excavadoras EC700C/D, EC750D y Cargadores L350F",
+        "eficiencia": "Filtración de ultra precisión en circuito de derivación (5 a 10 micras)",
+        "imagen": "https://res.cloudinary.com/gcq9p4qu/image/upload/v1793114546/productos-repuestos/vol03.jpg"
+      },
+      {
+        "codigo": "21707133",
+        "nombre": "Filtro de Combustible Separador de Agua",
+        "categoria": "Filtros",
+        "estado": "Disponible",
+        "descripcion": [
+          "Rosca Superior: 1'-14 UNS",
+          "Diámetro Exterior: 108 mm",
+          "Altura Total: 226 mm – 230 mm",
+          "Rosca Inferior: 1 1/4'-10 (para tazón transparente / sensor de agua)"
+        ],
+        "aplicacion": "Camiones: Volvo FH, FM, FMX, VM (Motores D11, D13, D16, D7E — Euro 3, Euro 4, Euro 5), Autobuses: Volvo B7R, B9R, B11R, Maquinaria de Construcción: Equipos Volvo CE con motores D6, D7, D11 y D13.",
+        "eficiencia": "Separación superior al 95% del agua libre y emulsionada en el diésel",
+        "imagen": "https://res.cloudinary.com/gcq9p4qu/image/upload/v1793114547/productos-repuestos/vol04.jpg"
+      },
+      {
+        "codigo": "22480372",
+        "nombre": "Filtro Separador de Agua",
+        "categoria": "Filtros",
+        "estado": "Disponible",
+        "descripcion": [
+          "Rosca: 1'-14 UNS / M22 x 1.5",
+          "Diámetro Exterior: 108 mm – 110 mm",
+          "Altura Total: 268 mm – 275 mm"
+        ],
+        "aplicacion": "Camiones: Volvo FH4, FM4, FMX4 (Motores D13K, D16K Euro 6 / D13C Euro 5 de última generación), Autobuses: Volvo B8R, B11R (Euro 6), Equipos Volvo CE: Maquinaria de última generación series G y H",
+        "eficiencia": "Filtración primaria de 10 micras con separación de agua de alta eficiencia (>98%)",
+        "imagen": "https://res.cloudinary.com/gcq9p4qu/image/upload/v1793114547/productos-repuestos/vol05.png"
+      },
+      {
+        "codigo": "27707132",
+        "nombre": "Filtro de Aceite de Motor",
+        "categoria": "Filtros",
+        "estado": "Disponible",
+        "descripcion": [
+          "Rosca: 1 1/8'-16 UN / 1 3/8'-16 UN",
+          "Diámetro Exterior: 108 mm",
+          "Altura Total: 262 mm"
+        ],
+        "aplicacion": "Camiones: Volvo FH, FM, FMX (Motores D11K, D13K, D16K — Euro 5 y Euro 6), Autobuses: Volvo B11R, B13R Euro 6",
+        "eficiencia": "Filtración dual continua que combina retención de virutas de desgaste en flujo total",
+        "imagen": "https://res.cloudinary.com/gcq9p4qu/image/upload/v1793114548/productos-repuestos/vol06.webp"
+      }
+    ]
+  },
+  {
+    "marca": "DONALDSON",
+    "subtitulo": "SOLUCIONES AVANZADAS DE FILTRACIÓN INDUSTRIAL Y PESADA",
+    "banner": "./asetts/img/productos/donaldson_banner.png",
+    "hero": "https://res.cloudinary.com/gcq9p4qu/image/upload/v1793114379/productos-repuestos/donaldson_hero.png",
+    "productos": [
+      {
+        "codigo": "P551423",
+        "nombre": "Filtro de combustible, separador de agua enroscable",
+        "categoria": "Filtros",
+        "estado": "Disponible",
+        "descripcion": [
+          "Diámetro exterior: 80 MM (3.15 Pulgadas)",
+          "Longitud: 135.4 MM (5.33 Pulgadas)"
+        ],
+        "aplicacion": "Camiones: Kenworth T800, W900; Freightliner Cascadia, Columbia; International 9400i/9900i, Maquinaria Cat: Excavadoras 345C/D, 349E; Cargadores 980H/K; Tractores D8R/T, D9T.",
+        "eficiencia": "Eficiencia: 10 micras al 99% (ISO 19438)",
+        "imagen": "https://res.cloudinary.com/gcq9p4qu/image/upload/v1793114371/productos-repuestos/don01.jpg"
+      },
+      {
+        "codigo": "P551430",
+        "nombre": "Filtro de combustible, cartucho separador de agua",
+        "categoria": "Filtros",
+        "estado": "Disponible",
+        "descripcion": [
+          "Diámetro exterior: 80 MM (3.15 Pulgadas)",
+          "Longitud: 154.3 MM (6.07 Pulgadas)"
+        ],
+        "aplicacion": "Camiones: DAF LF45, LF55; Freightliner M2 106; Kenworth T270, T370; VW Constellation / Worker, Maquinaria: Excavadoras Komatsu PC200-8, PC220-8; Camiones Volvo FL/FE.",
+        "eficiencia": "Eficiencia: 10 micras al 98.7%.",
+        "imagen": "https://res.cloudinary.com/gcq9p4qu/image/upload/v1793114372/productos-repuestos/don02.jpg"
+      },
+      {
+        "codigo": "P551424",
+        "nombre": "Filtro de combustible, separador de agua roscado",
+        "categoria": "Filtros",
+        "estado": "Disponible",
+        "descripcion": [
+          "Diámetro exterior: 80 MM (3.15 Pulgadas)",
+          "Longitud: 154.3 MM (6.07 Pulgadas)"
+        ],
+        "aplicacion": "Camiones: Freightliner Century, Coronado, Cascadia; Western Star 4900; Volvo VNL/VNM, Maquinaria: Maquinaria agrícola John Deere y equipos de minería subterránea.",
+        "eficiencia": "Excelente capacidad de retención de agua en tanques con condensación, 10 micras al 99%",
+        "imagen": "https://res.cloudinary.com/gcq9p4qu/image/upload/v1793114378/productos-repuestos/don3.jpg"
+      },
+      {
+        "codigo": "P958225 ; P958909",
+        "nombre": "Kit de filtro de aire, RadialSeal X773026",
+        "categoria": "Filtros",
+        "estado": "Disponible",
+        "descripcion": [
+          "Diámetro exterior: 165.3 MM (6.51 Pulgadas) / 325 MM (12.80 Pulgadas)",
+          "Diámetro: interior: 141 MM (5.55 Pulgadas) / 192.95 MM (7.60 Pulgadas)",
+          "Longitud:323.5 MM (12.74 Pulgadas) / 410 MM (16.14 Pulgadas)"
+        ],
+        "aplicacion": "Camiones Volvo (series FM y FMX) y Renault (series C480 / C520).",
+        "eficiencia": "Sistema RadialSeal crea un sello confiable a prueba de fugas que impide la entrada de polvo y contaminación al lado limpio del motor",
+        "imagen": "https://res.cloudinary.com/gcq9p4qu/image/upload/v1793114373/productos-repuestos/don04.jpg"
+      },
+      {
+        "codigo": "P607965",
+        "nombre": "Filtro de aire, primario redondo",
+        "categoria": "Filtros",
+        "estado": "Disponible",
+        "descripcion": [
+          "Diámetro exterior: 377 MM (14.84 Pulgadas)",
+          "Longitud: 203 MM (7.99 Pulgadas)",
+          "Equivalente: Fleetguard AF26424 ; "
+        ],
+        "aplicacion": "Camiones Freightliner Business Class M2 (específicamente modelos M2-112 de alta potencia / High HP)",
+        "eficiencia": "uperior al 99.9% bajo la norma de prueba ISO 5011",
+        "imagen": "https://res.cloudinary.com/gcq9p4qu/image/upload/v1793114374/productos-repuestos/don05.jpg"
+      },
+      {
+        "codigo": "P607955",
+        "nombre": "Filtro de aire, primario redondo",
+        "categoria": "Filtros",
+        "estado": "Disponible",
+        "descripcion": [
+          "Diámetro exterior: 377 MM (14.84 Pulgadas)",
+          "Longitud: 203 MM (7.99 Pulgadas)",
+          "Equivalente: Fleetguard AF26154 ; "
+        ],
+        "aplicacion": "Camiones y autobuses de la serie Freightliner M2 (como los modelos M2 106)",
+        "eficiencia": "Efectividad de filtración del 99.99% bajo la norma de prueba ISO 5011",
+        "imagen": "https://res.cloudinary.com/gcq9p4qu/image/upload/v1793114374/productos-repuestos/don06.jpg"
+      },
+      {
+        "codigo": "P607960",
+        "nombre": "Filtro de aire, primario redondo",
+        "categoria": "Filtros",
+        "estado": "Disponible",
+        "descripcion": [
+          "Diámetro 326 MM (12.83 Pulgadas)",
+          "Longitud: 203 MM (7.99 Pulgadas)",
+          "Equivalente: Fleetguard AF4331"
+        ],
+        "aplicacion": "Camiones Freightliner Serie M2",
+        "eficiencia": "Certificado bajo la norma de eficiencia ISO 5011",
+        "imagen": "https://res.cloudinary.com/gcq9p4qu/image/upload/v1793114375/productos-repuestos/don07.jpg"
+      },
+      {
+        "codigo": "P618478",
+        "nombre": "Filtro de aire, panel para motor",
+        "categoria": "Filtros",
+        "estado": "Disponible",
+        "descripcion": [
+          "Longitud: 664.9 MM (26.18 Pulgadas)",
+          "Ancho: 132.8 MM (5.23 Pulgadas)",
+          "Altura: 235.6 MM (9.28 Pulgadas)",
+          "Equivalente: Fleetguard AF27879"
+        ],
+        "aplicacion": "Camiones Freightliner Cascadia (incluyendo generaciones clásicas y años de producción como 2008, 2012, 2013, 2014)",
+        "eficiencia": "Cuenta con una efectividad del 99.95 % (según la norma ISO 5011)",
+        "imagen": "https://res.cloudinary.com/gcq9p4qu/image/upload/v1793114377/productos-repuestos/don10.jpg"
+      },
+      {
+        "codigo": "P537876",
+        "nombre": "Filtro de aire, primario RadialSeal",
+        "categoria": "Filtros",
+        "estado": "Disponible",
+        "descripcion": [
+          "Diámetro exterior: 281.6 MM (11.09 Pulgadas)",
+          "Diámetro interior: 147.9 MM (5.82 Pulgadas)",
+          "Longitud: 510 MM (20.08 Pulgadas)"
+        ],
+        "aplicacion": "Excavadoras (incluyendo hidráulicas de gran tonelaje), retroexcavadoras, cargadores frontales, motoniveladoras y tractores industriales de oruga de marcas líderes como Caterpillar, John Deere, Case, Hitachi, Link-Belt, Sany, LiuGong y Sumitomo.",
+        "eficiencia": "Alcanza un 99.9% de efectividad bajo la norma de prueba estándar ISO 5011",
+        "imagen": "https://res.cloudinary.com/gcq9p4qu/image/upload/v1793114376/productos-repuestos/don08.jpg"
+      },
+      {
+        "codigo": "P777868 / P777869",
+        "nombre": "Kit de filtro de aire, RadialSeal X770629",
+        "categoria": "Filtros",
+        "estado": "Disponible",
+        "descripcion": [
+          "Diámetro exterior: 313.4 MM (12.34 Pulgadas) / 180.5 MM (7.11 Pulgadas)",
+          "Diámetro: interior: 177.6 MM (6.99 Pulgadas) / 138.8 MM (5.46 Pulgadas)",
+          "Longitud: 524 MM (20.63 Pulgadas) / 501 MM (19.72 Pulgadas)"
+        ],
+        "aplicacion": "Volvo Cargadores Frontales sobre ruedas: Modelos L150, L150C, L150D, L180 y L220 (comúnmente vinculados al número de parte original de Volvo 15193228 o 11033996), Camiones Articulados de Volquete: Series A25D y A30D",
+        "eficiencia": "El filtro primario cumple con la estricta norma internacional ISO 5011",
+        "imagen": "https://res.cloudinary.com/gcq9p4qu/image/upload/v1793114377/productos-repuestos/don09.jpg"
+      }
+    ]
+  },
+  {
+    "marca": "FLEETGUARD",
+    "subtitulo": "MARCA LÍDER EN SOLUCIONES DE FILTRACIÓN AVANZADAS",
+    "banner": "https://res.cloudinary.com/gcq9p4qu/image/upload/v1793114429/productos-repuestos/fleet_banner.png",
+    "hero": "https://res.cloudinary.com/gcq9p4qu/image/upload/v1793114430/productos-repuestos/fleet_hero.png",
+    "productos": [
+      {
+        "codigo": "FS53040NN",
+        "nombre": "Separador de combustible/Agua FS53040NN",
+        "categoria": "Filtros",
+        "estado": "Disponible",
+        "descripcion": [
+          "Eficiencia de filtración: ≥ 95%",
+          "Precisión de filtración: ≥ 5 μm (micras)",
+          "Longitud: 335 mm",
+          "Diámetro exterior máximo: 140 mm",
+          " Rosca de Conexion: M36 × 2"
+        ],
+        "aplicacion": "Kenworth T680, T880, W990; Peterbilt 579, 567 (Años 2017+)",
+        "eficiencia": "Mantiene la coalescencia de agua libre y emulsionada durante todo el intervalo de trabajo",
+        "imagen": "https://res.cloudinary.com/gcq9p4qu/image/upload/v1793114381/productos-repuestos/fleet05.avif"
+      },
+      {
+        "codigo": "FF5706",
+        "nombre": "Filtro de Combustible FF5706",
+        "categoria": "Filtros",
+        "estado": "Disponible",
+        "descripcion": [
+          "Filtro de combustible roscado / enroscable (spin-on)",
+          "Altura total: 210 mm – 213 mm",
+          "Diámetro exterior: 102 mm – 105 mm",
+          "Diámetro de junta (empaquetadura): 61 mm – 66 mm",
+          "Referencia equivalente OE: Cummins 5262311"
+        ],
+        "aplicacion": "Foton Auman; JAC Gallop; VW Constellation 17.250; Excavadoras Hyundai R210LC-7",
+        "eficiencia": "alta eficiencia que atrapan la suciedad diminuta",
+        "imagen": "https://res.cloudinary.com/gcq9p4qu/image/upload/v1793114382/productos-repuestos/fleet06.avif"
+      },
+      {
+        "codigo": "FS1040",
+        "nombre": "Sep de Combustible/Enroscado en Agua FS1040",
+        "categoria": "Filtros",
+        "estado": "Disponible",
+        "descripcion": [
+          "Altura: 293.98 mm (11.57 pulgadas)",
+          "Diámetro exterior: 118.11 mm (4.65 pulgadas)",
+          "Tamaño de rosca: M85 x 2-7H INT",
+          "Eficiencia de filtración: 25 micras",
+          "Diámetro exterior de la junta: 118.87 mm",
+          "Diámetro interior de la junta: 101.60 mm"
+        ],
+        "aplicacion": "Camiones Pesados Kenworth T800/W900; Volquetes e Infraestructura Minera Terex, Komatsu",
+        "eficiencia": "Eficiencia de separación de agua libre y emulsificada del 95%",
+        "imagen": "https://res.cloudinary.com/gcq9p4qu/image/upload/v1793114382/productos-repuestos/fleet07.avif"
+      },
+      {
+        "codigo": "FS19729",
+        "nombre": "Filtro de aceite",
+        "categoria": "Filtros",
+        "estado": "Disponible",
+        "descripcion": [
+          "Altura: 178.79 mm",
+          "Diámetro exterior: 97.03 mm",
+          "Diámetro interior de la junta: 16.76 mm",
+          "Tecnología: Compatible con sistemas EleMax y biodiésel",
+          "Equivalencias comunes: Donaldson P550737, Baldwin PF7755, Davco 382115 / 382116"
+        ],
+        "aplicacion": "International ProStar, 9800i, TranStar; Freightliner Century, Columbia, Coronado; Kenworth T800",
+        "eficiencia": "Protege los sistemas de inyección modernos.",
+        "imagen": "https://res.cloudinary.com/gcq9p4qu/image/upload/v1793114383/productos-repuestos/fleet08.jpg"
+      },
+      {
+        "codigo": "LF14000NN",
+        "nombre": "Filtro de Lubricante, de Rosca LF14000NN",
+        "categoria": "Filtros",
+        "estado": "Disponible",
+        "descripcion": [
+          "Longitud total: 294.69 mm",
+          "Diámetro exterior mayor: 120.3 mm",
+          "Diámetro exterior de la junta: 118.88 mm",
+          "Diámetro interior de la junta: 101.60 mm",
+          "Tamaño de rosca: M95 x 2.5 mm"
+        ],
+        "aplicacion": "Kenworth T680, T880, W900; Peterbilt 579, 567; Freightliner Cascadia; International LT",
+        "eficiencia": "99.9% de retención de partículas dañinas",
+        "imagen": "https://res.cloudinary.com/gcq9p4qu/image/upload/v1793114384/productos-repuestos/fleet09.jpg"
+      },
+      {
+        "codigo": "LF9009",
+        "nombre": "Filtro de Aceite Combinado Enroscable LF9009",
+        "categoria": "Filtros",
+        "estado": "Disponible",
+        "descripcion": [
+          "Altura total: 301,76 mm (11,88 pulgadas)",
+          "Diámetro exterior de la junta: 118,87 mm (4,68 pulgadas)",
+          "Diámetro interior de la junta: 101,85 mm (4,01 pulgadas)",
+          "Tamaño de rosca: 2 1/4-12 UN-2B",
+          "Caudal nominal: 105,00 L/min (27,74 gpm)"
+        ],
+        "aplicacion": "Kenworth T800, W900, T660; Freightliner Columbia, Century; International 9200i/9400i; Volvo VNL",
+        "eficiencia": "Alta eficiencia para 30 micrones",
+        "imagen": "https://res.cloudinary.com/gcq9p4qu/image/upload/v1793114385/productos-repuestos/fleet10.avif"
+      },
+      {
+        "codigo": "FS19732",
+        "nombre": "Filtro enroscable separador de agua y combustible FS19732",
+        "categoria": "Filtros",
+        "estado": "Disponible",
+        "descripcion": [
+          "Altura total: 202.29 mm",
+          "Diámetro exterior mayor: 93.83 mm",
+          "Tamaño de rosca: 1-14 UNS-2B",
+          "Diámetro exterior de la junta: 71.88 mm",
+          "Diámetro interior de la junta: 62.48 mm"
+        ],
+        "aplicacion": "Freightliner Business Class M2 106 / M2 112, Freightliner Custom Chassis, Kenworth T270 / T370 / T470 / T440, Peterbilt 337 / 348 / 365, Camiones de servicio mediano y pesado, volquetes urbanos y autobuses de transporte urbano/interprovincial.",
+        "eficiencia": "Eficiencia de separación de agua emulsificada y libre del 95 %, y una eficiencia de filtración de partículas de 98.7 % (a 25 micras) según la norma SAE J1985",
+        "imagen": "https://res.cloudinary.com/gcq9p4qu/image/upload/v1793114386/productos-repuestos/fleet11.jpg"
+      },
+      {
+        "codigo": "NG5900",
+        "nombre": "Filtro enroscable de gas natural NG5900",
+        "categoria": "Filtros",
+        "estado": "Disponible",
+        "descripcion": [
+          "Diámetro exterior mayor: 93.5 mm (3.68 in)",
+          "Altura / Longitud total: 186.7 mm (7.35 in)",
+          "Tamaño de rosca: 1 1/2-16 UN-2B",
+          "Diámetro exterior de la junta: 87.9 mm (3.46 in)",
+          "Diámetro interior de la junta: 75.9 mm (2.99 in)"
+        ],
+        "aplicacion": "Autobuses Urbanos New Flyer, Gillig, Orion; Camiones de Basura Autocar, Freightliner M2 112 CNG",
+        "eficiencia": "Alta eficiencia al eliminar contaminantes dañinos y asegurar un flujo limpio y constante",
+        "imagen": "https://res.cloudinary.com/gcq9p4qu/image/upload/v1793114387/productos-repuestos/fleet12.avif"
+      },
+      {
+        "codigo": "WF2127",
+        "nombre": "Filtro de Refrigerante Enroscable (spin-on) WF2127",
+        "categoria": "Filtros",
+        "estado": "Disponible",
+        "descripcion": [
+          "Altura total: 146.3 mm (5.76 pulgadas)",
+          "Diámetro exterior mayor: 93.73 mm (3.69 pulgadas)",
+          "Diámetro exterior de costura: 95.76 mm (3.77 pulgadas)",
+          "Tamaño de rosca: M36 x 2-6G INT"
+        ],
+        "aplicacion": "Kenworth T800, T660, W900; International 9400i, ProStar; Freightliner FLD120, Century",
+        "eficiencia": "Eficiencia de filtración del 99% a 50 micras (bajo norma SAE J1985)",
+        "imagen": "https://res.cloudinary.com/gcq9p4qu/image/upload/v1793114387/productos-repuestos/fleet13.avif"
+      },
+      {
+        "codigo": "FS19593",
+        "nombre": "Filtro Separador de Agua y Combustible FS19593",
+        "categoria": "Filtros",
+        "estado": "Disponible",
+        "descripcion": [
+          "Diámetro exterior: 108 mm (aprox. 107.95 mm)",
+          "Altura total: 147 mm",
+          "Diámetro interior de la junta: 90.55 mm a 92 mm",
+          "Tipo de rosca: 1-14UNF (equivalente 1 1/4-10)"
+        ],
+        "aplicacion": "Foton Aumark C; Dongfeng DF-1210; VW Delivery 9.170 / Worker 15.190; Agrale MA 15.0",
+        "eficiencia": "Eficiencia de filtración nominal de 99% para partículas de 23 micrones, 90% a 17 micrones y 50% a 6 micrones",
+        "imagen": "https://res.cloudinary.com/gcq9p4qu/image/upload/v1793114389/productos-repuestos/fleet14.jpg"
+      },
+      {
+        "codigo": "LF17559",
+        "nombre": "Filtro de aceite LF17559",
+        "categoria": "Filtros",
+        "estado": "Disponible",
+        "descripcion": [
+          "Diámetro exterior mayor: 120.60 mm (4.75 pulgadas)",
+          "Diámetro exterior de la junta: 111.90 mm (4.41 pulgadas)",
+          "Tamaño de rosca: 1.00 1/2-1.4642 UNF 2B",
+          "Caudal nominal: 40.00 gpm (151.40 L/min)"
+        ],
+        "aplicacion": "Foton Aumark C / Aumark S, JAC Urban / HFC Series, JMC Carrying / Converse, Hyundai Mighty / HD Series, Volkswagen Delivery 6.160, 9.170, 11.180, GAZ GAZelle NEXT / Valdai, Minibuses y Vans Foton View CS2 / K1, Mini excavadoras, rodillos compactadores y cargadores compactos Case, Komatsu, JCB y LiuGong, Grupos electrógenos compactos Cummins Power Generation",
+        "eficiencia": "Eficiencia de filtración del 99 % a 20 micras",
+        "imagen": "https://res.cloudinary.com/gcq9p4qu/image/upload/v1793114390/productos-repuestos/fleet15.jpg"
+      },
+      {
+        "codigo": "FF63046NN",
+        "nombre": "Filtro de Combustible FF63046NN",
+        "categoria": "Filtros",
+        "estado": "Disponible",
+        "descripcion": [
+          "Diámetro exterior: 130 mm",
+          "Altura: 310 mm",
+          "Tecnología: Medio filtrante avanzado NanoNet",
+          "Función: Retención superior de partículas finas"
+        ],
+        "aplicacion": "Kenworth T680/T880; Freightliner Cascadia; International LT Series, LoneStar (2017+)",
+        "eficiencia": "Eficiencia de filtración igual o superior al 98.5% con una precisión de 10 micras.",
+        "imagen": "https://res.cloudinary.com/gcq9p4qu/image/upload/v1793114391/productos-repuestos/fleet16.avif"
+      },
+      {
+        "codigo": "LF17356",
+        "nombre": "Filtro de Lubricante LF17356",
+        "categoria": "Filtros",
+        "estado": "Disponible",
+        "descripcion": [
+          "Longitud: 157.73 mm",
+          "Diámetro exterior: 101.50 mm / 102 mm",
+          "Diámetro exterior de la junta: 58.50 mm",
+          "Diámetro interior de la junta: 50.06 mm",
+          "Rosca: M67 x 4 Special Butt"
+        ],
+        "aplicacion": "Kenworth T680, T880; Peterbilt 579; Freightliner Cascadia con motor Cummins X15",
+        "eficiencia": "Eficiencia de filtración del 97 % a 30 micrones (TWA)",
+        "imagen": "https://res.cloudinary.com/gcq9p4qu/image/upload/v1793114392/productos-repuestos/fleet17.avif"
+      },
+      {
+        "codigo": "FS19816",
+        "nombre": "Filtro Separador de Agua y Combustible FS19816",
+        "categoria": "Filtros",
+        "estado": "Disponible",
+        "descripcion": [
+          "Altura total: 204.50 mm (8.05 pulgadas)",
+          "Diámetro exterior: 120.50 mm",
+          "Diámetro interior de la junta (Gasket ID): 79.80 mm (3.14 pulgadas)",
+          "Tamaño de rosca: 1-14 UNS-2B",
+          "Fujo nominal: 5.70 L/min (1.51 gpm)"
+        ],
+        "aplicacion": "Camiones Caterpillar CT660; Kenworth T800 (Motor Cat); Excavadoras Cat 345D, Cargadores 980H",
+        "eficiencia": "Alta eficiencia diseñado para eliminar humedad e impurezas sólidas, protegiendo inyectores en motores diésel",
+        "imagen": "https://res.cloudinary.com/gcq9p4qu/image/upload/v1793114393/productos-repuestos/fleet18.avif"
+      },
+      {
+        "codigo": "FS36267",
+        "nombre": "Filtro Separador de Agua y Combustible FS36267",
+        "categoria": "Filtros",
+        "estado": "Disponible",
+        "descripcion": [
+          "Diámetro exterior: Aprox. 110 mm",
+          "Altura total: Aprox. 235 mm",
+          "Rosca: 1-14 UNF"
+        ],
+        "aplicacion": "Foton Aumark 6T/8T; Dongfeng Captain; VW Delivery 11.180 / VW Constellation 14.190",
+        "eficiencia": "Alto rendimiento diseñado para retener eficazmente el agua libre e impurezas sólidas",
+        "imagen": "https://res.cloudinary.com/gcq9p4qu/image/upload/v1793114394/productos-repuestos/fleet19.png"
+      },
+      {
+        "codigo": "FS36279",
+        "nombre": "Filtro Separador de Agua y Combustible FS36279",
+        "categoria": "Filtros",
+        "estado": "Disponible",
+        "descripcion": [
+          "Tipo de diseño: Filtro enroscable (spin-on)",
+          "Diámetro exterior: Aprox. 95 mm",
+          "Rosca: M24 × 1.5"
+        ],
+        "aplicacion": "Mercedes-Benz Atego 1725, Axor 2035/2540, Actros 2644; Buses MB OF-1721 / OH-1621",
+        "eficiencia": "Eficiencia superior al 98-99.5% para partículas de hasta 5 micrones.",
+        "imagen": "https://res.cloudinary.com/gcq9p4qu/image/upload/v1793114395/productos-repuestos/fleet20.avif"
+      },
+      {
+        "codigo": "FF266",
+        "nombre": "Filtro de Combustible FF266",
+        "categoria": "Filtros",
+        "estado": "Disponible",
+        "descripcion": [
+          "Diámetro exterior: 95.6 mm (aprox. 83 mm a 96 mm según medición del cuerpo)",
+          "Diámetro interior / Junta anular: 41.2 mm",
+          "Altura / Longitud total: 152.6 mm - 155 mm",
+          "Peso: 0.24 kg"
+        ],
+        "aplicacion": "Ford Cargo 814/1113; VW 11.130 / 13.130; Tractores Case IH 580L / New Holland 5630",
+        "eficiencia": "Alta eficiencia de filtración para retener partículas pequeñas",
+        "imagen": "https://res.cloudinary.com/gcq9p4qu/image/upload/v1793114395/productos-repuestos/fleet21.jpg"
+      },
+      {
+        "codigo": "FF63013",
+        "nombre": "filtro de combustible roscado FF63013",
+        "categoria": "Filtros",
+        "estado": "Disponible",
+        "descripcion": [
+          "Diámetro exterior mayor: 3.82 pulgadas / 97.00 mm",
+          "Tamaño de rosca: M75X2-7H",
+          "Diámetro interior de la junta: 3.10 pulgadas / 78.75 mm",
+          "Presión de rotura hidrostática mínima: 699.81 psi / 4826.30 kPa"
+        ],
+        "aplicacion": "Kenworth T680, T880, W990, Peterbilt 579, 567, 389, Freightliner Cascadia, New Cascadia, International LT Series, RH Series, HV Series, HX Series",
+        "eficiencia": "ficiencia de filtración primaria de 5 micras al 98.7%",
+        "imagen": "https://res.cloudinary.com/gcq9p4qu/image/upload/v1793114396/productos-repuestos/fleet22.avif"
+      },
+      {
+        "codigo": "FF5485",
+        "nombre": "Filtro de Combustible Enroscable (blindado",
+        "categoria": "Filtros",
+        "estado": "Disponible",
+        "descripcion": [
+          "Tamaño de rosca: M20 x 1.50 INT",
+          "Altura general: 193 mm"
+        ],
+        "aplicacion": "Foton Aumark 8T; Dongfeng Kingrun; VW Worker 15.190 / 17.190; Buses Agrale",
+        "eficiencia": "Alta retención de partículas finas y separación de agua libre",
+        "imagen": "https://res.cloudinary.com/gcq9p4qu/image/upload/v1793114397/productos-repuestos/fleet23.avif"
+      },
+      {
+        "codigo": "FF5687",
+        "nombre": "Filtro fino de combustible",
+        "categoria": "Filtros",
+        "estado": "Disponible",
+        "descripcion": [
+          "Diámetro exterior mayor: 94.00 mm (3.70 pulgadas)",
+          "Diámetro exterior de la junta: 97.01 mm (3.82 pulgadas)",
+          "Longitud aproximada: 228 mm a 239 mm"
+        ],
+        "aplicacion": "Freightliner Cascadia Evolution, New Cascadia; Western Star 4900, 5700XE",
+        "eficiencia": "Eficiencia de filtración primaria de partículas de 5.1 micrones al 98.7%",
+        "imagen": "https://res.cloudinary.com/gcq9p4qu/image/upload/v1793114398/productos-repuestos/fleet24.avif"
+      },
+      {
+        "codigo": "FF5825NN",
+        "nombre": "Filtro de Combustible Blindado",
+        "categoria": "Filtros",
+        "estado": "Disponible",
+        "descripcion": [
+          "Longitud: 226.5 mm (8.92 pulgadas)",
+          "Diámetro exterior mayor: 120.3 mm (4.74 pulgadas)",
+          "Diámetro de la rosca: 3.54 pulgadas (aprox. 90 mm)",
+          "Diámetro exterior de la junta: 120.3 mm (4.74 pulgadas)"
+        ],
+        "aplicacion": "Kenworth T660, T680, T800; Peterbilt 579; Freightliner Cascadia; Volvo VNL (Motor Cummins)",
+        "eficiencia": "Eficiencia de filtración del 99.2% para partículas ultrafinas de 4 micras",
+        "imagen": "https://res.cloudinary.com/gcq9p4qu/image/upload/v1793114398/productos-repuestos/fleet25.avif"
+      },
+      {
+        "codigo": "FK13850NN",
+        "nombre": "Filtro de Combustible Diésel FK13850NN",
+        "categoria": "Filtros",
+        "estado": "Disponible",
+        "descripcion": [
+          "Diseño ecológico tipo cartucho para un reemplazo limpio sin carcasa metálica desechable",
+          "Kit de filtro de combustible (incluye cartucho principal y elementos de sello u o-rings)"
+        ],
+        "aplicacion": "Kenworth T680, T880; Peterbilt 579, 567 (Incluye primario y secundario NanoNet X15)",
+        "eficiencia": "Retención del 98.7% en partículas de hasta 4 a 5 micrones",
+        "imagen": "https://res.cloudinary.com/gcq9p4qu/image/upload/v1793114399/productos-repuestos/fleet26.jpg"
+      },
+      {
+        "codigo": "FS1000",
+        "nombre": "Filtro Separador de Agua y Combustible Premium",
+        "categoria": "Filtros",
+        "estado": "Disponible",
+        "descripcion": [
+          "Tipo de rosca: 1-14 UNS-2B",
+          "Altura total: 249.07 mm (9.81 pulgadas)",
+          "Diámetro exterior: 93 mm",
+          "Diámetro de empaquetadura: 70 mm (exterior) / 61 mm (interior)"
+        ],
+        "aplicacion": "Kenworth T800, W900; International 9400i, 9800i; Freightliner FLD120; Volquetes Paystar 5000",
+        "eficiencia": "10 micras con un rendimiento del 98.7% según la norma SAE J1985",
+        "imagen": "https://res.cloudinary.com/gcq9p4qu/image/upload/v1793114399/productos-repuestos/fleet27.avif"
+      },
+      {
+        "codigo": "FS1003",
+        "nombre": "Filtro Separador de Agua y Combustible",
+        "categoria": "Filtros",
+        "estado": "Disponible",
+        "descripcion": [
+          "Tamaño de rosca: 1-14 UNS-2B",
+          "Longitud / Altura: ~248 mm (9.79 pulgadas)",
+          "Diámetro exterior mayor: ~94 mm (3.71 pulgadas)",
+          "Diámetro exterior de la junta: ~72 mm (2.83 pulgadas)",
+          "Diámetro interior de la junta: ~62 mm (2.45 pulgadas)"
+        ],
+        "aplicacion": "Camiones Fuera de Carretera Terex TR60, Komatsu HD325; Grupos Electrógenos Cummins Power",
+        "eficiencia": "Eficiencia de filtración TWA (por norma SAE J1985) del 98.7% y retiene partículas desde 10 micrones",
+        "imagen": "https://res.cloudinary.com/gcq9p4qu/image/upload/v1793114400/productos-repuestos/fleet28.avif"
+      },
+      {
+        "codigo": "FS1007",
+        "nombre": "Filtro Separador de Agua y Combustible",
+        "categoria": "Filtros",
+        "estado": "Disponible",
+        "descripcion": [
+          "Altura total: 294.00 mm",
+          "Diámetro exterior: 118.00 mm a 119.00 mm",
+          "Peso: 1.35 kg"
+        ],
+        "aplicacion": "Kenworth T800, W900; International 9300; Camiones Mineros Komatsu HD465, HD785",
+        "eficiencia": "Eficiencia de filtración nominal de 10 micras con una eficacia del 98.7% (según la norma SAE J1985)",
+        "imagen": "https://res.cloudinary.com/gcq9p4qu/image/upload/v1793114401/productos-repuestos/fleet29.avif"
+      },
+      {
+        "codigo": "FS1212",
+        "nombre": "Filtro Separador de Agua y Combustible",
+        "categoria": "Filtros",
+        "estado": "Disponible",
+        "descripcion": [
+          "Altura total: 201,17 mm",
+          "Diámetro externo mayor: 93,22 mm",
+          "Diámetro externo de junta: 71,88 mm",
+          "Diámetro interior de junta: 62,48 mm",
+          "Tamaño de rosca: 1-14 US-2B"
+        ],
+        "aplicacion": "Kenworth W900A/B, T800 Clásicos; International Fleetstar, F2574; Freightliner FLC120",
+        "eficiencia": "Eficiencia de filtración TWA del 96 % según la norma SAE J1985",
+        "imagen": "https://res.cloudinary.com/gcq9p4qu/image/upload/v1793114401/productos-repuestos/fleet30.avif"
+      },
+      {
+        "codigo": "FS1280",
+        "nombre": "Filtro Separador de Agua y Combustible",
+        "categoria": "Filtros",
+        "estado": "Disponible",
+        "descripcion": [
+          "Altura total: 165 mm a 168 mm",
+          "Diámetro exterior: 93 mm a 94 mm",
+          "Tamaño de rosca: 13/16-18 UNS-2B",
+          "Diámetro exterior de la junta: 70 mm - 72 mm"
+        ],
+        "aplicacion": "Camiones Freightliner FL60, FL70, FL80, Cargo 815 / 1721 / 2628, Ford Cargo 1317, 1517, 1721, 2628, F-1000, F-4000, Volkswagen Worker 13-180, 15-180, 17-210, 23-210, 31-260, International 4700 / 4900",
+        "eficiencia": "eficiencia de filtración del 96 % a 20 micras (según la norma SAE J 1985) y una capacidad de separación de agua emulsionada y libre del 90 %",
+        "imagen": "https://res.cloudinary.com/gcq9p4qu/image/upload/v1793114402/productos-repuestos/fleet31.avif"
+      },
+      {
+        "codigo": "FS19832",
+        "nombre": "Filtro de Cartucho Separador de Agua y Combustible",
+        "categoria": "Filtros",
+        "estado": "Disponible",
+        "descripcion": [
+          "Diámetro exterior: 83 mm - 84 mm",
+          "Longitud total: 151 mm - 155 mm",
+          "Diámetro interior de la junta: ~21.5 mm (o 16.7 mm según base de aplicaciónDiámetro interior de la junta: ~21.5 mm (o 16.7 mm según base de aplicación"
+        ],
+        "aplicacion": "Camiones Kenworth T270, T370, T440, T470, Peterbilt 330, 337, 348, 365, Freightliner Business Class M2 106, M2 112, Autobuses Thomas Built",
+        "eficiencia": "eficiencia de filtración de partículas primarias del 99% (0.99) y un flujo nominal de 1.98 gpm (7.50 L/min)",
+        "imagen": "https://res.cloudinary.com/gcq9p4qu/image/upload/v1793114403/productos-repuestos/fleet32.avif"
+      },
+      {
+        "codigo": "FS19727",
+        "nombre": "Filtro Separador de Agua y Combustible Premium",
+        "categoria": "Filtros",
+        "estado": "Disponible",
+        "descripcion": [
+          "Tecnología: EleMax™.",
+          "Compatibilidad: Carcasas Fuel Pro® y varios modelos Diesel Pro®.",
+          "Combustible: Compatible con biodiésel."
+        ],
+        "aplicacion": "Freightliner Thomas Built Buses; International Durastar 4300; Chasis para Autobuses Diésel",
+        "eficiencia": "Múltiples clasificaciones de micrones para cumplir normas OEM",
+        "imagen": "https://res.cloudinary.com/gcq9p4qu/image/upload/v1793114404/productos-repuestos/fleet33.jpg"
+      },
+      {
+        "codigo": "FS19765",
+        "nombre": "Filtro de Cartucho Separador de Agua y Combustible",
+        "categoria": "Filtros",
+        "estado": "Disponible",
+        "descripcion": [
+          "Diámetro exterior mayor (OD): 106.93 mm",
+          "Altura / Longitud: 178.79 mm"
+        ],
+        "aplicacion": "Kenworth T660, T680, T800; Peterbilt 386, 388, 389, 579 (2010-2016)",
+        "eficiencia": "Filtración de múltiples capas con una eficiencia de 25 micras y compatibilidad con biodiésel",
+        "imagen": "https://res.cloudinary.com/gcq9p4qu/image/upload/v1793114405/productos-repuestos/fleet34.jpg"
+      },
+      {
+        "codigo": "FS19915",
+        "nombre": "Filtro de Combustible y Separador de Agua tipo Elemento",
+        "categoria": "Filtros",
+        "estado": "Disponible",
+        "descripcion": [
+          "Altura total: 193.4 mm (7.61 pulgadas)",
+          "Diámetro exterior mayor: 148.0 mm (5.83 pulgadas)",
+          "Diámetro interior (Extremo 1): 26.3 mm (1.04 pulgadas)"
+        ],
+        "aplicacion": "Freightliner Business Class M2 106/112; Kenworth T270/T370; Peterbilt 337/348",
+        "eficiencia": "ficiencia de filtración aproximada del 98.7% a 99% bajo estándares de prueba, reteniendo partículas de tamaño nominal de 25 micras",
+        "imagen": "https://res.cloudinary.com/gcq9p4qu/image/upload/v1793114406/productos-repuestos/fleet35.avif"
+      },
+      {
+        "codigo": "FS19925",
+        "nombre": "Filtro de Cartucho Separador de Agua y Combustible",
+        "categoria": "Filtros",
+        "estado": "Disponible",
+        "descripcion": [
+          "Altura total: Aprox. 127 mm",
+          "Diámetro exterior: Aprox. 81 mm",
+          "Referencia OEM equivalente: Cummins 5264870"
+        ],
+        "aplicacion": "Kenworth T270, T370; Peterbilt 330, 337, 348 (Años 2010+)",
+        "eficiencia": "Eficiencia de filtración del 98% en partículas de 6 micras",
+        "imagen": "https://res.cloudinary.com/gcq9p4qu/image/upload/v1793114406/productos-repuestos/fleet36.avif"
+      },
+      {
+        "codigo": "FS20176",
+        "nombre": "Filtro Elemento Separador de Agua y Combustible",
+        "categoria": "Filtros",
+        "estado": "Disponible",
+        "descripcion": [
+          "Altura: 183.9 mm",
+          "Diámetro exterior: 108.8 mm",
+          "Diámetro interior de la junta: 25 mm"
+        ],
+        "aplicacion": "Freightliner Cascadia 113/125, Business Class M2; International TranStar, WorkStar (Filtro Davco)",
+        "eficiencia": "Eficiencia de separación de agua de hasta el 99% y retención de partículas desde las 7 micras",
+        "imagen": "https://res.cloudinary.com/gcq9p4qu/image/upload/v1793114407/productos-repuestos/fleet37.avif"
+      },
+      {
+        "codigo": "FS36260",
+        "nombre": "Filtro Separador de Agua y Combustible",
+        "categoria": "Filtros",
+        "estado": "Disponible",
+        "descripcion": [
+          "Diámetro exterior de la junta (Gasket OD): 3.95 pulgadas / 100.40 mm",
+          "Diámetro exterior mayor (Largest OD): Aprox. 4.26 pulgadas / 108.2 mm",
+          "Tamaño de rosca (Thread Size): 1-14 UNF 2B"
+        ],
+        "aplicacion": "Dongfeng Duolika, Captain C; Foton Aumark TX; JAC HFC1061",
+        "eficiencia": "Eficiencia primaria de partículas de 7.9 micrones al 98.7%",
+        "imagen": "https://res.cloudinary.com/gcq9p4qu/image/upload/v1793114408/productos-repuestos/fleet38.avif"
+      },
+      {
+        "codigo": "FS36268",
+        "nombre": "Filtro Separador de Agua y Combustible",
+        "categoria": "Filtros",
+        "estado": "Disponible",
+        "descripcion": [
+          "Diámetro exterior: Aprox. 95 mm (Φ 95mm)",
+          "Longitud / Altura: Aprox. 190 mm a 194 mm",
+          "Rosca de conexión: M20 × 1.5"
+        ],
+        "aplicacion": "Foton Aumark C 3.8L, BJ1069; JAC Urban HFC1042; Yuejin Olin 3.8L",
+        "eficiencia": "10 micrones (μ m) con un rendimiento superior al 98%",
+        "imagen": "https://res.cloudinary.com/gcq9p4qu/image/upload/v1793114408/productos-repuestos/fleet39.avif"
+      },
+      {
+        "codigo": "FS36277",
+        "nombre": "Filtro Separador de Agua y Combustible",
+        "categoria": "Filtros",
+        "estado": "Disponible",
+        "descripcion": [
+          "Diámetro exterior de la junta: Aprox. 111 mm"
+        ],
+        "aplicacion": "Foton Aumark 3.8L Euro 4; JAC Light Duty Trucks; VW Delivery Express 2.8",
+        "eficiencia": "Generalmente utiliza tecnología de filtración avanzada de alta eficiencia",
+        "imagen": "https://res.cloudinary.com/gcq9p4qu/image/upload/v1793114410/productos-repuestos/fleet40.jpg"
+      },
+      {
+        "codigo": "FS53041NN",
+        "nombre": "Filtro Separador de Agua y Combustible",
+        "categoria": "Filtros",
+        "estado": "Disponible",
+        "descripcion": [
+          "Diámetro exterior mayor: 111.00 mm (4.37 pulgadas)",
+          "Altura total: 318.50 mm (12.54 pulgadas)",
+          "Tamaño de rosca: M28 x 1.5-6H",
+          "Presión de rotura hidrostática mínima: 700.00 kPa (101.50 psi)"
+        ],
+        "aplicacion": "Kenworth T680, T880; Peterbilt 579, 567 (Configuración avanzada de doble filtración X15)",
+        "eficiencia": "Eficiencia de separación de agua emulsionada del 95%",
+        "imagen": "https://res.cloudinary.com/gcq9p4qu/image/upload/v1793114410/productos-repuestos/fleet41.avif"
+      },
+      {
+        "codigo": "FS53016NN",
+        "nombre": "Filtro Separador de Agua y Combustible",
+        "categoria": "Filtros",
+        "estado": "Disponible",
+        "descripcion": [
+          "Diámetro exterior mayor: 138.30 mm (5.44 pulgadas)",
+          "Altura total: 329.00 mm",
+          "Diámetro exterior de junta: 109.20 mm (4.30 pulgadas)",
+          "Diámetro interior de junta: 99.80 mm (3.93 pulgadas)"
+        ],
+        "aplicacion": "Kenworth T680, T880, W990; Peterbilt 579, 567 (Módulo de combustible PACCAR)",
+        "eficiencia": "Eficiencia de partícula primaria 7 micras al 98.7%",
+        "imagen": "https://res.cloudinary.com/gcq9p4qu/image/upload/v1793114411/productos-repuestos/fleet42.avif"
+      },
+      {
+        "codigo": "LF16352",
+        "nombre": "Filtro de Aceite de tipo Roscado",
+        "categoria": "Filtros",
+        "estado": "Disponible",
+        "descripcion": [
+          "Diámetro exterior: 101 mm",
+          "Largo total: 180 mm",
+          "Rosca: M27 x 2.0 mm",
+          "Diámetro exterior de la junta: 70 mm",
+          "Diámetro interior de la junta: 61 mm"
+        ],
+        "aplicacion": "Foton Aumark C 2.8L, Tunland Pickup 2.8L; GAZ GAZelle NEXT 2.8L; JAC HF Series",
+        "eficiencia": "Eficiencia de filtrado del 97% a 30 micras",
+        "imagen": "https://res.cloudinary.com/gcq9p4qu/image/upload/v1793114412/productos-repuestos/fleet43.avif"
+      },
+      {
+        "codigo": "LF17810",
+        "nombre": "Filtro de Aceite",
+        "categoria": "Filtros",
+        "estado": "Disponible",
+        "descripcion": [
+          "Flujo nominal: 60.00 L/min (15.85 gpm)",
+          "Diámetro exterior mayor: 117.00 mm (4.61 pulgadas)",
+          "Altura: 276.60 mm (10.80 pulgadas)"
+        ],
+        "aplicacion": "Freightliner Cascadia, Coronado, M2 112; Western Star 4700, 4900, 5700XE",
+        "eficiencia": "Eficiencia primaria de partículas de 30 micrones (c) al 97%",
+        "imagen": "https://res.cloudinary.com/gcq9p4qu/image/upload/v1793114412/productos-repuestos/fleet44.avif"
+      },
+      {
+        "codigo": "LF3620",
+        "nombre": "Filtro de Aceite de Flujo Completo ",
+        "categoria": "Filtros",
+        "estado": "Disponible",
+        "descripcion": [
+          "Altura total: 249.43 mm",
+          "Diámetro exterior mayor: 118.52 mm",
+          "Diámetro de costura: 120.27 mm",
+          "Tamaño de rosca: 1 5/8-12 UNS-2B",
+          "Diámetro exterior de la junta: 111.38 mm"
+        ],
+        "aplicacion": "Ford F-4000 3.9L/5.9L; Dodge RAM 2500/3500 (1998-2002); VW Worker 8.140 / 9.150",
+        "eficiencia": "Eficiencia de filtración de 30 micrones con un índice TWA (eficiencia total) del 99%",
+        "imagen": "https://res.cloudinary.com/gcq9p4qu/image/upload/v1793114413/productos-repuestos/fleet45.avif"
+      },
+      {
+        "codigo": "LF3883",
+        "nombre": "Filtro de Aceite",
+        "categoria": "Filtros",
+        "estado": "Disponible",
+        "descripcion": [
+          "Altura total: 309.65 mm",
+          "Diámetro exterior mayor (OD): 135.74 mm",
+          "Tamaño de rosca: M36 x 1.5-5H",
+          "Diámetro exterior de la junta: 108.71 mm"
+        ],
+        "aplicacion": "Ford Cargo 1317, 1517, 1721; VW 13.180, 15.180, 17.210; Dodge RAM 2500 (1989-1998)",
+        "eficiencia": "Reducción del desgaste interno y extensión de la vida útil del aceite",
+        "imagen": "https://res.cloudinary.com/gcq9p4qu/image/upload/v1793114413/productos-repuestos/fleet46.avif"
+      },
+      {
+        "codigo": "LF667",
+        "nombre": "Filtro de Aceite Lubricante",
+        "categoria": "Filtros",
+        "estado": "Disponible",
+        "descripcion": [
+          "Altura total: 264 mm a 270 mm",
+          "Diámetro exterior: 108 mm",
+          "Medida de rosca: 1 1/8-16 UN-2B",
+          "Diámetro interior de la junta: 90,55 mm",
+          "Peso: ~1,04 kg"
+        ],
+        "aplicacion": "Kenworth W900A, K100 Cabover; Freightliner FLC; International Transtar II (Motores antiguos)",
+        "eficiencia": "Estándar fino para retención de partículas contaminantes",
+        "imagen": "https://res.cloudinary.com/gcq9p4qu/image/upload/v1793114414/productos-repuestos/fleet47.avif"
+      },
+      {
+        "codigo": "LF670",
+        "nombre": "Filtro de Aceite",
+        "categoria": "Filtros",
+        "estado": "Disponible",
+        "descripcion": [
+          "Altura total: 249.2 mm (9.81 pulgadas)",
+          "Diámetro exterior mayor: 116.08 mm (4.57 pulgadas)",
+          "Diámetro exterior de la junta (empaquetadura): 111.38 mm",
+          "Diámetro interior de la junta: 98.17 mm",
+          "Tamaño de rosca: 1 1/2-12 UNF-2B"
+        ],
+        "aplicacion": "Kenworth W900, T800; International 9300; Tractores de Oruga Caterpillar D8K / D9H (Adaptados)",
+        "eficiencia": "Eficiencia de filtración del 95 % a 24.6 o 30 micras",
+        "imagen": "https://res.cloudinary.com/gcq9p4qu/image/upload/v1793114415/productos-repuestos/fleet48.avif"
+      },
+      {
+        "codigo": "MK13301 / FF5658 / FS19997",
+        "nombre": "Kit de Mantenimiento de Filtros de Combustible",
+        "categoria": "Filtros",
+        "estado": "Disponible",
+        "descripcion": [
+          "Filtro FF5658 (x1): Cartucho de filtro de combustible principal/fino",
+          "Filtro FS19997 (x1): Cartucho separador de agua / filtro primario de combustible."
+        ],
+        "aplicacion": "Foton Aumark NHR, NKR 2.8L; Foton Tunland 2.8L Diésel (Kit de mantenimiento preventivo)",
+        "eficiencia": "alta eficiencia de filtración bajo estándares de equipo original (OEM)",
+        "imagen": "https://res.cloudinary.com/gcq9p4qu/image/upload/v1793114417/productos-repuestos/fleet49.avif"
+      },
+      {
+        "codigo": "AF26154 / AF27706",
+        "nombre": "Filtro de Aire Primario y Secundario",
+        "categoria": "Filtros",
+        "estado": "Disponible",
+        "descripcion": [
+          "Longitud total: 8.00 pulgadas (aprox. 203.2 mm - 205 mm)",
+          "Diámetro exterior: 305 mm (12 pulgadas aprox.)",
+          "Filtro de seguridad compatible: Fleetguard AF27706.",
+          "Versión ignífuga opcional: Fleetguard AF4202"
+        ],
+        "aplicacion": "Camiones Freightliner Cascadia (Años 2008 - 2017) / Columbia / Century Class / Coronado, Camiones Kenworth T660, T800, W900, Camiones Peterbilt 386, 388, 389; Camiones Volvo VNL / VNM Series",
+        "eficiencia": "Alta eficiencia diseñado para aplicaciones de servicio pesado.",
+        "imagen": "https://res.cloudinary.com/gcq9p4qu/image/upload/v1793114417/productos-repuestos/fleet50.avif"
+      },
+      {
+        "codigo": "AF26424",
+        "nombre": "Elemento cilíndrico de tipo sello radial Magnum RS / PowerCore",
+        "categoria": "Filtros",
+        "estado": "Disponible",
+        "descripcion": [
+          "Diámetro exterior mayor (OD): 377.3 mm (14.85 pulgadas)",
+          "Longitud total (Altura): 203.1 mm (7.99 pulgadas)"
+        ],
+        "aplicacion": "Camiones de Minería / Fuera de Carretera Caterpillar 773F, 773G, 775F, 775G, 777F, 777G, Cargadores Frontales / Sobreruedas Caterpillar 988H, 988K, 990H, 990K, 992K, Tractores de Oruga (Bulldozers) Caterpillar D9T, D10T, D10T2, D11T, Excavadoras de Gran Tamaño Caterpillar 385C, 390D, 390F, Mota niveladoras Caterpillar 16M, 16M3, 18M3, 24M, Camiones Kenworth T800, W900, C500, Grupos Electrógenos Industriales Caterpillar C32 / Cummins Power Gen QSK Series",
+        "eficiencia": "Ofrece una eficiencia de vida útil completa del 99.99%",
+        "imagen": "https://res.cloudinary.com/gcq9p4qu/image/upload/v1793114418/productos-repuestos/fleet51.avif"
+      },
+      {
+        "codigo": "AF4331",
+        "nombre": "Filtro de Aire Primario",
+        "categoria": "Filtros",
+        "estado": "Disponible",
+        "descripcion": [
+          "Longitud total: 253.10 mm (9.96 pulgadas)",
+          "Diámetro exterior máximo (OD): 377.30 mm (14.85 pulgadas)",
+          "Diámetro interior máximo (ID): 349.00 mm (13.74 pulgadas)"
+        ],
+        "aplicacion": "Kenworth: T800, W900, K100 (Equipados con carcasa de aire de 13 y 15 pulgadas para motores Caterpillar 3406E/C15 o Cummins N14/ISX),  Freightliner: FLD120, Classic, Classic XL, International: 9300, 9400, 9900i",
+        "eficiencia": "99.99% de rendimiento a plena vida útil",
+        "imagen": "https://res.cloudinary.com/gcq9p4qu/image/upload/v1793114418/productos-repuestos/fleet52.avif"
+      },
+      {
+        "codigo": "AF27879",
+        "nombre": "Filtro de Aire Primario tipo Panel",
+        "categoria": "Filtros",
+        "estado": "Disponible",
+        "descripcion": [
+          "Largo: 663.6 mm (26 1/8 pulgadas)",
+          "Ancho: 133.4 mm (5 1/4 pulgadas)",
+          "Alto: 235.7 mm (9 9/32 pulgadas)"
+        ],
+        "aplicacion": "• Freightliner Cascadia 113 / 125 / Cascadia Evolution (2008 - 2019), Freightliner Coronado CC122 / CC132 (2008 - 2017), Freightliner 122SD / Revolution, Freightliner Business Class M2 112, International WorkStar 7700, Autobuses Blue Bird All American FE",
+        "eficiencia": "Camiones pesados como Freightliner Cascadia, 122SD y Coronado.",
+        "imagen": "https://res.cloudinary.com/gcq9p4qu/image/upload/v1793114419/productos-repuestos/fleet53.avif"
+      },
+      {
+        "codigo": "AF25139M / AF25345",
+        "nombre": "Filtro de Aire Primario",
+        "categoria": "Filtros",
+        "estado": "Disponible",
+        "descripcion": [
+          "Diámetro exterior: 331 mm a 332 mm",
+          "Diámetro interior: 170 mm a 174 mm",
+          "Altura / Largo total: 390 mm a 393 mm"
+        ],
+        "aplicacion": "Kenworth T800, T300; International 7400 WorkStar, 8600; Ford L8000/L9000; Volquetes 6x4",
+        "eficiencia": "eficiencia de filtración del 99.9%",
+        "imagen": "https://res.cloudinary.com/gcq9p4qu/image/upload/v1793114420/productos-repuestos/fleet54.avif"
+      },
+      {
+        "codigo": "AF26103 / AF26268",
+        "nombre": "Filtro de Aire Primario",
+        "categoria": "Filtros",
+        "estado": "Disponible",
+        "descripcion": [
+          "Diámetro exterior: ~310.5 mm (12.22 pulgadas)",
+          "Diámetro interior: 252 mm",
+          "Peso aproximado: 3.50 kg"
+        ],
+        "aplicacion": "Kenworth T800, W900, T660; Freightliner FLD120, Classic XL; International 9900i",
+        "eficiencia": "Elemento de celulosa de alta eficiencia (99.9%) diseñado para motores diésel pesados",
+        "imagen": "https://res.cloudinary.com/gcq9p4qu/image/upload/v1793114420/productos-repuestos/fleet55.avif"
+      },
+      {
+        "codigo": "(AA2960) / AF26433 / AF26434",
+        "nombre": "Kit de Filtro de Aire de paquete dual (Air Dual Kit)",
+        "categoria": "Filtros",
+        "estado": "Disponible",
+        "descripcion": [
+          "Filtro Primario: Incluye el elemento AF26433-1.",
+          "Filtro Secundario: Incluye el elemento AF26434-1."
+        ],
+        "aplicacion": "Tractores John Deere 6000/7000 Series; Case IH MX Series; Maquinaria de Construcción",
+        "eficiencia": "Alta eficiencia de filtración de hasta el 99.9% bajo la norma de prueba ISO 5011",
+        "imagen": "https://res.cloudinary.com/gcq9p4qu/image/upload/v1793114421/productos-repuestos/fleet56.avif"
+      },
+      {
+        "codigo": "3090769",
+        "nombre": "Filtro de Malla o Cedazo",
+        "categoria": "Filtros",
+        "estado": "Disponible",
+        "descripcion": [
+          "Equivalencias en otras marcas: Hifi Filter SN 40935, Bosch 1464610301."
+        ],
+        "aplicacion": "Motores Marinos Cummins KTA19-M; Generadores Industriales Cummins Power Generation",
+        "eficiencia": "Retiene residuos gruesos y esquirlas metálicas antes de que lleguen a la bomba de combustible o inyectores",
+        "imagen": "https://res.cloudinary.com/gcq9p4qu/image/upload/v1793114422/productos-repuestos/fleet57.webp"
+      },
+      {
+        "codigo": "FS36209",
+        "nombre": "Filtro Separador de combustible/Agua",
+        "categoria": "Filtros",
+        "estado": "Disponible",
+        "descripcion": [
+          "Diámetro exterior aproximado: 93 mm",
+          "Altura total aproximada: 200 mm.",
+          "Rosca: M20 × 1.5."
+        ],
+        "aplicacion": "Foton Aumark BJ1041/BJ1051; JAC Urban; GAZ GAZelle NEXT; Hyundai HD35 Diésel",
+        "eficiencia": "Precisión nominal de partículas de 4 µm (micras) con eficiencia de 98%",
+        "imagen": "https://res.cloudinary.com/gcq9p4qu/image/upload/v1793114422/productos-repuestos/fleet58.avif"
+      },
+      {
+        "codigo": "FS19531",
+        "nombre": "Filtro de Cartucho Separador de Agua y Combustible",
+        "categoria": "Filtros",
+        "estado": "Disponible",
+        "descripcion": [
+          "Altura total: 15.5 cm (aprox. 5.77 pulgadas).",
+          "Diámetro exterior mayor: 8.3 cm (aprox. 3.27 pulgadas).",
+          "Diámetro interior / extremo: 2.2 cm (aprox. 0.85 pulgadas)."
+        ],
+        "aplicacion": "VW Worker 8.150 / Delivery 9.150; Foton Aumark C 3.8L; Camiones Medianos Urbano",
+        "eficiencia": "Alcanza un 99% de eficiencia absoluta para capturar partículas",
+        "imagen": "https://res.cloudinary.com/gcq9p4qu/image/upload/v1793114422/productos-repuestos/fleet58.avif"
+      },
+      {
+        "codigo": "FS63013",
+        "nombre": "Filtro de combustible roscado",
+        "categoria": "Filtros",
+        "estado": "Disponible",
+        "descripcion": [
+          "Diámetro exterior mayor: 3.82 pulgadas / 97.00 mm",
+          "Tamaño de rosca: M75X2-7H",
+          "Diámetro interior de la junta: 3.10 pulgadas / 78.75 mm"
+        ],
+        "aplicacion": "Kenworth T680, T880; Peterbilt 579, 567 (Sistemas de filtración PACCAR de última generación)",
+        "eficiencia": "5.00 micras (c) al 98.7%",
+        "imagen": "https://res.cloudinary.com/gcq9p4qu/image/upload/v1793114424/productos-repuestos/fleet60.avif"
+      },
+      {
+        "codigo": "LF17541",
+        "nombre": "Filtro de Aceite",
+        "categoria": "Filtros",
+        "estado": "Disponible",
+        "descripcion": [
+          "Diámetro exterior mayor (Largest OD): 4.74 pulgadas / 120.27 mm",
+          "Longitud / Altura: 9.87 pulgadas / 250.66 mm",
+          "Tamaño de rosca (Thread Size): 1.00 1/2-1.4642 UNF 2B"
+        ],
+        "aplicacion": "Kenworth T680, T880, W990; Peterbilt 579, 567 (Motores PACCAR MX-13 EPA10/GHG14/GHG17)",
+        "eficiencia": "Estándar de alta eficiencia para aceite de lubricación.",
+        "imagen": "https://res.cloudinary.com/gcq9p4qu/image/upload/v1793114425/productos-repuestos/fleet61.avif"
+      },
+      {
+        "codigo": "LF16015",
+        "nombre": "Filtro de aceite de flujo completo y tipo roscado",
+        "categoria": "Filtros",
+        "estado": "Disponible",
+        "descripcion": [
+          "Altura total: 176,78 mm",
+          "Diámetro exterior mayor: 93,5 mm",
+          "Tamaño de rosca: M27 x 2-6H interior",
+          "Diámetro exterior de la junta: 70 mm a 71,88 mm"
+        ],
+        "aplicacion": "Dodge RAM 2500/3500 6.7L Turbo Diésel (2007.5+); Ford F-650 / F-750; Autobuses Blue Bird",
+        "eficiencia": "30 micrones (TWA del 97%)",
+        "imagen": "https://res.cloudinary.com/gcq9p4qu/image/upload/v1793114426/productos-repuestos/fleet62.avif"
+      },
+      {
+        "codigo": "LF14004",
+        "nombre": "Filtro de aceite tipo centrifugado",
+        "categoria": "Filtros",
+        "estado": "Disponible",
+        "descripcion": [
+          "Diámetro exterior (OD): Aproximadamente 122.5 mm",
+          "Altura total: Aproximadamente 235 mm.",
+          "Rosca / Conexión: 1-1/8″-16 UN-2B."
+        ],
+        "aplicacion": "Freightliner Cascadia 125; Kenworth T660, T800; Volvo VNL670 (Motor Cummins ISX)",
+        "eficiencia": "Mayor o igual al 98% bajo la norma ISO 4548.",
+        "imagen": "https://res.cloudinary.com/gcq9p4qu/image/upload/v1793114427/productos-repuestos/fleet63.avif"
+      },
+      {
+        "codigo": "LF14018 / LF17813",
+        "nombre": "Filtro ecológico de cartucho / Filtro ecológico de aceite",
+        "categoria": "Filtros",
+        "estado": "Disponible",
+        "descripcion": [
+          "Diámetro exterior mayor (OD): Aprox. 122 mm.",
+          "Altura total: Aprox. 235 mm.",
+          "Diámetro exterior (OD): 122 mm.",
+          "Altura total: 235.5 mm."
+        ],
+        "aplicacion": "Freightliner Cascadia, New Cascadia; Western Star 4900/5700 (Kit dual de filtración de aceite)",
+        "eficiencia": "Alta precisión (aprox. 10 a 20 micras según estándar de aplicación)",
+        "imagen": "https://res.cloudinary.com/gcq9p4qu/image/upload/v1793114427/productos-repuestos/fleet64.jpg"
+      },
+      {
+        "codigo": "FS20385",
+        "nombre": "Filtro separador de agua y combustible tipo cartucho",
+        "categoria": "Filtros",
+        "estado": "Disponible",
+        "descripcion": [
+          "Diámetro Interior de la Junta: 2.61 pulgadas/66.34 mm",
+          "Diámetro exterior más grander: 6.06 pulgadas/153.82 mm",
+          "Diámetro interior del extremo más grande: 2.46 pulgadas/62.60 mm",
+          "En general Altura: 9.04 pulgadas/229.62 mm"
+        ],
+        "aplicacion": "Kenworth T680, T880, W990; Peterbilt 579, 567 (Modelos con módulo de preparación de combustible)",
+        "eficiencia": "6.9 micrones absoluta.",
+        "imagen": "https://res.cloudinary.com/gcq9p4qu/image/upload/v1793114428/productos-repuestos/fleet65.avif"
+      }
+    ]
+  },
+  {
+    "marca": "HINO",
+    "subtitulo": "REPUESTOS Y FILTROS ORIGINALES HINO MOTORS",
+    "banner": "./asetts/img/productos/hin_banner.png",
+    "hero": "./asetts/img/productos/hin_nero.png",
+    "productos": [
+      {
+        "codigo": "S2340-11441",
+        "nombre": "Filtro de combustible diésel S2340-11441",
+        "categoria": "Filtros",
+        "estado": "Disponible",
+        "descripcion": [
+          "Diámetro Exterior (D 1): 82.0 mm",
+          "Diámetro Interior (D 2) = 15.0 mm",
+          "Altura Total (H) = 80.0 mm"
+        ],
+        "aplicacion": "Hino 300 Series (Dutro): Modelos 616, 716, 816 con motor Hino N04C, Hino 500 Series (FC, FD, GD, FG, GH): Equipados con motores J05E (5.1L) y J08E (7.7L).",
+        "eficiencia": "Retención de Micropartículas (99.2%+ a 5 micras): Captura contaminantes sólidos finos",
+        "imagen": "https://res.cloudinary.com/gcq9p4qu/image/upload/v1793114436/productos-repuestos/hin03.jpg"
+      },
+      {
+        "codigo": "S1560-E0110",
+        "nombre": "filtro de aceite del motor S1560-E0110",
+        "categoria": "Filtros",
+        "estado": "Disponible",
+        "descripcion": [
+          "Diámetro Exterior (D 1): 111.0 mm - 113.0 mm",
+          "Diámetro Interior (D 2) = 48.0 mm - 50.0 mm",
+          "Altura Total (H) = 200.0 mm - 203.0 mm"
+        ],
+        "aplicacion": "Hino 500 Series: FC, FD, GD, FG, GH, FM (Camiones de carga mediana y pesada), Hino 300 Series, Autobuses Hino: Chasis con motores J05E y J08E",
+        "eficiencia": "Capacidad de Retención (98%+ a 25 micras): Retiene el hollín (soot), la sílice y la limadura metálica suspendida en el aceite",
+        "imagen": "https://res.cloudinary.com/gcq9p4qu/image/upload/v1793114438/productos-repuestos/hin05.avif"
+      },
+      {
+        "codigo": "23304-EV083",
+        "nombre": "Elemento filtrante de combustible diésel 23304-EV083",
+        "categoria": "Filtros",
+        "estado": "Disponible",
+        "descripcion": [
+          "Diámetro Exterior (D 1): 111.0 mm - 113.0 mm",
+          "Diámetro Interior (D 2) = 48.0 mm - 50.0 mm",
+          "Altura Total (H) = 200.0 mm - 203.0 mm",
+          "Micraje/Rtencion: 5 a 10 micras"
+        ],
+        "aplicacion": "Hino 300 Series / Dutro: (Modelos 616, 716, 816 con motores N04C, N04C-T, W04D), Hino 500 Series",
+        "eficiencia": "Evita fugas de presión y asegurar el retorno correcto de las pastillas",
+        "imagen": "https://res.cloudinary.com/gcq9p4qu/image/upload/v1793114438/productos-repuestos/hin06.webp"
+      },
+      {
+        "codigo": "23304-EV163",
+        "nombre": "Elemento filtrante de combustible diésel 23304-EV163",
+        "categoria": "Filtros",
+        "estado": "Disponible",
+        "descripcion": [
+          "Diámetro Exterior (D 1): 92.0 mm",
+          "Diámetro Interior (D 2) = 19.0 mm - 20.0 mm",
+          "Altura Total (H) = 104.0 mm - 106.0 mm"
+        ],
+        "aplicacion": "Hino 500 Series: (Modelos FC, FD, FG, GH, FM con motores J08E 7.7L y J05E 5.1L), Hino 300 Series, Buses Hino",
+        "eficiencia": "Retención de Micropartículas: Atrapa contaminantes sólidos de hasta 2 a 4 micras",
+        "imagen": "https://res.cloudinary.com/gcq9p4qu/image/upload/v1793114439/productos-repuestos/hin07.jpg"
+      },
+      {
+        "codigo": "S17801-3380",
+        "nombre": "filtro de aire del motor Hino S17801-3380",
+        "categoria": "Filtros",
+        "estado": "Disponible",
+        "descripcion": [
+          "Largo: 238.0 mm – 280.0 mm - 282.0 mm",
+          "Ancho: 174.0 mm – 200.0 mm - 202.0 mm",
+          "Alto/Espesor: 58.0 mm – 60.0 mm",
+          "Sustitutos OEM: S17801-3380, S17801-E0050, 17801-E0050, 17801-3380A"
+        ],
+        "aplicacion": "Hino 300 Series / Dutro: Modelos 614, 714, 814, 914 (2006+), Motores: N04C (4.0L Turbo Diésel Intercooler), W04D (4.0L Diésel)",
+        "eficiencia": "Protección del Turbocompresor (99.8% de Filtración): Atrapa partículas abrasivas de sílice y hollín de hasta 3 a 5 micras",
+        "imagen": "https://res.cloudinary.com/gcq9p4qu/image/upload/v1793114440/productos-repuestos/hin08.jpg"
+      },
+      {
+        "codigo": "S17801-3390",
+        "nombre": "Filtro de aire S17801-3390",
+        "categoria": "Filtros",
+        "estado": "Disponible",
+        "descripcion": [
+          "Altura 1 (H): 427.5 mm",
+          "Altura 2 (H): 420.0 mm",
+          "Diámetro exterior 1 (OD): 110.0 mm",
+          "Diámetro exterior 2 (OD): 102.0 mm",
+          "Diámetro interior 1 (ID): 81.0 mm"
+        ],
+        "aplicacion": "Camiones Hino 500 / 1726 equipados con motor J08C (y series afines como FM235, FM260, FG235)",
+        "eficiencia": "Los filtros de aire Sakura para servicio pesado se fabrican y prueban bajo las normas ISO 5011, SAE y JIS. Esto les permite alcanzar una eficiencia acumulada superior al 99% en la captura de partículas de polvo.",
+        "imagen": "https://res.cloudinary.com/gcq9p4qu/image/upload/v1793114440/productos-repuestos/hin09.png"
+      },
+      {
+        "codigo": "3380-3390",
+        "nombre": "filtros de combustible (diésel) 3380-3390",
+        "categoria": "Filtros",
+        "estado": "Disponible",
+        "descripcion": [
+          "Micraje / Porosidad: Retención nominal de 5 a 10 micras",
+          "Juntas / Sellos: Anillos tóricos (O-Rings) de fluoroelastómero / NBR resistentes a la degradación por diésel",
+          "Equivalencias Directas: Hino 23304-EV010, Fleetguard FS19914 / FF5785, Sakura FC-13040, Donaldson P550880"
+        ],
+        "aplicacion": "Motores Hino: N04C (4.0L), J05E (5.1L), J08E (7.7L), Hino 300 Series / Dutro (XZU, XJC), Hino 500 Series / Ranger (FC, FD, FG, GH), Coaster diésel (equipado con motorización Hino N04C)",
+        "eficiencia": "Protección Anti-Cavitación e Inyectores: Aislante efectivo de microgotas de agua que provocan erosión por cavitación y agarrotamiento",
+        "imagen": "https://res.cloudinary.com/gcq9p4qu/image/upload/v1793114441/productos-repuestos/hin10.jpg"
+      },
+      {
+        "codigo": "S2340-11510",
+        "nombre": "Filtro de combustible diésel S2340-11510",
+        "categoria": "Filtros",
+        "estado": "Disponible",
+        "descripcion": [
+          "Diámetro Exterior (D 1): 82.0 mm",
+          "Diámetro Interior (D 2) = 14.0 mm - 15.0 mm",
+          "Altura Total (H) = 80.0 mm - 83.0 mm"
+        ],
+        "aplicacion": "Motores: Hino N04C (4.0L Turbo Diesel), Hino W04D (4.0L Diesel), Hino J05E / J08E (5.1L / 7.7L Turbo Diesel), Vehículos: Hino 300 Series / Dutro: (Modelos 514, 616, 716, 816, XZU), Hino 500 Series: (Modelos de carga ligera/mediana)",
+        "eficiencia": "Resistencia a la Presión e Inmersión: El medio filtrante con resina fenólica",
+        "imagen": "https://res.cloudinary.com/gcq9p4qu/image/upload/v1793114442/productos-repuestos/hin11.png"
+      },
+      {
+        "codigo": "23304-EV370",
+        "nombre": "Filtro de combustible 23304-EV370",
+        "categoria": "Filtros",
+        "estado": "Disponible",
+        "descripcion": [
+          "Diámetro Exterior (D 1): 82.0 mm",
+          "Diámetro Interior (D 2) = 14.0 mm",
+          "Altura Total (H) = 80.0 mm"
+        ],
+        "aplicacion": "Hino 300 Series / Dutro: (Motores N04C, N04C-TU, N04C-TV de 4.0L Turbo Diésel Intercooler), Hino 500 Series",
+        "eficiencia": "Retiene más del 99% de micropartículas de sílice y óxido",
+        "imagen": "https://res.cloudinary.com/gcq9p4qu/image/upload/v1793114443/productos-repuestos/hin12.png"
+      },
+      {
+        "codigo": "23304-EV350",
+        "nombre": "Elemento filtrante de combustible 23304-EV350",
+        "categoria": "Filtros",
+        "estado": "Disponible",
+        "descripcion": [
+          "Diámetro Exterior (D 1): 92.0 mm - 95.0 mm",
+          "Diámetro Interior (D 2) = 26.0 mm - 28.0 mm",
+          "Altura Total (H) = 100.0 mm - 102.0 mm"
+        ],
+        "aplicacion": "Hino 300 Series: Dutro (versiones Euro 4 / Euro 5), Hino 500 Series: FC, FD, GD, FG, GH, FM (Euro 4 / Euro 5 / Euro 6), Hino 700 Series",
+        "eficiencia": "La efectividad del repuesto original 23304-EV350 mide su capacidad real para sostener la operación del camión sin fallas en la inyección diésel",
+        "imagen": "https://res.cloudinary.com/gcq9p4qu/image/upload/v1793114444/productos-repuestos/hin13.png"
+      },
+      {
+        "codigo": "23304-78500",
+        "nombre": "Cartucho filtrante de combustible 23304-78500",
+        "categoria": "Filtros",
+        "estado": "Disponible",
+        "descripcion": [
+          "Diámetro Exterior (D 1): 82.0 mm",
+          "Diámetro Interior (D 2) = 14.0 mm - 15.0 mm",
+          "Altura Total (H) = 80.0 mm - 82.0 mm"
+        ],
+        "aplicacion": "Hino 300 Series / Dutro: (Modelos 311, 414, 514, 614, 714, 814 con motores N04C-T, N04C-U, N04C-V), Hino 500 Series",
+        "eficiencia": "Retención de Micropartículas (2 a 5 Micras): Los sistemas de inyección",
+        "imagen": "https://res.cloudinary.com/gcq9p4qu/image/upload/v1793114444/productos-repuestos/hin14.png"
+      },
+      {
+        "codigo": "15601-78140",
+        "nombre": "Filtro de aceite blindado 15601-78140",
+        "categoria": "Filtros",
+        "estado": "Disponible",
+        "descripcion": [
+          "Diámetro Exterior (D): 108.0 mm - 110.0 mm",
+          "Altura Total (H) = 148.0 mm - 150.0 mm",
+          "Rosca de montaje: 1 - 12 UNF"
+        ],
+        "aplicacion": "Hino 300 Series / Dutro: (Motores N04C, W04D, W04C), Hino 500 Series / Ranger",
+        "eficiencia": "Retención de Micropartículas: Captura partículas abrasivas de 15 a 25 micras",
+        "imagen": "https://res.cloudinary.com/gcq9p4qu/image/upload/v1793114445/productos-repuestos/hin15.webp"
+      },
+      {
+        "codigo": "23304-78260",
+        "nombre": "Cartucho filtrante de combustible diésel 23304-78260",
+        "categoria": "Filtros",
+        "estado": "Disponible",
+        "descripcion": [
+          "Diámetro Exterior (D 1): 82.0 mm - 85.0 mm",
+          "Diámetro Interior (D 2) = 14.0 mm - 15.0 mm",
+          "Altura Total (H) = 82.0 mm - 84.0 mm"
+        ],
+        "aplicacion": "Hino 300 Series / Dutro: (Modelos Du 614, 716, 816, 916 con motores N04C-T, N04C-U, N04C-VK)",
+        "eficiencia": "Retención de Micropartículas (99%+): Retiene sedimentos, barnices y óxido hasta de 3 a 5 micras",
+        "imagen": "https://res.cloudinary.com/gcq9p4qu/image/upload/v1793114446/productos-repuestos/hin16.avif"
+      },
+      {
+        "codigo": "S2340-11740",
+        "nombre": "Cartucho filtrante de combustible S2340-11740",
+        "categoria": "Filtros",
+        "estado": "Disponible",
+        "descripcion": [
+          "Diámetro Exterior (D 1): 92.0 mm",
+          "Diámetro Interior (D 2) = 26.0 mm/14.0 mm",
+          "Altura Total (H) = 130.0 mm"
+        ],
+        "aplicacion": "Hino 500 Series: (Modelos FG, GH, FM, FL, SG), Hino 700 Series: (Modelos de carga pesada y volquetes), Autobuses Hino: (Chasis de bus diésel series RK, FC, RN)",
+        "eficiencia": "etiene las trazas residuales de humedad",
+        "imagen": "https://res.cloudinary.com/gcq9p4qu/image/upload/v1793114447/productos-repuestos/hin17.jpg"
+      },
+      {
+        "codigo": "17801-78020",
+        "nombre": "Filtro de aire de motor 17801-78020",
+        "categoria": "Filtros",
+        "estado": "Disponible",
+        "descripcion": [
+          "Diámetro Exterior (D 1): 195.0 mm - 200.0 mm",
+          "Diámetro Interior (D 2) = 105.0 mm - 110.0 mm",
+          "Altura Total (H) = 330.0 mm - 340.0 mm"
+        ],
+        "aplicacion": "Hino 300 Series / Dutro: (Modelos 616, 716, 816, 916 equipados con motores N04C-T, N04C-U, N04C-V)",
+        "eficiencia": "Eficiencia de Retención (99.9%): Atrapa partículas abrasivas de sílice y hollín de hasta 3 a 5 micras",
+        "imagen": "https://res.cloudinary.com/gcq9p4qu/image/upload/v1793114447/productos-repuestos/hin18.jpg"
+      },
+      {
+        "codigo": "23304-78420",
+        "nombre": "Elemento filtrante de combustible diésel 23304-78420",
+        "categoria": "Filtros",
+        "estado": "Disponible",
+        "descripcion": [
+          "Diámetro Exterior (D 1): 95.0 mm",
+          "Diámetro Interior (D 2) = ~26.0 mm (paso interior con empacadura de nitrilo)",
+          "Altura Total (H) = 96.0 mm"
+        ],
+        "aplicacion": "Hino 300 Series: (Dutro / XZU / KDY con motores N04C, N04C-T, W04D), Hino 500 Series",
+        "eficiencia": "Retiene hasta el 99% de micropartículas de sílice, óxido y lodos de 3 a 5 micras",
+        "imagen": "https://res.cloudinary.com/gcq9p4qu/image/upload/v1793114448/productos-repuestos/hin19.avif"
+      },
+      {
+        "codigo": "17801-78110",
+        "nombre": "Filtro de aire para motor 17801-78110",
+        "categoria": "Filtros",
+        "estado": "Disponible",
+        "descripcion": [
+          "Diámetro Exterior (D 1): 235.0 mm - 240.0 mm",
+          "Diámetro Interior (D 2) = 130.0 mm - 132.0 mm",
+          "Altura Total (H) = 380.0 mm - 385.0 mm"
+        ],
+        "aplicacion": "Hino 300 / 500 Series: (Dutro, Ranger, 1017, 1324, 1524, FC, FD, FG)",
+        "eficiencia": "Retiene hasta el 99.9% de las partículas sólidas de sílice y hollín de 3 a 5 micras.",
+        "imagen": "https://res.cloudinary.com/gcq9p4qu/image/upload/v1793114448/productos-repuestos/hin20.jpg"
+      },
+      {
+        "codigo": "23304-EV550",
+        "nombre": "Cartucho filtrante de combustible diésel 23304-EV550",
+        "categoria": "Filtros",
+        "estado": "Disponible",
+        "descripcion": [
+          "Diámetro Exterior (D 1): 94.0 mm - 96.0 mm",
+          "Diámetro Interior (D 2) = 26.0 mm",
+          "Altura Total (H) = 98.0 mm - 100.0 mm"
+        ],
+        "aplicacion": "Motores Hino: N04C, J05E, J08E (Turbo Diésel Intercooler Euro 4 / Euro 5), Hino 300 Series (Dutro): 616, 716, 816, 916, Hino 500 Series (FC, FD, GD, FG, GH, FM): Modelos de carga mediana e industrial",
+        "eficiencia": "Aísla las emulsiones de agua disueltas en el diésel, evitando la corrosión interna",
+        "imagen": "https://res.cloudinary.com/gcq9p4qu/image/upload/v1793114449/productos-repuestos/hin21.avif"
+      },
+      {
+        "codigo": "23304-EV470",
+        "nombre": "Elemento filtrante de combustible diésel 23304-EV470",
+        "categoria": "Filtros",
+        "estado": "Disponible",
+        "descripcion": [
+          "Diámetro Exterior (D 1): 84.0 mm - 86.0 mm",
+          "Diámetro Interior (D 2) = 14.0 mm - 15.0 mm",
+          "Altura Total (H) = 82.0 mm - 85.0 mm"
+        ],
+        "aplicacion": "Hino 300 Series / Dutro: (Motores N04C, W04D, J05E), Hino 500 Series",
+        "eficiencia": "Protección Contra Desgaste Abrasivo (Eficacia del 99%+)",
+        "imagen": "https://res.cloudinary.com/gcq9p4qu/image/upload/v1793114450/productos-repuestos/hin22.jpg"
+      },
+      {
+        "codigo": "23304-78091",
+        "nombre": "Cartucho filtrante de combustible 23304-78091",
+        "categoria": "Filtros",
+        "estado": "Disponible",
+        "descripcion": [
+          "Diámetro Exterior (D 1): 82.0 mm - 85.0 mm",
+          "Diámetro Interior (D 2) = 14.0 mm - 15.0 mm",
+          "Altura Total (H) = 80.0 mm - 83.0 mm"
+        ],
+        "aplicacion": "Hino 300 Series / Dutro: (Motores N04C, W04D, J05E)",
+        "eficiencia": "Detiene las gotas de agua libre suspendidas en el diésel y retiene micropartículas sólidas de hasta 5 micras",
+        "imagen": "https://res.cloudinary.com/gcq9p4qu/image/upload/v1793114451/productos-repuestos/hin23.png"
+      },
+      {
+        "codigo": "23304-78221",
+        "nombre": "Cartucho filtrante de combustible diésel 23304-78221",
+        "categoria": "Filtros",
+        "estado": "Disponible",
+        "descripcion": [
+          "Diámetro Exterior (D 1): 82.0 mm - 85.0 mm",
+          "Diámetro Interior (D 2) = 14.0 mm - 15.0 mm",
+          "Altura Total (H) = 80.0 mm - 82.0 mm"
+        ],
+        "aplicacion": "Hino 300 Series / Dutro: (Motores N04C-T, N04C-TU, W04D / Euro 3, Euro 4 y Euro 5), Hino 500 Series",
+        "eficiencia": "Protección del Sistema Common Rail (99.5%+ en micraje fino)",
+        "imagen": "https://res.cloudinary.com/gcq9p4qu/image/upload/v1793114453/productos-repuestos/hnn24.jpg"
+      }
+    ]
+  }
+]

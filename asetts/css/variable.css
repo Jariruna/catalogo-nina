@@ -1,0 +1,19 @@
+:root {
+  /* Paleta Corporativa NINA */
+  --color-orange: #F08B43;
+  --color-dark-orange: #D7732A;
+  --color-blue: #0047AB;
+  --color-dark-blue: #003380;
+  --color-yellow: #ECAE40;
+  --color-black: #111111;
+  --color-white: #FFFFFF;
+  --color-bg-grey: #F8F9FA;
+  --color-border: #E5E7EB;
+
+  /* Tipografía */
+  --font-main: 'Segoe UI', system-ui, -apple-system, sans-serif;
+
+  /* Dimensiones Estándar A4 */
+  --page-width: 210mm;
+  --page-height: 297mm;
+}
