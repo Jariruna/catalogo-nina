@@ -196,32 +196,60 @@ document.addEventListener('DOMContentLoaded', async () => {
     });
   }
 
-  // Inyección de Interfaces UI (Botones flotantes y Modales de Admin)
+  // Inyección de Interfaces UI (Buscador flotante, botón PDF y Modales de Admin)
   function injectAdminUI() {
     const adminHTML = `
       <style>
         @media print {
           #global-download-pdf-btn,
-          #mobile-admin-trigger-btn {
+          #public-search-container {
             display: none !important;
           }
         }
-        /* Ocultar botón de admin móvil en pantallas de PC */
-        @media (min-width: 769px) {
-          #mobile-admin-trigger-btn {
-            display: none !important;
+        /* Estilo del Buscador Discreto Público */
+        #public-search-container {
+          position: fixed;
+          top: 20px;
+          left: 20px;
+          z-index: 9998;
+          background: rgba(255, 255, 255, 0.95);
+          backdrop-filter: blur(6px);
+          padding: 8px 14px;
+          border-radius: 25px;
+          box-shadow: 0 4px 12px rgba(0,0,0,0.15);
+          border: 1px solid #e2e8f0;
+          display: flex;
+          align-items: center;
+          gap: 8px;
+        }
+        #public-search-input {
+          border: none;
+          outline: none;
+          background: transparent;
+          font-size: 0.85rem;
+          width: 180px;
+          font-family: var(--font-main);
+          color: #333;
+        }
+        #public-search-input::placeholder {
+          color: #94a3b8;
+        }
+        @media (max-width: 600px) {
+          #public-search-input {
+            width: 120px;
           }
         }
       </style>
 
+      <!-- Buscador Discreto Público -->
+      <div id="public-search-container">
+        <i class="fa-solid fa-magnifying-glass" style="color: #64748b; font-size: 0.85rem;"></i>
+        <input type="text" id="public-search-input" placeholder="Buscar producto...">
+      </div>
+
       <!-- Botón Flotante Público para Descargar PDF (Visible para todos, se oculta al imprimir) -->
       <button id="global-download-pdf-btn" title="Descargar o Imprimir Catálogo en PDF" style="position: fixed; top: 20px; right: 20px; background: #dc2626; color: white; border: none; padding: 10px 18px; border-radius: 30px; cursor: pointer; font-weight: bold; z-index: 9998; box-shadow: 0 4px 12px rgba(0,0,0,0.3); display: flex; align-items: center; gap: 8px; font-family: var(--font-main);">
         <i class="fa-solid fa-file-pdf"></i> <span>Descargar PDF</span>
-      </button>
-
-      <!-- Botón Flotante Exclusivo Móvil para abrir Panel de Admin -->
-      <button id="mobile-admin-trigger-btn" title="Panel Administrador" style="position: fixed; bottom: 20px; left: 20px; background: #0047AB; color: white; border: none; width: 48px; height: 48px; border-radius: 50%; cursor: pointer; font-size: 1.2rem; z-index: 99998; box-shadow: 0 4px 14px rgba(0,0,0,0.35); display: flex; align-items: center; justify-content: center;">
-        ⚙️
       </button>
 
       <!-- Modal de Login (Administrador) -->
@@ -560,12 +588,6 @@ document.addEventListener('DOMContentLoaded', async () => {
       }
     });
 
-    // Evento para el botón flotante de móvil
-    const mobileAdminBtn = document.getElementById('mobile-admin-trigger-btn');
-    if (mobileAdminBtn) {
-      mobileAdminBtn.addEventListener('click', openAdminAuth);
-    }
-
     function openAdminAuth() {
       if (sessionStorage.getItem('nina_admin_authenticated') === 'true') {
         renderAdminTable();
@@ -613,7 +635,7 @@ document.addEventListener('DOMContentLoaded', async () => {
     });
   }
 
-  // Eventos generales del Panel Administrador y Botón PDF Público
+  // Eventos generales del Panel Administrador y Buscador Público
   function initAdminEvents() {
     const adminModal = document.getElementById('admin-modal');
     const editModal = document.getElementById('edit-modal');
@@ -638,6 +660,65 @@ document.addEventListener('DOMContentLoaded', async () => {
     closeEdit.addEventListener('click', () => {
       editModal.style.display = 'none';
     });
+
+    // Lógica inteligente y global para el Buscador Discreto Público
+    const publicSearchInput = document.getElementById('public-search-input');
+    if (publicSearchInput) {
+      publicSearchInput.addEventListener('input', (e) => {
+        const query = e.target.value.toLowerCase().trim();
+        const pages = document.querySelectorAll('#catalog-container .page');
+
+        pages.forEach(page => {
+          // Omitir la portada principal del filtrado de productos
+          if (page.classList.contains('cover-page')) {
+            page.style.display = query.length > 0 ? 'none' : '';
+            return;
+          }
+
+          // Si es una página divisoria de marca
+          if (page.classList.contains('brand-divider-page')) {
+            if (query.length > 0) {
+              const marcaDivider = page.querySelector('.brand-divider-title')?.textContent.toLowerCase() || '';
+              page.style.display = marcaDivider.includes(query) ? '' : 'none';
+            } else {
+              page.style.display = '';
+            }
+            return;
+          }
+
+          // Para páginas normales de productos: leemos tanto la tarjeta como la marca de la cabecera (.header-tag)
+          const marcaHeader = page.querySelector('.header-tag')?.textContent.toLowerCase() || '';
+          const cards = page.querySelectorAll('.card');
+          let cardsMatchCount = 0;
+
+          cards.forEach(card => {
+            const cardText = card.textContent.toLowerCase();
+            // La tarjeta coincide si el texto incluye la búsqueda O si el nombre de la marca de la página coincide
+            const coincide = cardText.includes(query) || marcaHeader.includes(query);
+
+            if (coincide && query.length > 0) {
+              card.style.display = '';
+              cardsMatchCount++;
+            } else if (query.length === 0) {
+              card.style.display = '';
+            } else {
+              card.style.display = 'none';
+            }
+          });
+
+          // Si la página contiene productos que coinciden O la marca entera coincide, se muestra completa; si no, se oculta
+          if (query.length === 0 || cardsMatchCount > 0 || marcaHeader.includes(query)) {
+            page.style.display = '';
+            // Si la marca entera coincide, aseguramos que todas las tarjetas de esta página se muestren
+            if (marcaHeader.includes(query)) {
+              cards.forEach(card => card.style.display = '');
+            }
+          } else {
+            page.style.display = 'none';
+          }
+        });
+      });
+    }
 
     // Lógica del Buscador en tiempo real en el Panel de Administración
     const adminSearchInput = document.getElementById('admin-search-input');
